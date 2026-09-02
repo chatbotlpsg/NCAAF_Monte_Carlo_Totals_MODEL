@@ -1,23 +1,23 @@
-team,espn_team_id,roster_continuity,roster_known,qb_candidate_count,qb_candidates
-Rutgers Scarlet Knights,164,0.0,True,2,Sean Ashenfelder|Dylan Lonergan
-UCF Knights,2116,0.0,True,5,Kaleb Annett|Alonza Barnett III|Dante Carr|Keyone Jenkins|Rocco Marriott
-Wake Forest Demon Deacons,154,0.0,True,5,Billy Johnson|Gannon Jones|Grant Lawless|Gio Lopez|Steele Pizzella
-Delaware Blue Hens,48,0.0,True,6,EJ Archield Jr.|Tyler Bell|Nick Minicucci|Braden Streeter|Sean Sutherland|Riley Trujillo
-Kennesaw State Owls,338,0.0,True,4,Rickie Collins|Jamarcus Harrison|Julian Lapene|Landon Varnes
-Buffalo Bulls,2084,0.0,True,4,Mason Cumbie|Jake Forburger|Elijah Holmes|Qur'An McNeill
-Missouri Tigers,142,0.0,True,4,Brett Brown|Nick Evers|Gavin Sidwar|Austin Simmons
-Georgia Tech Yellow Jackets,59,0.0,True,5,Grady Adamson|Cole Bergeron|Ben Guthrie|Graham Knowles|Alberto Mendoza
-Minnesota Golden Gophers,135,0.0,True,5,Owen Lansu|Drake Lindsey|Michael Merdinger|Brady Palmer|Max Shikenjanski
-Utah Utes,254,0.0,True,5,Kane Archer|Devon Dampier|Byrd Ficklin|Michael Johnson|Brandon Rose
-Illinois Fighting Illini,356,0.0,True,4,Carson Boyd|Michael Clayton II|Dane Eisenmenger|Katin Houser
-Massachusetts Minutemen,113,0.0,True,5,Logan Inagawa|Aedan McCarthy|Ty McCutcheon|Will Perry|William Watson III
-Bethune-Cookman Wildcats,2065,0.0,True,5,Tyler Jefferson|Amari Jones|Joel Morris|Cordan Patterson|Jaydis Wiley
-Akron Zips,2006,0.0,True,5,Semaj Beals|Johnny Brookhart|Cibastian Broughton|Reese Poffenbarger|Brayden Roggow
-Merrimack Warriors,2771,0.0,True,5,Jake Attaway|Casey Grusser|AJ Hairston Jr|Cole Meehan|Michael O'Connor
-West Georgia Wolves,2698,0.0,True,4,Jaevion Elliott|Colton Fitzgerald|Collin Hurst|Luke Marble
-UAlbany Great Danes,399,0.0,True,5,Kai Coln|Peyton Frontino|Levi Kulik|Aidan Semo|Van Weber
-Arkansas-Pine Bluff Golden Lions,2029,0.0,True,7,Dorien Bowers|Garrison Davis|Champion Edwards|Tyler Hampton|Landon Holcomb|Jack Schierholz|Zayden Walker
-Colorado Buffaloes,38,0.0,True,3,Julian Lewis|Dominiq Ponder|Kaneal Sweetwyne
-Eastern Illinois Panthers,2197,0.0,True,5,Logan Duhachek|Payton Faker|Cole LaCrue|Jazel Riley IV|Jeremiah Salem
-Idaho Vandals,70,0.0,True,4,Holden Bea|Israel Carter|Blitz McCarty|Sawyer Teeney
-UAB Blazers,5,0.0,True,5,Ryder Burton|Vanden Dugger|Cam Jennings|Adrian Posse|Nate Rogers
+team,display_team,espn_team_id,roster_continuity,roster_known,qb_candidate_count,qb_candidates
+Rutgers,Rutgers Scarlet Knights,164,0.0,True,2,Sean Ashenfelder|Dylan Lonergan
+UCF,UCF Knights,2116,0.0,True,5,Kaleb Annett|Alonza Barnett III|Dante Carr|Keyone Jenkins|Rocco Marriott
+Wake Forest,Wake Forest Demon Deacons,154,0.0,True,5,Billy Johnson|Gannon Jones|Grant Lawless|Gio Lopez|Steele Pizzella
+Delaware,Delaware Blue Hens,48,0.0,True,6,EJ Archield Jr.|Tyler Bell|Nick Minicucci|Braden Streeter|Sean Sutherland|Riley Trujillo
+Kennesaw State,Kennesaw State Owls,338,0.0,True,4,Rickie Collins|Jamarcus Harrison|Julian Lapene|Landon Varnes
+Buffalo,Buffalo Bulls,2084,0.0,True,4,Mason Cumbie|Jake Forburger|Elijah Holmes|Qur'An McNeill
+Missouri,Missouri Tigers,142,0.0,True,4,Brett Brown|Nick Evers|Gavin Sidwar|Austin Simmons
+Georgia Tech,Georgia Tech Yellow Jackets,59,0.0,True,5,Grady Adamson|Cole Bergeron|Ben Guthrie|Graham Knowles|Alberto Mendoza
+Minnesota,Minnesota Golden Gophers,135,0.0,True,5,Owen Lansu|Drake Lindsey|Michael Merdinger|Brady Palmer|Max Shikenjanski
+Utah,Utah Utes,254,0.0,True,5,Kane Archer|Devon Dampier|Byrd Ficklin|Michael Johnson|Brandon Rose
+Illinois,Illinois Fighting Illini,356,0.0,True,4,Carson Boyd|Michael Clayton II|Dane Eisenmenger|Katin Houser
+Massachusetts,Massachusetts Minutemen,113,0.0,True,5,Logan Inagawa|Aedan McCarthy|Ty McCutcheon|Will Perry|William Watson III
+Bethune-Cookman,Bethune-Cookman Wildcats,2065,0.0,True,5,Tyler Jefferson|Amari Jones|Joel Morris|Cordan Patterson|Jaydis Wiley
+Akron,Akron Zips,2006,0.0,True,5,Semaj Beals|Johnny Brookhart|Cibastian Broughton|Reese Poffenbarger|Brayden Roggow
+Merrimack,Merrimack Warriors,2771,0.0,True,5,Jake Attaway|Casey Grusser|AJ Hairston Jr|Cole Meehan|Michael O'Connor
+West Georgia,West Georgia Wolves,2698,0.0,True,4,Jaevion Elliott|Colton Fitzgerald|Collin Hurst|Luke Marble
+UAlbany,UAlbany Great Danes,399,0.0,True,5,Kai Coln|Peyton Frontino|Levi Kulik|Aidan Semo|Van Weber
+Arkansas-Pine Bluff,Arkansas-Pine Bluff Golden Lions,2029,0.0,True,7,Dorien Bowers|Garrison Davis|Champion Edwards|Tyler Hampton|Landon Holcomb|Jack Schierholz|Zayden Walker
+Colorado,Colorado Buffaloes,38,0.0,True,3,Julian Lewis|Dominiq Ponder|Kaneal Sweetwyne
+Eastern Illinois,Eastern Illinois Panthers,2197,0.0,True,5,Logan Duhachek|Payton Faker|Cole LaCrue|Jazel Riley IV|Jeremiah Salem
+Idaho,Idaho Vandals,70,0.0,True,4,Holden Bea|Israel Carter|Blitz McCarty|Sawyer Teeney
+UAB,UAB Blazers,5,0.0,True,5,Ryder Burton|Vanden Dugger|Cam Jennings|Adrian Posse|Nate Rogers

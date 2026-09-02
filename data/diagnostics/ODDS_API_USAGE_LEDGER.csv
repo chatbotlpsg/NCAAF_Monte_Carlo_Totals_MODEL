@@ -1,0 +1,12 @@
+timestamp,endpoint,sport,markets,regions_bookmakers,event_id,cost_last,credits_used,credits_remaining,run_id
+2026-09-02T22:28:12Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,6,494,
+2026-09-02T22:37:19Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,6,494,
+2026-09-02T22:37:20Z,sports/americanfootball_ncaaf/odds,americanfootball_ncaaf,totals,"draftkings,fanduel,betmgm,caesars,betrivers",,1,7,493,
+2026-09-02T22:37:21Z,sports/americanfootball_ncaaf/events/1d6daad1c93bf7e5ae16be1db12e27d5/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",1d6daad1c93bf7e5ae16be1db12e27d5,2,9,491,
+2026-09-02T22:37:21Z,sports/americanfootball_ncaaf/events/f089e3d943a34a9c4fe1808568b96529/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",f089e3d943a34a9c4fe1808568b96529,2,11,489,
+2026-09-02T22:37:21Z,sports/americanfootball_ncaaf/events/64cf9eedef7f4c7a764860a59f3c4329/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",64cf9eedef7f4c7a764860a59f3c4329,2,13,487,
+2026-09-02T22:37:22Z,sports/americanfootball_ncaaf/events/1697069330d0343bdf7930ac0b0c3863/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",1697069330d0343bdf7930ac0b0c3863,2,15,485,
+2026-09-02T22:37:22Z,sports/americanfootball_ncaaf/events/018e668269a3b5dc4055758ca86b1062/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",018e668269a3b5dc4055758ca86b1062,2,17,483,
+2026-09-02T22:37:22Z,sports/americanfootball_ncaaf/events/e746bf44bc7bb95a7686770723882d70/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",e746bf44bc7bb95a7686770723882d70,2,19,481,
+2026-09-02T22:37:23Z,sports/americanfootball_ncaaf/events/d9f49d1967af91e2aade42979e8c65c8/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",d9f49d1967af91e2aade42979e8c65c8,2,21,479,
+2026-09-02T22:37:23Z,sports/americanfootball_ncaaf/events/99279326548a5f5399cc9a2efe27a057/odds,americanfootball_ncaaf,"team_totals,totals_h1","draftkings,fanduel,betmgm,caesars,betrivers",99279326548a5f5399cc9a2efe27a057,2,23,477,

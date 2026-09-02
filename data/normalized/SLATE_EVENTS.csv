@@ -1,12 +1,12 @@
-espn_event_id,kickoff_utc,home_team,away_team,espn_home_team_id,espn_away_team_id,venue,neutral_site,status,odds_event_id,aita_event_id
-401858423,2026-09-03T22:00Z,Rutgers Scarlet Knights,Massachusetts Minutemen,164,113,SHI Stadium,False,STATUS_SCHEDULED,,AITA_2026-09-03_001
-401856767,2026-09-03T23:00Z,UCF Knights,Bethune-Cookman Wildcats,2116,2065,Acrisure Bounce House,False,STATUS_SCHEDULED,d9f49d1967af91e2aade42979e8c65c8,AITA_2026-09-03_002
-401858204,2026-09-03T23:00Z,Wake Forest Demon Deacons,Akron Zips,154,2006,Allegacy Federal Credit Union Stadium,False,STATUS_SCHEDULED,f089e3d943a34a9c4fe1808568b96529,AITA_2026-09-03_003
-401864424,2026-09-03T23:00Z,Delaware Blue Hens,Merrimack Warriors,48,2771,Delaware Stadium,False,STATUS_SCHEDULED,99279326548a5f5399cc9a2efe27a057,AITA_2026-09-03_004
-401864425,2026-09-03T23:00Z,Kennesaw State Owls,West Georgia Wolves,338,2698,Walens Family Field at Fifth Third Stadium,False,STATUS_SCHEDULED,018e668269a3b5dc4055758ca86b1062,AITA_2026-09-03_005
-401866409,2026-09-03T23:00Z,Buffalo Bulls,UAlbany Great Danes,2084,399,Broadview Stadium,False,STATUS_SCHEDULED,,AITA_2026-09-03_006
-401856663,2026-09-04T00:00Z,Missouri Tigers,Arkansas-Pine Bluff Golden Lions,142,2029,Memorial Stadium,False,STATUS_SCHEDULED,64cf9eedef7f4c7a764860a59f3c4329,AITA_2026-09-03_007
-401856776,2026-09-04T00:00Z,Georgia Tech Yellow Jackets,Colorado Buffaloes,59,38,Bobby Dodd Stadium,False,STATUS_SCHEDULED,1d6daad1c93bf7e5ae16be1db12e27d5,AITA_2026-09-03_008
-401858422,2026-09-04T00:00Z,Minnesota Golden Gophers,Eastern Illinois Panthers,135,2197,Huntington Bank Stadium,False,STATUS_SCHEDULED,e746bf44bc7bb95a7686770723882d70,AITA_2026-09-03_009
-401856768,2026-09-04T01:00Z,Utah Utes,Idaho Vandals,254,70,Rice-Eccles Stadium,False,STATUS_SCHEDULED,86e3c86de584357bb263fa4ae819ed30,AITA_2026-09-03_010
-401858424,2026-09-04T01:00Z,Illinois Fighting Illini,UAB Blazers,356,5,Gies Memorial Stadium,False,STATUS_SCHEDULED,1697069330d0343bdf7930ac0b0c3863,AITA_2026-09-03_011
+espn_event_id,kickoff_utc,home_team,away_team,home_team_model,away_team_model,home_team_abbreviation,away_team_abbreviation,espn_home_team_id,espn_away_team_id,venue,neutral_site,status,odds_event_id,market_mapping_status,aita_event_id
+401858423,2026-09-03T22:00Z,Rutgers Scarlet Knights,Massachusetts Minutemen,Rutgers,Massachusetts,RUTG,MASS,164,113,SHI Stadium,False,STATUS_SCHEDULED,,NO_ODDS_EVENT,AITA_2026-09-03_001
+401856767,2026-09-03T23:00Z,UCF Knights,Bethune-Cookman Wildcats,UCF,Bethune-Cookman,UCF,BCU,2116,2065,Acrisure Bounce House,False,STATUS_SCHEDULED,d9f49d1967af91e2aade42979e8c65c8,MAPPED,AITA_2026-09-03_002
+401858204,2026-09-03T23:00Z,Wake Forest Demon Deacons,Akron Zips,Wake Forest,Akron,WAKE,AKR,154,2006,Allegacy Federal Credit Union Stadium,False,STATUS_SCHEDULED,f089e3d943a34a9c4fe1808568b96529,MAPPED,AITA_2026-09-03_003
+401864424,2026-09-03T23:00Z,Delaware Blue Hens,Merrimack Warriors,Delaware,Merrimack,DEL,MRMK,48,2771,Delaware Stadium,False,STATUS_SCHEDULED,99279326548a5f5399cc9a2efe27a057,MAPPED,AITA_2026-09-03_004
+401864425,2026-09-03T23:00Z,Kennesaw State Owls,West Georgia Wolves,Kennesaw State,West Georgia,KENN,WES,338,2698,Walens Family Field at Fifth Third Stadium,False,STATUS_SCHEDULED,018e668269a3b5dc4055758ca86b1062,MAPPED,AITA_2026-09-03_005
+401866409,2026-09-03T23:00Z,Buffalo Bulls,UAlbany Great Danes,Buffalo,UAlbany,BUFF,ALB,2084,399,Broadview Stadium,False,STATUS_SCHEDULED,,NO_ODDS_EVENT,AITA_2026-09-03_006
+401856663,2026-09-04T00:00Z,Missouri Tigers,Arkansas-Pine Bluff Golden Lions,Missouri,Arkansas-Pine Bluff,MIZ,UAPB,142,2029,Memorial Stadium,False,STATUS_SCHEDULED,64cf9eedef7f4c7a764860a59f3c4329,MAPPED,AITA_2026-09-03_007
+401856776,2026-09-04T00:00Z,Georgia Tech Yellow Jackets,Colorado Buffaloes,Georgia Tech,Colorado,GT,COLO,59,38,Bobby Dodd Stadium,False,STATUS_SCHEDULED,1d6daad1c93bf7e5ae16be1db12e27d5,MAPPED,AITA_2026-09-03_008
+401858422,2026-09-04T00:00Z,Minnesota Golden Gophers,Eastern Illinois Panthers,Minnesota,Eastern Illinois,MINN,EIU,135,2197,Huntington Bank Stadium,False,STATUS_SCHEDULED,e746bf44bc7bb95a7686770723882d70,MAPPED,AITA_2026-09-03_009
+401856768,2026-09-04T01:00Z,Utah Utes,Idaho Vandals,Utah,Idaho,UTAH,IDHO,254,70,Rice-Eccles Stadium,False,STATUS_SCHEDULED,,NO_ODDS_EVENT,AITA_2026-09-03_010
+401858424,2026-09-04T01:00Z,Illinois Fighting Illini,UAB Blazers,Illinois,UAB,ILL,UAB,356,5,Gies Memorial Stadium,False,STATUS_SCHEDULED,1697069330d0343bdf7930ac0b0c3863,MAPPED,AITA_2026-09-03_011
