@@ -1,0 +1,51 @@
+season: 2026
+sport_key: americanfootball_ncaaf
+model_version: ncaaf_mc_totals_v1.0.0
+pipeline_version: 1.0.0
+feature_version: ncaaf_features_v1
+simulation:
+  seed: 20260901
+  production_count: 100000
+  final_board_count: 250000
+  verification_count: 500000
+  batch_size: 25000
+  convergence_tolerance: 0.0075
+  total_curve_min: 30.5
+  total_curve_max: 90.5
+  total_curve_step: 1.0
+  team_total_min: 7.5
+  team_total_max: 60.5
+  team_total_step: 1.0
+  h1_total_min: 14.5
+  h1_total_max: 48.5
+  h1_total_step: 1.0
+odds:
+  region: us
+  bookmakers: [draftkings, fanduel, betmgm, caesars, betrivers]
+  approved_slate_markets: [totals]
+  approved_derivative_markets: [team_totals, totals_h1]
+  max_derivative_events_per_run: 12
+  minimum_credits_remaining: 100
+  weekly_soft_budget: 90
+  monthly_soft_budget: 400
+  stale_minutes: 30
+  close_stale_minutes: 10
+blend:
+  early_season_model_weight: 0.55
+  mature_model_weight: 0.72
+  low_confidence_model_weight: 0.45
+  conservative_shrink_floor: 0.35
+risk:
+  quant_elite_min_ev: 0.06
+  quant_value_min_ev: 0.025
+  quant_watch_min_ev: 0.005
+  elite_min_confidence: 82
+  value_min_confidence: 72
+  max_same_game_correlation: 0.80
+  max_fractional_kelly_input: 0.50
+  default_fractional_kelly: 0.25
+sources:
+  espn_base: https://site.api.espn.com/apis/site/v2/sports/football/college-football
+  cfbd_base: https://api.collegefootballdata.com
+  odds_base: https://api.the-odds-api.com/v4
+  weather_base: https://api.open-meteo.com/v1/forecast

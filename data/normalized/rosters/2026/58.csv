@@ -1,0 +1,101 @@
+espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
+58,2026,5220516,Jaylin Acevedo,OL,65,Sophomore,"6' 4""",310 lbs,True
+58,2026,4570035,Jaden Alexis,WR,12,Senior,"6' 0""",200 lbs,True
+58,2026,5212618,Colin Bellomy,OL,76,Freshman,"6' 7""",284 lbs,True
+58,2026,5079339,Jayden Bradford,QB,16,Sophomore,"6' 0""",195 lbs,True
+58,2026,5125521,Arhmad Branch,WR,4,Junior,"6' 0""",185 lbs,True
+58,2026,5190738,Braden Carter,OL,54,Sophomore,"6' 6""",295 lbs,True
+58,2026,5156110,Kade Caton,TE,85,Sophomore,"6' 5""",250 lbs,True
+58,2026,5300511,Luke Clyburn,TE,87,Senior,"6' 7""",255 lbs,True
+58,2026,5215539,Khalil Collins,OL,60,Freshman,"6' 1""",305 lbs,True
+58,2026,5154559,Jason Collins Jr.,RB,2,Junior,"5' 9""",190 lbs,True
+58,2026,4683720,Caleb Cook,OL,78,Senior,"6' 3""",315 lbs,True
+58,2026,5232131,KJ Cooper,QB,10,Senior,"6' 5""",225 lbs,True
+58,2026,5215625,Tayte Crable,TE,81,Freshman,"6' 5""",235 lbs,True
+58,2026,5085507,D.J. Crowther,RB,5,Senior,"5' 11""",215 lbs,True
+58,2026,5117848,Evan Dangler,TE,47,Senior,"6' 3""",245 lbs,True
+58,2026,5293891,Devin Davis,OL,59,Senior,"6' 3""",310 lbs,True
+58,2026,5170238,Jayden Davis,WR,27,Junior,"5' 10""",185 lbs,True
+58,2026,5154544,Kahari Finley,OL,71,Senior,"6' 5""",310 lbs,True
+58,2026,5290559,Jayson Franklin,RB,25,Freshman,"5' 11""",205 lbs,True
+58,2026,5218443,Chase Garnett,RB,22,Freshman,"5' 9""",205 lbs,True
+58,2026,4869252,Jaron Glover,WR,7,Senior,"6' 1""",208 lbs,True
+58,2026,5164643,Gerrick Gordon Jr.,OL,70,Freshman,"6' 4""",295 lbs,True
+58,2026,4726128,Ethan Green,OL,79,Senior,"6' 7""",322 lbs,True
+58,2026,5141482,Caleb Harris,OL,73,Freshman,"6' 4""",280 lbs,True
+58,2026,5162730,Jordan Harrison,OL,74,Freshman,"6' 2""",300 lbs,True
+58,2026,5085733,Cash Hudson,OL,72,Senior,"6' 3""",300 lbs,True
+58,2026,5193089,Alvon Isaac,RB,15,Sophomore,"5' 9""",190 lbs,True
+58,2026,4923293,James Jenkins,OL,55,Junior,"6' 5""",305 lbs,True
+58,2026,5218243,Jeremiah Johnson,RB,30,Sophomore,"5' 11""",214 lbs,True
+58,2026,5296023,Tray Kinkle,RB,24,Sophomore,"5' 11""",200 lbs,True
+58,2026,5079542,Luke Kromenhoek,QB,17,Sophomore,"6' 4""",220 lbs,True
+58,2026,5216580,Brandon Kubay,TE,88,Freshman,"6' 3""",242 lbs,True
+58,2026,5219918,TJ Lawrence,OL,58,Sophomore,"6' 5""",305 lbs,True
+58,2026,5287644,Gabe Legrand,WR,82,Freshman,"6' 3""",195 lbs,True
+58,2026,5387605,Connor Mathews,RB,32,Freshman,"5' 8""",205 lbs,True
+58,2026,5141804,Teriyan Morman,OL,66,Sophomore,"6' 5""",355 lbs,True
+58,2026,5083068,Kenny Odom,WR,18,Senior,"5' 10""",178 lbs,True
+58,2026,5126532,Arkese Parks,WR,14,Sophomore,"6' 2""",175 lbs,True
+58,2026,5146576,Joshua Porter,WR,80,Junior,"6' 0""",193 lbs,True
+58,2026,4826505,Mudia Reuben,WR,6,Senior,"6' 2""",210 lbs,True
+58,2026,5279906,Dmari Roberts,WR,84,Freshman,"6' 3""",169 lbs,True
+58,2026,4870927,Bryson Rodgers,WR,1,Junior,"6' 2""",192 lbs,True
+58,2026,4870941,Cameron Seldon,WR,0,Senior,"6' 1""",215 lbs,True
+58,2026,4430711,Thomas Shrader,OL,67,Senior,"6' 5""",312 lbs,True
+58,2026,4950550,JeyQuan Smith,WR,19,Junior,"5' 10""",190 lbs,True
+58,2026,4869390,Wyatt Sullivan,TE,8,Senior,"6' 4""",245 lbs,True
+58,2026,5287856,Lorenzo Barnes,LB,30,Freshman,"6' 3""",210 lbs,True
+58,2026,4685258,Tayvion Beasley,DB,15,Senior,"5' 10""",185 lbs,True
+58,2026,5327617,Keyshaun Birks,CB,34,Freshman,"6' 1""",180 lbs,True
+58,2026,5216548,DeAngelo Bowden,LB,36,Freshman,"6' 0""",220 lbs,True
+58,2026,5219636,Israel Boyce,S,9,Junior,"6' 0""",195 lbs,True
+58,2026,5228109,George Brown IV,DB,41,Sophomore,"5' 10""",183 lbs,True
+58,2026,5032141,Za'Quan Bryan,CB,3,Junior,"5' 10""",190 lbs,True
+58,2026,5198307,CJ Cresser Jr.,S,26,Freshman,"6' 0""",197 lbs,True
+58,2026,5301389,Major Dillard,DT,77,Senior,"6' 2""",330 lbs,True
+58,2026,5148634,Amarion Fortenberry,CB,8,Junior,"5' 10""",188 lbs,True
+58,2026,5147170,Teddy Foster,CB,16,Junior,"6' 0""",188 lbs,True
+58,2026,5387607,Iverson Garcia-Ponce,DL,95,Freshman,"6' 2""",305 lbs,True
+58,2026,5257032,Demetrius Geathers Jr.,LB,32,Freshman,"6' 3""",225 lbs,True
+58,2026,5141462,Jermichael Gillis,S,27,Freshman,"6' 1""",178 lbs,True
+58,2026,5146385,Jahari Grant,DL,99,Junior,"6' 2""",310 lbs,True
+58,2026,5079491,Zavier Hamilton,LB,25,Sophomore,"6' 2""",230 lbs,True
+58,2026,4870724,Michael Harris,LB,54,Junior,"6' 0""",223 lbs,True
+58,2026,4870732,Cedrick Hawkins Jr.,S,23,Junior,"6' 0""",192 lbs,True
+58,2026,4685372,C.J. Hicks,DE,1,Senior,"6' 3""",240 lbs,True
+58,2026,5079509,Rodney Hill,LB,6,Junior,"5' 10""",225 lbs,True
+58,2026,4870828,Grayson Howard,LB,0,Junior,"6' 4""",240 lbs,True
+58,2026,5121711,Ayden Jackson,DB,5,Senior,"5' 11""",190 lbs,True
+58,2026,5228106,Daron Jean,CB,39,Sophomore,"5' 10""",185 lbs,True
+58,2026,5146883,Ryan Jenkins,DT,28,Junior,"6' 4""",275 lbs,True
+58,2026,5158980,Amari Jones,S,24,Freshman,"6' 0""",180 lbs,True
+58,2026,5210162,Eli Jones,DE,14,Freshman,"6' 3""",255 lbs,True
+58,2026,4901423,Terrell Jones,DE,90,Senior,"6' 5""",270 lbs,True
+58,2026,5198308,Dennis King III,LB,44,Freshman,"6' 2""",225 lbs,True
+58,2026,5219024,A'mon Lane-Ganus,S,20,Sophomore,"5' 10""",190 lbs,True
+58,2026,5210230,Gavin Leach,LB,53,Sophomore,"6' 2""",225 lbs,True
+58,2026,5290744,Masiyah Limehouse,CB,17,Freshman,"6' 1""",188 lbs,True
+58,2026,5146905,Shamar Meikle,LB,10,Junior,"6' 3""",235 lbs,True
+58,2026,5147731,Ashton Mosley,LB,33,Sophomore,"6' 3""",245 lbs,True
+58,2026,5151629,Jair Murphy,CB,31,Junior,"6' 0""",203 lbs,True
+58,2026,5221310,Harrysson Ngassa,DE,49,Sophomore,"6' 4""",210 lbs,True
+58,2026,5277123,Derrick Nichols III,S,38,Freshman,"5' 11""",165 lbs,True
+58,2026,5160141,Greg Otten,LB,55,Junior,"6' 1""",220 lbs,True
+58,2026,4878111,MarShon Oxley,LB,45,Senior,"6' 1""",227 lbs,True
+58,2026,5257592,Herlin Perry Jr.,CB,35,Freshman,"5' 11""",180 lbs,True
+58,2026,5147189,Deylen Platt,CB,29,Sophomore,"6' 3""",185 lbs,True
+58,2026,5291099,Sager Quinn,DT,96,Freshman,"6' 1""",290 lbs,True
+58,2026,5290668,Peter Ramil,DE,19,Freshman,"6' 5""",250 lbs,True
+58,2026,4911975,Asani Redwood,DT,11,Senior,"6' 3""",300 lbs,True
+58,2026,5125467,Sam Robinson,LB,7,Sophomore,"6' 3""",225 lbs,True
+58,2026,5296028,Richard Scott III,DT,93,Sophomore,"6' 4""",270 lbs,True
+58,2026,4918440,Terry Simmons Jr.,DL,56,Junior,"6' 2""",325 lbs,True
+58,2026,5191042,Levi Smiley,DE,18,Sophomore,"6' 4""",260 lbs,True
+58,2026,5212666,Christian Smith,LB,52,Freshman,"6' 3""",232 lbs,True
+58,2026,5179812,Jabari Smith,DB,12,Sophomore,"5' 11""",185 lbs,True
+58,2026,5228113,Easton Bonnett,LS,49,Sophomore,"5' 11""",190 lbs,True
+58,2026,5257210,Luke Goater,P,39,Freshman,"6' 2""",210 lbs,True
+58,2026,5279137,Gaston Gramatica,PK,10,Freshman,"5' 10""",190 lbs,True
+58,2026,5149075,Nico Gramatica,PK,7,Junior,"5' 8""",165 lbs,True
+58,2026,5226113,Turner McLaughlin,LS,48,Sophomore,"6' 1""",225 lbs,True

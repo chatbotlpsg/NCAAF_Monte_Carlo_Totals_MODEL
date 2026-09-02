@@ -1,0 +1,101 @@
+espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
+326,2026,5147756,Taji Atkins,RB,0,Sophomore,"5' 8""",181 lbs,True
+326,2026,5121467,Bamidele Badusi,OL,77,Junior,"6' 6""",328 lbs,True
+326,2026,5217799,Arvis Battle Jr.,TE,9,Freshman,"6' 4""",246 lbs,True
+326,2026,5227693,William Boone,OL,71,Junior,"6' 6""",351 lbs,True
+326,2026,5303262,Terrance Brown Jr.,OL,60,Freshman,,,True
+326,2026,5088888,Torrance Burgess Jr.,RB,4,Junior,"5' 8""",176 lbs,True
+326,2026,4878107,Sully Burns,OL,68,Senior,"6' 7""",327 lbs,True
+326,2026,5303265,Russell Crawford,TE,85,Freshman,,,True
+326,2026,5303264,Dameon Crowe,WR,20,Freshman,"5' 6""",160 lbs,True
+326,2026,5236321,Tucker Cusano,WR,13,Freshman,"6' 2""",205 lbs,True
+326,2026,5077873,Chris Dawn Jr.,WR,1,Senior,"5' 9""",175 lbs,True
+326,2026,4870675,Justin DeLeon,OL,66,Junior,"6' 3""",319 lbs,True
+326,2026,4685338,Jaylen Early,OL,50,Senior,"6' 4""",315 lbs,True
+326,2026,5149265,Kylen Evans,WR,2,Sophomore,"6' 2""",200 lbs,True
+326,2026,5295883,Kirk Gildon,OL,72,Freshman,"6' 6""",291 lbs,True
+326,2026,5277007,La'Keyleon Graves,WR,12,Freshman,"6' 2""",201 lbs,True
+326,2026,5295884,Alan Grimme,OL,79,Junior,"6' 5""",319 lbs,True
+326,2026,5269148,Juntavious Harris,RB,24,Freshman,,,True
+326,2026,5148803,Brad Jackson,QB,8,Sophomore,"6' 0""",197 lbs,True
+326,2026,5216509,Davian Jackson,RB,6,Freshman,"6' 1""",196 lbs,True
+326,2026,5156232,Rasheed Jackson,OL,75,Junior,"6' 7""",339 lbs,True
+326,2026,4916885,Jaylen Jenkins,RB,5,Senior,"5' 8""",173 lbs,True
+326,2026,5295885,Jonah Jones,WR,83,Freshman,"6' 1""",189 lbs,True
+326,2026,5292167,Teagan Lindsey,OL,62,Freshman,,,True
+326,2026,5383811,Jayden Luckett,OL,74,Junior,"6' 6""",306 lbs,True
+326,2026,5156893,Jordan Martin,WR,14,Sophomore,"6' 1""",192 lbs,True
+326,2026,5268751,Blake Mclane,WR,81,Freshman,"6' 3""",208 lbs,True
+326,2026,5160477,Tyler Norris,OL,54,Sophomore,"6' 4""",315 lbs,True
+326,2026,5202460,Gavin Parkhurst,QB,17,Freshman,"6' 3""",207 lbs,True
+326,2026,5268644,Eric Perkins,OL,65,Freshman,"6' 6""",374 lbs,True
+326,2026,5258487,Cole Pryor,RB,21,Freshman,"5' 9""",178 lbs,True
+326,2026,5164317,Shaker Reisig,QB,10,Freshman,"6' 0""",194 lbs,True
+326,2026,5161894,Aidin Rhodes,OL,58,Junior,"6' 3""",281 lbs,True
+326,2026,5077899,Etueni Ropati,OL,55,Junior,"6' 5""",321 lbs,True
+326,2026,5217451,Ameer Ross,OL,70,Freshman,"6' 5""",373 lbs,True
+326,2026,5138042,Zechariah Sample,WR,3,Sophomore,"5' 10""",175 lbs,True
+326,2026,5295882,Cameron Schultz,OL,53,Junior,"6' 4""",291 lbs,True
+326,2026,5121615,Jake Simpson,TE,88,Junior,"6' 5""",246 lbs,True
+326,2026,5120413,Amari Smith,OL,78,Junior,"6' 6""",332 lbs,True
+326,2026,4685157,Blake Smith,TE,16,Senior,"6' 4""",250 lbs,True
+326,2026,5147734,Cole Snodgrass,TE,84,Sophomore,"6' 5""",237 lbs,True
+326,2026,5152414,Beau Sparks,WR,11,Senior,"5' 11""",181 lbs,True
+326,2026,5085497,Ty Stamey,TE,18,Junior,"6' 7""",250 lbs,True
+326,2026,5383809,Mikel Udengwu,OL,52,Junior,,,True
+326,2026,5383805,Stone Walker,QB,15,Junior,,,True
+326,2026,5265569,Preston Ward,OL,67,Freshman,"6' 2""",304 lbs,True
+326,2026,5276636,Xavier Warren,WR,23,Freshman,,,True
+326,2026,5383812,Jussiah Ali,DL,88,Junior,,,True
+326,2026,5077881,Amarion Atwood,DB,1,Junior,"6' 1""",182 lbs,True
+326,2026,5258044,Javarius Bell,DL,32,Freshman,"6' 1""",306 lbs,True
+326,2026,5084220,Phillip Bradford,DL,44,Junior,"6' 6""",308 lbs,True
+326,2026,5295874,Jayden Bradley,DB,9,Freshman,"6' 1""",209 lbs,True
+326,2026,5121605,Mekhi Buchanan,DL,38,Junior,"6' 5""",247 lbs,True
+326,2026,5248292,TJ Burkhalter,LB,11,Freshman,"6' 2""",230 lbs,True
+326,2026,4432676,Bryce Carter,DL,96,Senior,"6' 3""",309 lbs,True
+326,2026,5295881,Blaine Carver,LB,49,Freshman,"5' 10""",203 lbs,True
+326,2026,5316894,Cam Christian,DL,93,Freshman,"6' 0""",302 lbs,True
+326,2026,5120316,Ta'Derius Collins,DL,13,Junior,"6' 4""",233 lbs,True
+326,2026,4586313,Terrence Cooks II,LB,16,Senior,"6' 2""",231 lbs,True
+326,2026,5077812,Chase Davis,DB,26,Junior,"6' 3""",197 lbs,True
+326,2026,5303266,Darius Davis,LB,23,Freshman,"6' 2""",216 lbs,True
+326,2026,5383807,Jonathan Davis,DL,34,Junior,,,True
+326,2026,4833619,J.P. Deeter,DL,91,Junior,"6' 3""",294 lbs,True
+326,2026,5302870,Jayden Flournoy,DB,37,Freshman,,,True
+326,2026,5258046,Simeon Garner,DL,40,Freshman,"6' 3""",288 lbs,True
+326,2026,5258054,Greg Gipson Jr.,DB,29,Freshman,"6' 1""",180 lbs,True
+326,2026,3941258,Josiah Graham,DL,18,Senior,,250 lbs,True
+326,2026,5383815,Jaylen Harris,DL,95,Senior,,,True
+326,2026,5222547,Blake Isbell,DL,33,Freshman,"6' 3""",254 lbs,True
+326,2026,4870761,Kaleb James,DL,99,Junior,"6' 4""",286 lbs,True
+326,2026,5154582,Ayden Jones,LB,15,Junior,"6' 2""",224 lbs,True
+326,2026,5156851,Christopher Jones,DB,17,Sophomore,"6' 2""",189 lbs,True
+326,2026,5258048,D'Ante Keys,DL,14,Freshman,"6' 3""",257 lbs,True
+326,2026,5078104,Jo'Laison Landry,DL,6,Junior,"6' 3""",260 lbs,True
+326,2026,4910801,Jayden Lawton,DB,0,Senior,"6' 3""",193 lbs,True
+326,2026,5215627,Skylar Lewis,DB,25,Freshman,"6' 2""",189 lbs,True
+326,2026,4904970,Javante Mackey,LB,12,Junior,"6' 2""",251 lbs,True
+326,2026,5193336,Will Mitchell II,DB,22,Sophomore,"5' 10""",181 lbs,True
+326,2026,5159343,Trez Moore,DB,2,Senior,"6' 1""",186 lbs,True
+326,2026,5226287,Cole Nilles,LB,10,Junior,"6' 4""",238 lbs,True
+326,2026,5220914,Ryan Nolan,DB,7,Senior,"5' 10""",187 lbs,True
+326,2026,5156286,Chancellor Owens,DL,90,Junior,"6' 3""",296 lbs,True
+326,2026,5159271,Jason Patterson,DL,30,Senior,"6' 4""",229 lbs,True
+326,2026,5077694,Michael Patterson III,DB,19,Junior,"5' 10""",169 lbs,True
+326,2026,5383808,Emmanuel Peter,DL,35,Sophomore,,,True
+326,2026,5215565,Cordarian Powell,DB,8,Freshman,"6' 1""",180 lbs,True
+326,2026,4838691,Dexter Ricks Jr.,DB,24,Senior,"5' 11""",178 lbs,True
+326,2026,5295875,Craig Royal Jr.,DB,3,Senior,"6' 2""",185 lbs,True
+326,2026,4794105,DonTerry Russell,DL,5,Senior,"6' 5""",228 lbs,True
+326,2026,5085348,Jordan Sample,LB,21,Junior,"6' 2""",233 lbs,True
+326,2026,5383806,John Smith,DB,27,Freshman,"6' 3""",202 lbs,True
+326,2026,5209994,Colt Sparks,DL,42,Freshman,"6' 3""",236 lbs,True
+326,2026,5290666,Cullen Thompson,DL,31,Freshman,"6' 3""",220 lbs,True
+326,2026,5295880,Jacob Bonilla,PK,38,Sophomore,"5' 10""",167 lbs,True
+326,2026,5220121,Dylan Cunanan,PK,41,Junior,"5' 9""",183 lbs,True
+326,2026,5383813,Tom Flintoff,P,92,Freshman,"6' 3""",212 lbs,True
+326,2026,5096519,Michael James,PK,43,Senior,"6' 4""",204 lbs,True
+326,2026,5383810,Lincoln Petitjean,LS,57,Freshman,,,True
+326,2026,5383814,Joshua Selmes,P,94,Freshman,,,True
+326,2026,5220919,Darian Snell,LS,51,Sophomore,"6' 3""",218 lbs,True

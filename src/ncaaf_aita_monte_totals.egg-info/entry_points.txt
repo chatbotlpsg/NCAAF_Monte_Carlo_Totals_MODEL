@@ -1,0 +1,2 @@
+[console_scripts]
+ncaaf-aita = ncaaf_aita.cli:main

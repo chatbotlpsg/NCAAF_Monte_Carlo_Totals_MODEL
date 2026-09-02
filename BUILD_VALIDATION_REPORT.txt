@@ -1,0 +1,34 @@
+NCAAF AITA MONTE CARLO TOTALS MODEL V1 - BUILD VALIDATION
+
+Architecture boundary:
+- Python prices the market and produces risk-support outputs.
+- External NCAAF Trading Agent is NOT embedded.
+- Handoff manifest requires trading_agent_embedded=false.
+
+Implemented market families:
+- Full-game totals
+- Home/away team totals
+- First-half totals
+
+Model controls:
+- Sequential possession/drive Monte Carlo
+- True halftime-state simulation (not 0.5 x full game)
+- Stable SHA-derived per-event seed
+- Early-season uncertainty/shrinkage
+- Weather interaction
+- Monte Carlo fair-line curves
+- Vig-free market probabilities
+- Pure / market / blend / conservative probabilities
+- Push-aware EV and Kelly support
+- Confidence / data-quality / correlation / risk support
+- Model-first derivative shortlist before event-level derivative calls
+- Odds API usage ledger and budget guards
+- Immutable entry/close-proxy semantics
+- Post-slate audit hook
+
+Validation performed in build environment:
+- Python compileall: PASS
+- pytest: 10 passed
+- Demo Monte Carlo: 100,000 simulations/event PASS
+- Demo handoff: 19 required/supplemental files PASS
+- ZIP integrity test: PASS, no compressed-data errors
