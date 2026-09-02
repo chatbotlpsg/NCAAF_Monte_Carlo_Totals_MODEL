@@ -53,6 +53,8 @@ class TeamState:
     sp_rating: float | None = None
     elo_rating: float | None = None
     opponent_adjustment_source: str | None = None
+    state_source: str | None = None
+    fallback_state: bool = False
 
     @classmethod
     def from_row(cls, row: pd.Series | dict[str, Any]):

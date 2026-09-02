@@ -1,137 +1,23 @@
 team,espn_team_id,roster_continuity,roster_known,qb_candidate_count,qb_candidates
-Indiana Hoosiers,84,0.0,True,4,Jacob Bell|Tyler Cherry|Maverick Geske|Josh Hoover
-Alabama Crimson Tide,333,0.0,True,5,John Cooper|John Gazzaniga|Tayden-Evan Kaawa|Austin Mack|Keelon Russell
-Houston Cougars,248,0.0,True,5,Luke Carney|Keisean Henderson|Ryan Smith|Jake Sock|Canon Toon
-West Virginia Mountaineers,277,0.0,True,7,Max Anderson|Max Brown|Wyatt Walker Brown|Scotty Fox Jr.|Michael Hawkins Jr.|Jyron Hughley|John Johnson III
-Syracuse Orange,183,0.0,True,7,Steve Angeli|Rich Belin|Joseph Filardi|Danny Lauter|Zaid Lott|Malachi Nelson|Amari Odom
-Nebraska Cornhuskers,158,0.0,True,3,Anthony Colandrea|Daniel Kaelin|TJ Lateef
-UConn Huskies,41,0.0,True,5,Tucker McDonald|Jake Merklinger|Kalieb Osborne|Bo Polston|Tyler Smith
-Army Black Knights,349,0.0,True,4,Santiago Fernandez|Andrew Heidel|Cale Hellums|Bryson Luter
-Bowling Green Falcons,189,0.0,True,6,Dylan Dreasky|Jay Kastantin|Jarin Mock|Caleb Moyer|Hunter Najm|Austin Novosad
-James Madison Dukes,256,0.0,True,4,Camden Coleman|JC Evans|Arrington Maiden|Tanner Vibabul
-Ohio State Buckeyes,194,0.0,True,4,Luke Fahey|Brady Geibel|Justyn Martin|Julian Sayin
-Pittsburgh Panthers,221,0.0,True,6,Corey Dailey|Davin Friedman|Holden Geriner|Mason Heintschel|Beau Jackson|Angelo Renda
-South Carolina Gamecocks,2579,0.0,True,5,Lucian Anderson III|Brandon Cunningham|Landon Duckworth|Jimmy Francis|LaNorris Sellers
-Kentucky Wildcats,96,0.0,True,6,Carson Cruver|William Drakeford Jr.|JacQai Long|Kenny Minchey|Matt Ponatoski|Kendall Tambling
-Iowa State Cyclones,66,0.0,True,5,Wyatt Bohm|Zane Flores|Hudson Kurland|Connor Moberly|Jaylen Raynor
-Air Force Falcons,2005,0.0,True,5,Kemper Hodges|Josh Johnson|Maguire Martin|Evan Medders|Cade Spradling
-Temple Owls,218,0.0,True,6,Lamar Best|Camren Boykin|Brody Norman|Brady Palmer|Ajani Sheppard|Jaxon Smolik
-Georgia Bulldogs,61,0.0,True,6,Bryson Beaver|Jake Bobo|Colter Ginn|Hezekiah Millender|Ryan Montgomery|Ryan Puglisi
-Oregon Ducks,2483,0.0,True,6,Ryder Hayes|TC Manumaleuna|Dante Moore|Dylan Raiola|Akili Smith Jr.|Brock Thomas
-Texas Longhorns,251,0.0,True,5,Dia Bell|Luke Dunham|Karle Lacey Jr.|Arch Manning|MJ Morris
-Penn State Nittany Lions,213,0.0,True,6,Connor Barry|Rocco Becht|Kase Evans|Peyton Falzone|Jack Lambert|Alex Manske
-Tennessee Volunteers,2633,0.0,True,4,Faizon Brandon|George MacIntyre|Mason Phillips|Ryan Staub
-Auburn Tigers,2,0.0,True,6,Byrum Brown|Rhys Brush|John Colvin|Locklan Hewlett|Will Myers|Tristan Ti'a
-Cincinnati Bearcats,2132,0.0,True,6,JC French IV|Brooks Goodman|Samaj Jones|Will Kocher|JJ Miller|Liam O'Brien
-Duke Blue Devils,150,0.0,True,6,Walker Eget|Lawrence Gardner|Blaine Hipa|Dan Mahan|Ari Patu|Terry Walker III
-Charlotte 49ers,2429,0.0,True,4,Cole Gonzales|Conner Harrell|Grayson Loftis|Luke McNulty
-Navy Midshipmen,2426,0.0,True,6,Evan Blouir|Ryan Brass|Brady Carmical|Maverick Chance|Michael Dove|Jackson Gutierrez
-UTSA Roadrunners,2636,0.0,True,3,Maguire Gasperson|Max Gerlich|Owen McCown
-North Dakota State Bison,2449,0.0,True,5,Preston Brown|Trey Drake|Nathan Hayes|Henry Nelson|Zander Smith
-App State Mountaineers,2026,0.0,True,5,Bronzden Chaffin|Gregory Fee|Henry Hasselbeck|Malachi Singleton|Tommy Ulatowski
-Tulsa Golden Hurricane,202,0.0,True,6,Andrew Alford|Kyden Barker|Connor Dantzler|Kincayde Eng|Baylor Hayes|Barrett Mullen
-Iowa Hawkeyes,2294,0.0,True,5,Tradon Bessinger|Hank Brown|Ryan Fitzgerald|Jeremy Hecklinski|Jimmy Sullivan
-Arkansas Razorbacks,8,0.0,True,4,Braeden Fuller|Hank Hendrix|AJ Hill|KJ Jackson
-Southern Miss Golden Eagles,2572,0.0,True,4,Ethan Hampton|Landry Lyddy|Maddox McCrory|Hugh Price
-Colorado State Rams,36,0.0,True,6,Darius Curry|Carter Emanuel|K'saan Farrar|Hauss Hejny|Darnell Kelly|Tommy Poholsky
-Old Dominion Monarchs,295,0.0,True,5,Landen Abernathy|Quinn Henicle|Ryan Huff|Brooklyn Nace|Jaxon Potter
-Texas A&M Aggies,245,0.0,True,5,Helaman Casuga|Brady Hart|Paxton Land|Eli Morcos|Marcel Reed
-Texas Tech Red Raiders,2641,0.0,True,6,Stephen Cannon|Tommy Castellanos|Kirk Francis|Will Hammond|Lloyd Jones III|Holden Phillips
-Vanderbilt Commodores,238,0.0,True,5,Blaze Berlowitz|Drew Cowart|Jared Curtis|Jack Elliott|Whit Muschamp
-Kansas State Wildcats,2306,0.0,True,4,Blake Barnett|Dillon Duff|Avery Johnson|Jacob Knuth
-Utah State Aggies,328,0.0,True,3,Bryson Barnes|Jacob Conover|Anthony Garcia
-Memphis Tigers,235,0.0,True,5,Denzel Gardner|Air Noland|Gavin Owens|Marcus Stokes|Grant Troutman
-Rice Owls,242,0.0,True,5,Jacurri Brown|Patrick Crayton Jr.|Gael Ochoa|Lucas Scheerhorn|Ayden Wilhelm
-South Florida Bulls,58,0.0,True,3,Jayden Bradford|KJ Cooper|Luke Kromenhoek
-Middle Tennessee Blue Raiders,2393,0.0,True,5,Stanley Anderson-Lofton|Peter Costelli|Roman Gagliano|Peter Grandjean|Mason Mallory
-Jacksonville State Gamecocks,55,0.0,True,5,Caden Creel|Noah Lee|Kadyn Mitchell|Donovan Moorhead|Jack Moran
-Georgia Southern Eagles,290,0.0,True,5,Weston Bryan|Harrison Faulkner Jr.|Turner Helton|Max Johnson|Charlie Johnston
-South Alabama Jaguars,6,0.0,True,5,Bishop Davenport|Jared Hollins|Jerry Horne|Taylor Jacobs Jr|Aaden Shamburger
-Troy Trojans,2653,0.0,True,4,Goose Crowder|Jack James|Tucker Kilcrease|Rodge Waldrop
-LSU Tigers,99,0.0,True,5,Landen Clark|Cayden Jones|Sam Leavitt|Husan Longstreet|Kaden Martin
-Michigan Wolverines,130,0.0,True,4,Tommy Carr|Brayden Fowler-Nicolosi|Chase Herbstreit|Brady Smigiel
-Mississippi State Bulldogs,344,0.0,True,5,Brodie McWhorter|Parker Puckett|Jaden Rashada|AJ Swann|Kamario Taylor
-Virginia Tech Hokies,259,0.0,True,4,Bryce Baker|Ethan Grunkemeyer|Troy Huhn|Kelden Ryan
-Louisiana Tech Bulldogs,2348,0.0,True,5,Blake Baker|Jackson Bradley|Michael Kirby|Trey Kukuk|Brady Vodicka
-Florida Gators,57,0.0,True,3,Will Griffin|Tramell Jones Jr.|Aaron Philo
-BYU Cougars,252,0.0,True,4,Bear Bachmeier|Treyson Bourguet|Owen Geilman|John Sanders
-Maryland Terrapins,120,0.0,True,6,Nathan Bernhard|Jack Capaldi|Jackson Hamilton|Max Lawrence|Malik Washington|Cardell Williams
-Northwestern Wildcats,77,0.0,True,6,Ryan Boe|Aidan Chiles|Gavin Frakes|Aidan Gray|Nicco Marchiol|Johnny O'Brien
-Louisiana Ragin' Cajuns,309,0.0,True,4,Sam Altmann|Daniel Beale|Coleman Carter|Alex Munoz
-New Mexico State Aggies,166,0.0,True,5,Trey Arnold|Adam Damante|Trey Hedden|Kalani McLeod|Parker Stofa
-Arizona Wildcats,12,0.0,True,5,Sawyer Anderson|Mason Bray|Noah Fifita|Luke Haugo|Oscar Rios
-San Diego State Aztecs,21,0.0,True,4,Brady Campbell|Jayden Denegal|Stone Saunders|Draiden Trudeau
-Arizona State Sun Devils,9,0.0,True,4,Cutter Boley|Cameron Dyer|Jake Fette|Mikey Keene
-Hawai'i Rainbow Warriors,62,0.0,True,4,Micah Alejado|Hazyn Botelho|Isaac Jaramilla-Phe|Bjorn Jurgensen
-New Mexico Lobos,167,0.0,True,6,Toa Fa'avae|James Laubstein|Jack Layne|Cade Mitchell|Luke Moga|Gabriel Motschenbacher
-Sacramento State Hornets,16,0.0,True,5,Carson Conklin|Liam Meeker|Jaylen Patterson|Brian Salazar|Jackson Sharman
-California Golden Bears,25,0.0,True,6,Jackson Brousseau|EJ Caminong|Alonzo Esparza|Dominic Ingrassia|Nainoa Lopes|Jaron-Keawe Sagapolutele
-Nevada Wolf Pack,2440,0.0,True,5,AJ Bianco|Luke Duncan|Carter Jones|Kaden Martirano|Reeve Slone
-North Texas Mean Green,249,0.0,True,3,Chaston Ditta|Tayven Jackson|Chris Jimerson Jr.
-East Carolina Pirates,151,0.0,True,4,Trey Burke|Mitch Griffis|Cole Hodge|Daulton Phalines
-Oregon State Beavers,204,0.0,True,5,Isaiah Arriaza|Braden Atkinson|Brady Jones|Danny Leary|Maalik Murphy
-Coastal Carolina Chanticleers,324,0.0,True,5,Deuce Bailey|Tre Guerra|Trever Jackson|Osiris Lopez|Luke McBride
-New Hampshire Wildcats,160,0.0,True,7,Brooks Bentley|Matt Festa|Eddie Mamudi|Tommy McLeish|Gavin Schwab|Kaden Silton|Austin Troyer
-Ohio Bobcats,195,0.0,True,5,Levi Davis|Hype Grand|Matthew Papas|Nick Poulos|Matt Vezza
-Lafayette Leopards,322,0.0,True,5,Peyton Cosover|Eddie Jordan|Daniel Lipovski|Jason Penza|Michael Schmelzer
-Bryant Bulldogs,2803,0.0,True,6,James Anderson|Jaden Keefner|Dylan Lynch|Brennan Myer|Owen O'Toole|Elijah Oehlke
-Tarleton State Texans,2627,0.0,True,5,Kaden Anderson|Cardea Collier|Jackson Gilkey|Kauna'oa Kamakawiwoole|Braedyn Locke
-Liberty Flames,2335,0.0,True,5,Jachin Davis|Jaylen Henderson|Ethan Houck|Deshawn Purdie|Ethan Vasko
-Ball State Cardinals,2050,0.0,True,4,Mason Atkins|Bodie Derrer|Keldric Luster|Tyler Mizzell
-Miami (OH) RedHawks,193,0.0,True,5,Drew Bellisari|Luke Berry|Thomas Gotkowski|Caleb Heavner|David McComb
-Kent State Golden Flashes,2309,0.0,True,5,Dru DeShields|Nolan Good|Cole Miller|Gavin Peeps|Deante Ruffin
-Youngstown State Penguins,2754,0.0,True,6,Beau Brungard|Cason Diiulio|Jonny Evanchick|Zebulin Kinsey|Malachi Lewis|Colin Seibert
-Southeast Missouri State Redhawks,2546,0.0,True,2,Brantlee Phillips|Braylen Ragland
-Duquesne Dukes,2184,0.0,True,5,Carson Camp|Nate Harper|Logan Kushner|Riley Martinez|Xavier Rice
-Rhode Island Rams,227,0.0,True,5,Tyler Budge|Devin Farrell|Alex McClelland|Elliot Newcomb|Ben Roden
-Tennessee State Tigers,2634,0.0,True,5,Paul Jones|Daylin Lee|Byron McNair|Justin Patton|Marcelis Tate
-Boise State Broncos,68,0.0,True,4,Max Cutforth|Cash Herrera|Maddux Madsen|Jackson Taylor
-Texas State Bobcats,326,0.0,True,4,Brad Jackson|Gavin Parkhurst|Shaker Reisig|Stone Walker
-Marshall Thundering Herd,276,0.0,True,4,Dylan Barber|Carlos Del Rio-Wilson|Koi Fagan|Zion Turner
-Furman Paladins,231,0.0,True,6,Connor Ackerley|Jake Garcia|Nehuel Garcia|Ben Milliken|Logan Rogers|Trey Smith
-Baylor Bears,239,0.0,True,5,Nate Bennett|Edward Griffin|DJ Lagway|Quinn Murphy|Cade Tessier
-Boston College Eagles,103,0.0,True,5,Enzo Arjona|Femi Babalola|Anthony Coellner|Jake Coniglio|Mason McKenzie
-Tulane Green Wave,2655,0.0,True,6,Jay Beamon|Dagan Bruno|Zeon Chriss-Gremillion|Trace Johnson|Cade Scott|Kadin Semonza
-The Citadel Bulldogs,2643,0.0,True,5,Nick Billoups|Quentin Hayes|Xavier Hill|Cooper Tankersley|Corey Tillman Jr.
-Towson Tigers,119,0.0,True,5,Thomas Adams|Jacob Davis|Myles Fulton|Andrew Indorf|Nick Nassib
-UT Rio Grande Valley Vaqueros,292,0.0,True,5,Jaxon Baize|Atzel Chavez Jr.|Aidan Jakobsohn|Jayden Paluseo|Garret Rangel
-Fordham Rams,2230,0.0,True,4,Crew Colon|Tripp Holley|Thomas Rosso|Gunnar Smith
-Maine Black Bears,311,0.0,True,5,Keegan Andrews|Eddie Buehler|Caden Drezek|Michael McMaugh|Matt Pain
-Oklahoma State Cowboys,197,0.0,True,3,Grant Jordan|Drew Mestemaker|Luke Tepas
-Northern Illinois Huskies,2459,0.0,True,7,Bryshawn Brown|Brady Davidson|Taron Dickens|Ean Hamric|Asa Johnson|Cole Latimer|Jalen Macon
-North Alabama Lions,2453,0.0,True,3,Banks Bowen|Kade Clemmons|Conner Lindsey
-Alcorn State Braves,2016,0.0,True,4,Alvin Dinkins|Achilles Ringo|Jaylon Tolbert|Bryan Wilson
-Wyoming Cowboys,2751,0.0,True,5,Mason Drube|Tyler Franklin|Taylor Hasselbeck|Tyler Hughes|Landon Sims
-Norfolk State Spartans,2450,0.0,True,4,Deljay Bailey|Da'Jean Golmond|Ty Jackson|Reginald Johnson
-Missouri State Bears,2623,0.0,True,5,Henry Belin IV|Eian Finkley|Elijah Leonard|Skyler Locklear|Brett Ottensmeyer
-Abilene Christian Wildcats,2000,0.0,True,4,John David Black|Joe Castles|Marcos Davila|Tucker Parks
-Austin Peay Governors,2046,0.0,True,4,Trey Blakeney|Karson Gordon|Chris Parson|Kelvin Perkins III
-Nicholls Colonels,2447,0.0,True,2,Cooper Babin|Jack Landry
-Idaho State Bengals,304,0.0,True,6,Jordan Cooke|Davis Harsin|Wyatt Horton|Jack Nelson|Kepa Niumeitolu|Isaiah Su'esu'e
-Arkansas State Red Wolves,2032,0.0,True,5,Ethan Crawford|Drew Dickey|Trey Owens|Mason Schubert|Jeremy St-Hilaire
-Houston Christian Huskies,2277,0.0,True,8,Aidan Farley|Reilly Garcia|Cayden Keeth|Maddox Kopp|Hayden Meyer|Zach Rollins|Cutter Stewart|Diego Tello
-Florida International Panthers,2229,0.0,True,5,DJ Alexander|Matt Ivaldi|JJ Kohl|Zach Marker|Zachary Waters
-Murray State Racers,93,0.0,True,4,Blaze Berry|Jim Ogle|JB Potter|Wyatt Robbins
-Eastern Kentucky Colonels,2198,0.0,True,5,Myles Burkett|Jon Hunt|Blake Kendall Jr.|Connor Moreland|Jordyn Potts
-Charleston Southern Buccaneers,2127,0.0,True,3,Caden Clay|Jared Echols|Lek Powell
-SE Louisiana Lions,2545,0.0,True,5,Casey Avrard|Kyle Lowe|Issac Mooring III|Conner Nelson|Cole Welliver
-Sam Houston Bearkats,2534,0.0,True,5,DJ Bailey|Brett Holloway|Mason Holtzclaw|Landyn Locke|Shaan Patel
-Clemson Tigers,228,0.0,True,6,Brock Bradley|Colson Brown|Chris Denson|Trent Pearman|Tait Reynolds|Christopher Vizzina
-Western Michigan Broncos,2711,0.0,True,4,Jaxson Dosh|Broc Lowry|Trey Petty|Mason Reynolds
-UL Monroe Warhawks,2433,0.0,True,5,Aidan Armenta|Austin Carlisle|Landon Graves|Bryson Kimbrough|Ty Purdy
-VMI Keydets,2678,0.0,True,7,Vann Baggett|Caden Baugh|JoJo Crump|Jackson Gravlee|Ian Reynolds|Cody Shelton|Nana Utsey
-Northwestern State Demons,2466,0.0,True,6,Luke Delafield|Noah Graves|Abram Johnston|Ben Taylor|Nico Victorian|Zach Wilcke
-Florida Atlantic Owls,2226,0.0,True,3,Jeremiah Daoud|Drew Devillier|Jordan Magwood
-Utah Tech Trailblazers,3101,0.0,True,4,Bronson Barben|Max Grizzell|Deacon Hill|Justus Platts
-Hampton Pirates,2261,0.0,True,4,Xavier Brookins|Joshua Hawley|Tre'Von Taylor|Jalen Woods
-South Dakota State Jackrabbits,2571,0.0,True,6,Kaden Harney|Tresten Hass|Jack Henry|Josh Holst|Chase Mason|Anthony Rezac
-Lamar Cardinals,2320,0.0,True,5,Evan Bullock|Braeden Imhoff|Aiden McCown|Lucas Powell|Julian Salazar
-Mercyhurst Lakers,2385,0.0,True,3,Turner Dolata|Alex Gevaudan|Kolten Ruark
-Northern Arizona Lumberjacks,2464,0.0,True,5,Donivan Dixon|Hayden Fletcher|Bryce Herges|Ty Pennington|Tak Tateoka
-Portland State Vikings,2502,0.0,True,5,Gabe Downing|Hunter Herrera|Jackson Presley|John-Keawe Sagapolutele|Tyrese Smith
-Morgan State Bears,2415,0.0,True,5,Timothy Cole II|Cameron Edge|Howard Kennedy III|Ade Olanegan|Raeden Oliver
-UNLV Rebels,2439,0.0,True,4,Jackson Arnold|Sebastian Circo|Derek Garcia|Alex Orji
-Central Michigan Chippewas,2117,0.0,True,5,Marcus Beamon|Angel Flores|Jadyn Glasser|Daniel Gomez|Geno Seets
-Mississippi Valley State Delta Devils,2400,0.0,True,4,Joshua Brown|Clayton Carimbocas|Jordon Davis|Jahrik Jones
-UCLA Bruins,26,0.0,True,5,DJ Bordeaux|Ty Dieffenbach|Colton Gumino|Madden Iamaleava|Nico Iamaleava
-Western Kentucky Hilltoppers,98,0.0,True,4,Brock Glenn|Caleb McMickle|Cam O'Hara|Rodney Tisdale Jr.
+Rutgers Scarlet Knights,164,0.0,True,2,Sean Ashenfelder|Dylan Lonergan
+UCF Knights,2116,0.0,True,5,Kaleb Annett|Alonza Barnett III|Dante Carr|Keyone Jenkins|Rocco Marriott
+Wake Forest Demon Deacons,154,0.0,True,5,Billy Johnson|Gannon Jones|Grant Lawless|Gio Lopez|Steele Pizzella
+Delaware Blue Hens,48,0.0,True,6,EJ Archield Jr.|Tyler Bell|Nick Minicucci|Braden Streeter|Sean Sutherland|Riley Trujillo
+Kennesaw State Owls,338,0.0,True,4,Rickie Collins|Jamarcus Harrison|Julian Lapene|Landon Varnes
+Buffalo Bulls,2084,0.0,True,4,Mason Cumbie|Jake Forburger|Elijah Holmes|Qur'An McNeill
+Missouri Tigers,142,0.0,True,4,Brett Brown|Nick Evers|Gavin Sidwar|Austin Simmons
+Georgia Tech Yellow Jackets,59,0.0,True,5,Grady Adamson|Cole Bergeron|Ben Guthrie|Graham Knowles|Alberto Mendoza
+Minnesota Golden Gophers,135,0.0,True,5,Owen Lansu|Drake Lindsey|Michael Merdinger|Brady Palmer|Max Shikenjanski
+Utah Utes,254,0.0,True,5,Kane Archer|Devon Dampier|Byrd Ficklin|Michael Johnson|Brandon Rose
+Illinois Fighting Illini,356,0.0,True,4,Carson Boyd|Michael Clayton II|Dane Eisenmenger|Katin Houser
+Massachusetts Minutemen,113,0.0,True,5,Logan Inagawa|Aedan McCarthy|Ty McCutcheon|Will Perry|William Watson III
+Bethune-Cookman Wildcats,2065,0.0,True,5,Tyler Jefferson|Amari Jones|Joel Morris|Cordan Patterson|Jaydis Wiley
+Akron Zips,2006,0.0,True,5,Semaj Beals|Johnny Brookhart|Cibastian Broughton|Reese Poffenbarger|Brayden Roggow
+Merrimack Warriors,2771,0.0,True,5,Jake Attaway|Casey Grusser|AJ Hairston Jr|Cole Meehan|Michael O'Connor
+West Georgia Wolves,2698,0.0,True,4,Jaevion Elliott|Colton Fitzgerald|Collin Hurst|Luke Marble
+UAlbany Great Danes,399,0.0,True,5,Kai Coln|Peyton Frontino|Levi Kulik|Aidan Semo|Van Weber
+Arkansas-Pine Bluff Golden Lions,2029,0.0,True,7,Dorien Bowers|Garrison Davis|Champion Edwards|Tyler Hampton|Landon Holcomb|Jack Schierholz|Zayden Walker
+Colorado Buffaloes,38,0.0,True,3,Julian Lewis|Dominiq Ponder|Kaneal Sweetwyne
+Eastern Illinois Panthers,2197,0.0,True,5,Logan Duhachek|Payton Faker|Cole LaCrue|Jazel Riley IV|Jeremiah Salem
+Idaho Vandals,70,0.0,True,4,Holden Bea|Israel Carter|Blitz McCarty|Sawyer Teeney
+UAB Blazers,5,0.0,True,5,Ryder Burton|Vanden Dugger|Cam Jennings|Adrian Posse|Nate Rogers

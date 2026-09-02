@@ -1,34 +1,54 @@
-NCAAF AITA MONTE CARLO TOTALS MODEL V1 - BUILD VALIDATION
+AITA NCAAF MONTE CARLO TOTALS DESK V1.1.0 — BUILD VALIDATION
+================================================================
 
-Architecture boundary:
-- Python prices the market and produces risk-support outputs.
-- External NCAAF Trading Agent is NOT embedded.
-- Handoff manifest requires trading_agent_embedded=false.
+Release purpose
+---------------
+Fix the 2026 Week 1 all-game pricing failure caused by ESPN display-name vs CFBD
+canonical-team-state mismatches, while preserving the locked external Trading-Agent
+boundary.
 
-Implemented market families:
-- Full-game totals
-- Home/away team totals
-- First-half totals
+Validated corrections
+---------------------
+1. ESPN display team names are separated from ESPN school/location model keys.
+2. Canonical state resolution is deterministic and protects against unsafe prefix
+   matches (e.g. Arkansas-Pine Bluff must NOT resolve to Arkansas).
+3. Sparse/unresolved teams receive a dynamic, high-uncertainty prior rather than
+   disappearing from the model slate.
+4. Missing Odds API event mapping no longer blocks the pure football model.
+5. Missing stadium weather / starter-QB mapping lowers confidence but does not erase
+   model-only projections.
+6. Full-game model board contains one row per successfully simulated game.
+7. Team-total model board contains two rows per successfully simulated game.
+8. First-half model board contains one row per successfully simulated game.
+9. Master EV board is a separate exact-price layer and always has a readable schema,
+   even when zero sportsbook candidates exist.
+10. EV rows are explicitly tagged UNCALIBRATED / PROVISIONAL_UNCALIBRATED.
+11. Python stake recommendations are disabled while calibration status is UNCALIBRATED.
+12. Python-side close capture and postgame audit commands/packages were removed.
 
-Model controls:
-- Sequential possession/drive Monte Carlo
-- True halftime-state simulation (not 0.5 x full game)
-- Stable SHA-derived per-event seed
-- Early-season uncertainty/shrinkage
-- Weather interaction
-- Monte Carlo fair-line curves
-- Vig-free market probabilities
-- Pure / market / blend / conservative probabilities
-- Push-aware EV and Kelly support
-- Confidence / data-quality / correlation / risk support
-- Model-first derivative shortlist before event-level derivative calls
-- Odds API usage ledger and budget guards
-- Immutable entry/close-proxy semantics
-- Post-slate audit hook
+Automated test result
+---------------------
+15 passed
 
-Validation performed in build environment:
-- Python compileall: PASS
-- pytest: 10 passed
-- Demo Monte Carlo: 100,000 simulations/event PASS
-- Demo handoff: 19 required/supplemental files PASS
-- ZIP integrity test: PASS, no compressed-data errors
+Replay against user's attached 2026-09-03 runtime artifacts
+-----------------------------------------------------------
+Validation simulation count: 10,000 per game (diagnostic replay only)
+Slate events: 11
+Modeled events: 11
+Model coverage: 100.0%
+Blocking events: 0
+Full-game board rows: 11
+Team-total board rows: 22
+First-half board rows: 11
+Game projection rows: 11
+EV rows from saved exact sportsbook snapshot: 70
+Data quality status: PASS_WITH_WARNINGS
+Calibration status: UNCALIBRATED
+
+Expected warnings include sparse/FCS priors, missing weather, missing starter-QB map,
+and events without current Odds API mapping. These warnings reduce model confidence but
+no longer suppress the all-game model board.
+
+Security
+--------
+No .env file or API key is included in this release archive.

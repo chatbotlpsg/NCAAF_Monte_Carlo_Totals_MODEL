@@ -1,100 +1,67 @@
-# AITA NCAAF Monte Carlo Totals Desk V1 — 2026
+# AITA NCAAF Monte Carlo Totals Desk V1.1 — 2026
 
 This package implements the **Python quantitative side** of the locked NCAAF architecture:
 
-`data -> normalized football state -> possessions/drives -> Monte Carlo -> FG/team/H1 totals pricing -> market comparison -> EV/confidence/correlation/risk support -> immutable Trading-Agent handoff ZIP`
+`data -> normalized football state -> possessions/drives -> Monte Carlo -> ALL-GAME FG/team/H1 model boards -> exact market comparison -> provisional EV/confidence/correlation/risk support -> immutable Trading-Agent handoff ZIP`
 
-The dedicated NCAAF Trading Agent is **not embedded here**. The Python process ends after creating and validating the handoff ZIP.
+The dedicated NCAAF Trading Agent is **not embedded here**. Python ends after creating and validating the handoff ZIP.
 
-## Quick start (Git Bash / Windows)
+## V1.1 production contract
+
+1. **Every discovered game is modeled.**
+   - ESPN display names are separated from canonical school/model keys.
+   - When a team cannot be resolved to a CFBD state (common with sparse FCS opponents), the model uses a **dynamic high-uncertainty sparse prior** instead of deleting the game.
+   - The fallback is explicitly labeled; it is never represented as normal-quality CFBD data.
+2. **Model boards and EV boards are separate.**
+   - `03_FULL_GAME_TOTALS_BOARD.csv`: one row for every modeled game.
+   - `04_TEAM_TOTALS_BOARD.csv`: two rows for every modeled game.
+   - `05_FIRST_HALF_TOTALS_BOARD.csv`: one row for every modeled game.
+   - `02_MASTER_EV_BOARD.csv`: only exact two-sided sportsbook markets. No exact price = no EV row.
+3. **EV is explicitly uncalibrated in V1.1.**
+   - `calibration_status=UNCALIBRATED`
+   - `ev_estimate_status=PROVISIONAL_UNCALIBRATED`
+   - Python stake recommendations are disabled until calibration is promoted.
+   - EV math remains visible for research/ranking by the external Trading Agent.
+4. **Missing weather/QB information does not erase a game.**
+   - It lowers confidence / adds warnings.
+   - The model-only projection still exists.
+5. **Missing Odds API event mapping does not erase a game.**
+   - The model board remains available.
+   - Market/EV fields stay unavailable rather than being fabricated.
+6. **Postgame grading/audit/close capture are NOT Python responsibilities.**
+   - The external NCAAF Trading Agent owns close capture, grading, CLV, ROI, slate recap, and audit history.
+
+## Quick validation
 
 ```bash
-cd /c/Python/NCAAF_Monte_Carlo_Totals_MODEL
-python -m venv virt
-source virt/Scripts/activate
-python -m pip install --upgrade pip
-pip install -e ".[dev]"
-cp .env.example .env
-python -m ncaaf_aita.cli doctor
+ncaaf-aita doctor
 pytest -q
-python -m ncaaf_aita.cli demo --week 1 --slate-date 2026-09-05
 ```
 
-The demo is fully offline and validates the simulation/pricing/handoff path without spending API credits.
+Release regression suite: **15 tests**.
 
-## Live workflow
-
-1. Put API keys in `.env` or export `ODDS_API_KEY` / `CFBD_API_KEY` in the shell.
-2. Build slate identity:
+## Production example
 
 ```bash
-python -m ncaaf_aita.cli discover-slate --date 2026-09-05
-```
+ncaaf-aita discover-slate --date 2026-09-03
 
-3. Build/refresh the team-state feature file from cached CFBD plays or your warehouse:
+ncaaf-aita refresh-rosters \
+  --season 2026 \
+  --slate data/normalized/SLATE_EVENTS.csv
 
-```bash
-python -m ncaaf_aita.cli build-team-states --year 2026 --week 1
-```
+ncaaf-aita build-team-states \
+  --year 2026 \
+  --week 1
 
-4. Run the model using a normalized slate and team-state file. The live odds stage is cost-aware and fail-closed.
-
-```bash
-python -m ncaaf_aita.cli run \
+ncaaf-aita run \
   --season 2026 \
   --week 1 \
-  --slate-date 2026-09-05 \
+  --slate-date 2026-09-03 \
   --slate data/normalized/SLATE_EVENTS.csv \
   --team-states data/features/TEAM_STATES.csv \
-  --live-odds
+  --stadiums data/normalized/STADIUMS.csv \
+  --live-odds \
+  --simulations 250000
 ```
 
-## Non-negotiable invariants
-
-- No sportsbook line enters the pure football simulation.
-- Pure MC, market fair, blended and conservative probabilities remain separate.
-- Odds are never fabricated.
-- Additional Odds API markets are queried only after model shortlisting.
-- Entry/close snapshots are timestamped and never overwritten.
-- Historical handoffs are immutable.
-- No final discretionary trading decision is made by Python.
-- There is intentionally no `src/trading_agent/` package.
-
-## Cost-aware market sequence
-
-`--live-odds` enforces the specified two-stage policy:
-
-1. Zero-quota Odds API event identity is used when needed.
-2. One slate-wide `totals` pull is made.
-3. A **pure Monte Carlo prescreen** runs without sportsbook lines as model inputs.
-4. The model compares its finished score distributions to the full-game total only to create a `derivative_interest_score`.
-5. Only the top `MAX_DERIVATIVE_EVENTS_PER_RUN` events receive event-level `team_totals,totals_h1` calls.
-6. The quota reserve plus weekly/monthly budget guards can block charged calls.
-
-The latest prescreen is written to `data/audits/LATEST_DERIVATIVE_SHORTLIST.csv`.
-
-## Close proxy and post-slate audit
-
-Capture final pre-kick public snapshots only for executed/top-control events:
-
-```bash
-python -m ncaaf_aita.cli capture-close \
-  --master-board outputs/handoffs/<RUN_ID>/02_MASTER_EV_BOARD.csv \
-  --label CLOSE_PROXY_PUBLIC
-```
-
-After settlement, create a normalized results CSV with:
-
-```text
-aita_event_id,home_team,away_team,final_home_points,final_away_points,h1_home_points,h1_away_points
-```
-
-Then audit ROI/CLV/calibration without modifying the original handoff:
-
-```bash
-python -m ncaaf_aita.cli audit \
-  --master-board outputs/handoffs/<RUN_ID>/02_MASTER_EV_BOARD.csv \
-  --results data/audits/results_2026_w01.csv \
-  --close-snapshot data/snapshots/close/<TIMESTAMP>_CLOSE_PROXY_PUBLIC.csv \
-  --out-dir data/audits/2026_w01
-```
+The resulting `NCAAF_MONTE_TOTALS_..._TRADING_AGENT_HANDOFF_<RUN_ID>.zip` is the formal Python boundary. Feed that ZIP to the external Trading Agent.

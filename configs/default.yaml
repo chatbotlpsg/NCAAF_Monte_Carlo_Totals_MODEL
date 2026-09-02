@@ -1,8 +1,8 @@
 season: 2026
 sport_key: americanfootball_ncaaf
-model_version: ncaaf_mc_totals_v1.0.0
-pipeline_version: 1.0.0
-feature_version: ncaaf_features_v1
+model_version: ncaaf_mc_totals_v1.1.0
+pipeline_version: 1.1.0
+feature_version: ncaaf_features_v1.1
 simulation:
   seed: 20260901
   production_count: 100000
@@ -29,12 +29,16 @@ odds:
   weekly_soft_budget: 90
   monthly_soft_budget: 400
   stale_minutes: 30
-  close_stale_minutes: 10
 blend:
   early_season_model_weight: 0.55
   mature_model_weight: 0.72
   low_confidence_model_weight: 0.45
   conservative_shrink_floor: 0.35
+calibration:
+  status: UNCALIBRATED
+  historical_calibration_prior: 0.50
+  min_live_bets_for_actionable_ev: 100
+  allow_python_stake_recommendations: false
 risk:
   quant_elite_min_ev: 0.06
   quant_value_min_ev: 0.025

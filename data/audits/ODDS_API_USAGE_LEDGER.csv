@@ -4,3 +4,7 @@ timestamp,endpoint,sport,markets,regions_bookmakers,event_id,cost_last,credits_u
 2026-09-02T04:31:25Z,sports/americanfootball_ncaaf/odds,americanfootball_ncaaf,totals,"draftkings,fanduel,betmgm,caesars,betrivers",,1,4,496,
 2026-09-02T04:32:38Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,4,496,
 2026-09-02T04:32:38Z,sports/americanfootball_ncaaf/odds,americanfootball_ncaaf,totals,"draftkings,fanduel,betmgm,caesars,betrivers",,1,5,495,
+2026-09-02T21:42:32Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,5,495,
+2026-09-02T21:46:50Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,5,495,
+2026-09-02T21:48:16Z,sports/americanfootball_ncaaf/events,americanfootball_ncaaf,,"draftkings,fanduel,betmgm,caesars,betrivers",,0,5,495,
+2026-09-02T21:48:17Z,sports/americanfootball_ncaaf/odds,americanfootball_ncaaf,totals,"draftkings,fanduel,betmgm,caesars,betrivers",,1,6,494,

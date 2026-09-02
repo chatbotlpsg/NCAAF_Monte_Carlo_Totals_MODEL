@@ -30,7 +30,7 @@ class OddsQuotaBlocked(RuntimeError):
 
 class OddsApiAdapter:
     def __init__(self, base: str, api_key: str, *, region: str = "us", bookmakers: list[str] | None = None,
-                 ledger: str | Path = "data/audits/ODDS_API_USAGE_LEDGER.csv", policy: QuotaPolicy | None = None,
+                 ledger: str | Path = "data/diagnostics/ODDS_API_USAGE_LEDGER.csv", policy: QuotaPolicy | None = None,
                  http: HttpClient | None = None, store: RawSnapshotStore | None = None):
         if not api_key:
             raise ValueError("ODDS_API_KEY is required for market calls")

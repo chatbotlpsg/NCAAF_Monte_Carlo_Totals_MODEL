@@ -5,8 +5,6 @@ src/ncaaf_aita/cli.py
 src/ncaaf_aita/common.py
 src/ncaaf_aita/config.py
 src/ncaaf_aita/pipeline.py
-src/ncaaf_aita/audit/__init__.py
-src/ncaaf_aita/audit/post_slate.py
 src/ncaaf_aita/confidence/__init__.py
 src/ncaaf_aita/confidence/engine.py
 src/ncaaf_aita/correlation/__init__.py
@@ -41,6 +39,7 @@ src/ncaaf_aita_monte_totals.egg-info/dependency_links.txt
 src/ncaaf_aita_monte_totals.egg-info/entry_points.txt
 src/ncaaf_aita_monte_totals.egg-info/requires.txt
 src/ncaaf_aita_monte_totals.egg-info/top_level.txt
+tests/test_all_game_model_boards.py
 tests/test_architecture_boundary.py
 tests/test_demo_handoff.py
 tests/test_odds_math.py

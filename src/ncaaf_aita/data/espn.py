@@ -88,6 +88,12 @@ class EspnAdapter:
                 "kickoff_utc": event.get("date"),
                 "home_team": (home.get("team") or {}).get("displayName"),
                 "away_team": (away.get("team") or {}).get("displayName"),
+                # Stable school/location keys for the model layer. The display names
+                # remain untouched for human-facing boards and sportsbook matching.
+                "home_team_model": (home.get("team") or {}).get("location") or (home.get("team") or {}).get("shortDisplayName") or (home.get("team") or {}).get("displayName"),
+                "away_team_model": (away.get("team") or {}).get("location") or (away.get("team") or {}).get("shortDisplayName") or (away.get("team") or {}).get("displayName"),
+                "home_team_abbreviation": (home.get("team") or {}).get("abbreviation"),
+                "away_team_abbreviation": (away.get("team") or {}).get("abbreviation"),
                 "espn_home_team_id": str((home.get("team") or {}).get("id")),
                 "espn_away_team_id": str((away.get("team") or {}).get("id")),
                 "venue": venue.get("fullName"),
