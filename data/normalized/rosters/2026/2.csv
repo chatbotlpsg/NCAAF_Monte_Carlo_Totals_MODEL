@@ -62,6 +62,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2,2026,5155422,Saint Farrior,DL,99,Junior,"6' 3""",340 lbs,True
 2,2026,5141444,J.J. Faulk,EDGE,18,Sophomore,"6' 3""",260 lbs,True
 2,2026,5141433,AnQuon Fegans,S,3,Sophomore,"6' 0""",200 lbs,True
+2,2026,5449063,Peyton Floyd,S,48,Junior,"5' 11""",185 lbs,True
 2,2026,5079437,Fred Gaskin III,S,23,Junior,"5' 10""",202 lbs,True
 2,2026,5150287,Coleman Granberry,LB,42,Junior,"5' 11""",210 lbs,True
 2,2026,5089326,Kaleb Harris,S,8,Junior,"6' 1""",204 lbs,True
@@ -89,7 +90,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2,2026,5300327,Kamari Todd,CB,33,Sophomore,"6' 1""",175 lbs,True
 2,2026,5209319,Shadarius Toodle,LB,24,Freshman,"6' 3""",235 lbs,True
 2,2026,5369935,Shadrick Toodle Jr.,S,28,Junior,"6' 4""",210 lbs,True
-2,2026,4692683,Dallas Walker IV,DL,35,Senior,"6' 3""",345 lbs,True
 2,2026,5334183,Max Bourke,P,39,Freshman,"6' 4""",215 lbs,True
 2,2026,5294024,Benton Cantey,LS,64,Sophomore,"5' 8""",217 lbs,True
 2,2026,5122102,Connor Gibbs,PK,41,Senior,"5' 10""",185 lbs,True

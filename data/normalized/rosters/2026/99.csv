@@ -32,8 +32,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 99,2026,5299969,Ja'Mard Jones Jr.,OL,54,Sophomore,"6' 2""",312 lbs,True
 99,2026,5141550,JD LaFleur,TE,47,Freshman,"6' 6""",254 lbs,True
 99,2026,5371972,Adrian Lamb,OL,73,Sophomore,"6' 5""",290 lbs,True
+99,2026,5218496,James Larson,TE,46,Sophomore,"6' 4""",235 lbs,True
 99,2026,5078810,Sam Leavitt,QB,10,Junior,"6' 2""",216 lbs,True
-99,2026,5141563,Husan Longstreet,QB,6,Freshman,"6' 1""",195 lbs,True
+99,2026,5141563,Husan Longstreet,QB,8,Freshman,"6' 1""",195 lbs,True
 99,2026,5159064,Jabari Mack,WR,86,Freshman,"6' 0""",195 lbs,True
 99,2026,5129623,Kaden Martin,QB,19,Senior,"5' 11""",231 lbs,True
 99,2026,5159025,Brysten Martinez,OT,71,Freshman,"6' 5""",318 lbs,True
@@ -70,6 +71,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 99,2026,4899347,Stephiylan Green,DT,90,Junior,"6' 3""",296 lbs,True
 99,2026,5159004,Aiden Hall,S,25,Freshman,"6' 2""",193 lbs,True
 99,2026,5210474,Trenton Henderson,DE,91,Freshman,"6' 4""",243 lbs,True
+99,2026,5081204,John Hurley,S,16,Senior,"5' 11""",179 lbs,True
 99,2026,5150412,Jake Ibieta,LB,56,Junior,"6' 0""",237 lbs,True
 99,2026,4870756,Ja'Keem Jackson,CB,8,Junior,"6' 0""",188 lbs,True
 99,2026,5158867,Treylan James,CB,30,Junior,"6' 1""",183 lbs,True
@@ -87,10 +89,8 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 99,2026,5079693,Tylen Singleton,LB,24,Sophomore,"6' 1""",227 lbs,True
 99,2026,5218723,Dashawn Spears,S,10,Junior,"6' 3""",209 lbs,True
 99,2026,5209113,Jhase Thomas,S,28,Freshman,"6' 1""",175 lbs,True
+99,2026,5081702,Junior Tuihalamaka,DE,41,Senior,"6' 2""",255 lbs,True
 99,2026,5146166,Michael Turner Jr.,CB,21,Sophomore,"6' 1""",162 lbs,True
-99,2026,4917971,Princewill Umanmielen,DE,1,Senior,"6' 4""",244 lbs,True
-99,2026,5218719,Craig Walton Jr.,CB,37,Junior,"5' 11""",174 lbs,True
-99,2026,5292859,Isaiah Washington,S,33,Freshman,"6' 2""",175 lbs,True
 99,2026,5194616,Grant Chadwick,P,90,Junior,"6' 5""",213 lbs,True
 99,2026,5160219,Aidan Corbello,PK,36,Junior,"5' 9""",199 lbs,True
 99,2026,5215336,Hayden Craig,P,99,Freshman,"6' 1""",206 lbs,True

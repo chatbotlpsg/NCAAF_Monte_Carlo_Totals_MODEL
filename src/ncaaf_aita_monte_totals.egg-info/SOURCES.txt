@@ -42,6 +42,7 @@ src/ncaaf_aita_monte_totals.egg-info/top_level.txt
 tests/test_all_game_model_boards.py
 tests/test_architecture_boundary.py
 tests/test_demo_handoff.py
+tests/test_market_identity_and_conservative.py
 tests/test_odds_math.py
 tests/test_quota_guard.py
 tests/test_simulation.py

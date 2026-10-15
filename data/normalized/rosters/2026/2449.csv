@@ -36,7 +36,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2449,2026,5228023,Coy Okeson,G,68,Sophomore,"6' 5""",310 lbs,True
 2449,2026,5388963,Tochi Okoro,WR,89,Junior,"6' 3""",195 lbs,True
 2449,2026,5150681,Cade Osterman,WR,83,Junior,"6' 1""",192 lbs,True
-2449,2026,5219140,Jeremiah Patterson,WR,8,Senior,"5' 9""",175 lbs,True
+2449,2026,5219140,Jeremiah Patterson,WR,3,Senior,"5' 9""",175 lbs,True
 2449,2026,5157399,Nyeoti Punni,RB,4,Senior,"6' 1""",225 lbs,True
 2449,2026,5297930,Charles Ross III,RB,22,Freshman,"5' 9""",200 lbs,True
 2449,2026,5388945,Godson Rufus-Okomhanru,RB,25,Freshman,"6' 0""",187 lbs,True
@@ -78,12 +78,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2449,2026,5087183,Logan Larson,DT,94,Senior,"6' 3""",290 lbs,True
 2449,2026,5157012,Oliver Lucht,LB,55,Junior,"6' 1""",228 lbs,True
 2449,2026,5087181,Kelton McCaslin,DE,9,Senior,"6' 5""",250 lbs,True
-2449,2026,5231306,Landon Meier,CB,27,Sophomore,"5' 11""",195 lbs,True
+2449,2026,5231306,Landon Meier,S,27,Sophomore,"5' 11""",195 lbs,True
 2449,2026,5297938,Marion Moore,CB,16,Freshman,"5' 11""",190 lbs,True
 2449,2026,5156995,Najee Nelson,CB,4,Junior,"5' 11""",197 lbs,True
 2449,2026,5150705,Obald Niyonkuru,DT,99,Junior,"5' 11""",290 lbs,True
 2449,2026,5388965,Anthony Okes,DE,93,Junior,"6' 3""",260 lbs,True
-2449,2026,5297953,Thomas Roberts,DE,60,Freshman,"6' 4""",275 lbs,True
+2449,2026,5297953,Thomas Roberts,DT,60,Freshman,"6' 4""",275 lbs,True
 2449,2026,5228006,Will Rosenmeyer,CB,19,Sophomore,"6' 0""",188 lbs,True
 2449,2026,5388948,Deron Russell,CB,34,Freshman,"6' 1""",180 lbs,True
 2449,2026,5388944,Kobe Russell,CB,24,Freshman,"6' 1""",197 lbs,True

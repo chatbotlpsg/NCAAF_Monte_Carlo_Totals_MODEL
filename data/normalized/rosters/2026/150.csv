@@ -85,6 +85,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 150,2026,5214935,Elliott Schaper,LB,31,Sophomore,"6' 3""",220 lbs,True
 150,2026,4870242,Evan Smith,CB,4,Senior,"5' 10""",185 lbs,True
 150,2026,5146896,Kobe Smith,DE,18,Sophomore,"6' 3""",225 lbs,True
+150,2026,5082164,Patrick Smith-Young,S,2,Senior,"5' 9""",184 lbs,True
 150,2026,5086842,DaShawn Stone,S,8,Junior,"6' 3""",195 lbs,True
 150,2026,4954450,Semaj Turner,DE,43,Sophomore,"6' 3""",255 lbs,True
 150,2026,5291007,Obinna Umeh,DE,13,Freshman,"6' 3""",230 lbs,True
@@ -98,4 +99,3 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 150,2026,5161366,Jack Ronilo,LS,49,Junior,"6' 1""",215 lbs,True
 150,2026,5218791,Cosme Salas,PK,39,Sophomore,"5' 7""",185 lbs,True
 150,2026,5291821,Gavin Strange,PK,25,Freshman,"5' 11""",175 lbs,True
-150,2026,5092975,Jack Yates,LS,27,Senior,"6' 0""",215 lbs,True

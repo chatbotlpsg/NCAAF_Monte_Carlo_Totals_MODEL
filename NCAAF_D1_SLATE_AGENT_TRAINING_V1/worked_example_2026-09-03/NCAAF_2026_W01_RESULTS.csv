@@ -1,0 +1,12 @@
+aita_event_id,matchup,away_team,home_team,away_h1_points,home_h1_points,away_reg_points,home_reg_points,away_final_points,home_final_points,went_to_ot,ot_periods,game_status,result_source,result_captured_at
+AITA_2026-09-03_001,Massachusetts Minutemen @ Rutgers Scarlet Knights,Massachusetts Minutemen,Rutgers Scarlet Knights,24,7,37,21,37,21,FALSE,0,FINAL,UMass Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,Bethune-Cookman Wildcats,UCF Knights,0,38,6,73,6,73,FALSE,0,FINAL,SportsbookReview box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,Akron Zips,Wake Forest Demon Deacons,3,28,16,38,16,38,FALSE,0,FINAL,Wake Forest Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,Merrimack Warriors,Delaware Blue Hens,0,21,7,42,7,42,FALSE,0,FINAL,Delaware Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,West Georgia Wolves,Kennesaw State Owls,0,40,0,47,0,47,FALSE,0,FINAL,Kennesaw State Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_006,UAlbany Great Danes @ Buffalo Bulls,UAlbany Great Danes,Buffalo Bulls,10,14,17,21,17,21,FALSE,0,FINAL,UAlbany Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,0,40,14,54,14,54,FALSE,0,FINAL,Arkansas-Pine Bluff Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,Colorado Buffaloes,Georgia Tech Yellow Jackets,7,10,14,13,14,13,FALSE,0,FINAL,The Football Database box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,Eastern Illinois Panthers,Minnesota Golden Gophers,7,35,7,59,7,59,FALSE,0,FINAL,Minnesota Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_010,Idaho Vandals @ Utah Utes,Idaho Vandals,Utah Utes,7,31,14,66,14,66,FALSE,0,FINAL,Utah Athletics box score,2026-09-04T20:16:03Z
+AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,UAB Blazers,Illinois Fighting Illini,13,21,23,42,23,42,FALSE,0,FINAL,UAB Athletics box score,2026-09-04T20:16:03Z

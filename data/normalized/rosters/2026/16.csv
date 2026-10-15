@@ -39,7 +39,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 16,2026,5297866,Jeremiah Ponce,OL,56,Freshman,"6' 3""",305 lbs,True
 16,2026,5084459,Cincere Rhaney,RB,3,Sophomore,"5' 10""",210 lbs,True
 16,2026,5401466,Montrell Rice,RB,34,Freshman,"6' 0""",230 lbs,True
-16,2026,5401458,Brian Salazar,QB,6,Sophomore,"6' 3""",170 lbs,True
+16,2026,5401458,Brian Salazar Jr.,QB,6,Sophomore,"6' 3""",170 lbs,True
 16,2026,5401457,Kenyon Shabazz,WR,4,Junior,"6' 4""",185 lbs,True
 16,2026,5158748,Jackson Sharman,QB,8,Junior,"6' 1""",195 lbs,True
 16,2026,5301041,DeAnthony Sheffield,OL,75,Junior,"6' 3""",329 lbs,True
@@ -54,10 +54,11 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 16,2026,5401456,Dante Antonini,LB,4,Senior,"6' 1""",226 lbs,True
 16,2026,5401483,Austin Aten,DL,94,Freshman,"6' 4""",240 lbs,True
 16,2026,4718461,Miles Bailey,DL,55,Senior,"6' 4""",297 lbs,True
+16,2026,5448599,Marcus Ball,LB,51,Freshman,"6' 2""",235 lbs,True
 16,2026,5294212,Devyn Blake,DL,99,Freshman,"6' 1""",300 lbs,True
 16,2026,5401459,Kaden Briggs,DL,7,Junior,"6' 3""",285 lbs,True
 16,2026,5301035,Jackson Cahoon,LB,31,Freshman,"6' 0""",219 lbs,True
-16,2026,5120904,Isiah Chala,DL,52,Junior,"6' 4""",275 lbs,True
+16,2026,5120904,Isiah Chala Jr.,DL,52,Junior,"6' 4""",275 lbs,True
 16,2026,5219037,Austin Chambers,DL,90,Sophomore,"6' 2""",270 lbs,True
 16,2026,5294213,Federico Cobarubio,DL,50,Freshman,"6' 2""",303 lbs,True
 16,2026,5086897,Diego Davis,LB,44,Senior,"6' 0""",235 lbs,True
@@ -69,7 +70,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 16,2026,5401461,Joshua Holani,S,14,Freshman,"5' 10""",180 lbs,True
 16,2026,5290761,Leki Holani,LB,16,Freshman,"6' 0""",226 lbs,True
 16,2026,5152803,Derek Houston,LB,10,Junior,"6' 1""",223 lbs,True
-16,2026,5160656,Jamel Howard,DL,58,Junior,"6' 2""",307 lbs,True
+16,2026,5160656,Jamel Howard Jr.,DL,58,Junior,"6' 2""",307 lbs,True
 16,2026,5152672,Darson Jeanty,LB,8,Senior,"6' 3""",215 lbs,True
 16,2026,5301033,KJ Jefferson,LB,15,Sophomore,"6' 0""",209 lbs,True
 16,2026,5401485,Collin Kallhoff,DL,98,Junior,"6' 4""",268 lbs,True
@@ -78,7 +79,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 16,2026,5147180,Nikko Klemm,CB,30,Sophomore,"5' 11""",169 lbs,True
 16,2026,5270719,Iosefa Lealofi,LB,40,Freshman,"6' 0""",215 lbs,True
 16,2026,5302897,Peyton McCutcheon,DL,32,Freshman,"6' 3""",225 lbs,True
-16,2026,5096121,Qualyn McQueen,S,20,Senior,"5' 9""",182 lbs,True
 16,2026,5401469,Keyon Mills,S,39,Sophomore,"5' 11""",185 lbs,True
 16,2026,5301030,Naytel Mitchell,S,25,Freshman,"5' 10""",191 lbs,True
 16,2026,5179117,Ivan Moore Jr.,LB,11,Sophomore,"6' 4""",217 lbs,True

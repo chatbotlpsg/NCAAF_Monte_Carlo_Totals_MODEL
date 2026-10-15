@@ -1,5 +1,5 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
-204,2026,5393663,Tanu A'aitui,OL,55,Freshman,"6' 3""",285 lbs,True
+204,2026,5393663,Tanu A'aitui,OL,52,Freshman,"6' 3""",285 lbs,True
 204,2026,5157305,Jacob Anderson,OL,74,Junior,"6' 6""",300 lbs,True
 204,2026,5327264,Isaiah Arriaza,QB,19,Freshman,"5' 9""",182 lbs,True
 204,2026,5212654,Braden Atkinson,QB,2,Sophomore,"6' 1""",208 lbs,True
@@ -21,7 +21,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 204,2026,5167313,Cornell Hatcher Jr.,RB,3,Sophomore,"6' 0""",210 lbs,True
 204,2026,5230871,Skyler Jackson,RB,33,Freshman,"6' 1""",220 lbs,True
 204,2026,5225293,Kwan Johnson,OL,69,Sophomore,"6' 5""",305 lbs,True
-204,2026,5296163,Brady Jones,QB,10,Senior,"6' 4""",197 lbs,True
+204,2026,5296163,Brady Jones,QB,10,Senior,"6' 4""",210 lbs,True
 204,2026,5393660,MJ Kennybrew,WR,21,Freshman,"6' 0""",185 lbs,True
 204,2026,5216707,Michael Langi,OL,70,Freshman,"6' 2""",285 lbs,True
 204,2026,5393665,Peter Langi,OL,65,Freshman,"6' 4""",380 lbs,True
@@ -41,12 +41,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 204,2026,5209415,Jameson Powell,WR,15,Freshman,"5' 10""",175 lbs,True
 204,2026,5085883,Jake Reichle,RB,34,Senior,"6' 2""",225 lbs,True
 204,2026,5229579,Teko Shoats,OL,50,Junior,"6' 3""",295 lbs,True
-204,2026,5143924,Broderick Shull,OL,67,Freshman,"6' 6""",331 lbs,True
 204,2026,5216840,Cody Siegner,TE,84,Freshman,"6' 7""",255 lbs,True
 204,2026,4869821,DeCorion Temple,TE,8,Senior,"6' 6""",245 lbs,True
 204,2026,5160504,Cynai Thomas,WR,16,Freshman,"6' 3""",188 lbs,True
 204,2026,5210431,Noah Thomas,OL,72,Freshman,"6' 6""",305 lbs,True
 204,2026,5075593,Josiah Timoteo,OL,71,Junior,"6' 5""",310 lbs,True
+204,2026,4907940,Tyler Voltin,OL,79,Senior,"6' 5""",335 lbs,True
 204,2026,5146718,Exodus Ayers,DB,23,Sophomore,"6' 2""",200 lbs,True
 204,2026,5393668,Tyler Bailey,DT,97,Junior,"6' 2""",308 lbs,True
 204,2026,5157302,Tiger Black,DT,60,Junior,"6' 1""",310 lbs,True
@@ -68,7 +68,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 204,2026,5393667,Cameron Hewitt,DT,94,Sophomore,"6' 2""",320 lbs,True
 204,2026,4872750,Takari Hickle,LB,44,Senior,"6' 3""",270 lbs,True
 204,2026,5297783,Jaylen Hill,DT,91,Freshman,"6' 5""",305 lbs,True
-204,2026,4685395,Tygee Hill,DT,95,Senior,"6' 3""",292 lbs,True
 204,2026,5189540,Tyjai Hopper,DB,24,Sophomore,"6' 2""",195 lbs,True
 204,2026,5225274,Isaiah Houi,DB,22,Junior,"5' 10""",175 lbs,True
 204,2026,5120455,Harlem Howard,DB,0,Junior,"6' 0""",190 lbs,True
@@ -83,8 +82,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 204,2026,5158139,Jessaia Moala,LB,48,Junior,"5' 11""",232 lbs,True
 204,2026,5216567,Jesse Myers,DT,45,Freshman,"6' 3""",256 lbs,True
 204,2026,4769838,Nick Norris,DT,92,Senior,"6' 5""",285 lbs,True
-204,2026,5153818,Jabari Odoemenem,LB,6,Senior,"6' 1""",234 lbs,True
+204,2026,5153818,Jabari Odoemenem,LB,3,Senior,"6' 1""",234 lbs,True
 204,2026,5148711,Adrian Onyiego,LB,58,Sophomore,"6' 3""",230 lbs,True
+204,2026,5218521,Jaheim Patterson,DB,6,Senior,"6' 4""",205 lbs,True
 204,2026,5158453,Tevita Pome'e,DT,59,Junior,"6' 3""",310 lbs,True
 204,2026,5157299,Clive Pond,LB,54,Junior,"6' 2""",225 lbs,True
 204,2026,5393661,Marquis Raspberry,DB,26,Senior,"6' 0""",185 lbs,True

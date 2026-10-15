@@ -24,8 +24,22 @@ def kelly_fraction(probability: float, american_odds: float) -> float:
 
 
 def price_candidate(p_mc: float, p_market: float, price: float, model_weight: float, conservative_strength: float, p_push: float = 0.0):
-    p_blend = model_weight*p_mc + (1-model_weight)*p_market
-    p_cons = 0.5 + (p_blend - 0.5)*max(0.0, min(1.0, conservative_strength))
+    p_mc = max(0.0, min(1.0, float(p_mc)))
+    p_market = max(0.0, min(1.0, float(p_market)))
+    w = max(0.0, min(1.0, float(model_weight)))
+    strength = max(0.0, min(1.0, float(conservative_strength)))
+
+    p_blend = w*p_mc + (1-w)*p_market
+
+    # One-way lower-bound probability for the selected side.
+    # Conservative probability can never be more optimistic than the
+    # pure model or blended model and therefore cannot create a +EV
+    # sign flip when raw/blended EV are both negative.
+    base_lower = min(p_mc, p_blend)
+    disagreement = abs(p_mc - p_market)
+    haircut = (1.0 - strength) * disagreement
+    p_cons = max(0.0, min(base_lower, base_lower - haircut))
+
     return {
         "P_MC": p_mc,
         "P_MARKET_FAIR": p_market,

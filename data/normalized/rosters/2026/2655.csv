@@ -18,7 +18,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2655,2026,5219718,Jaxon Ducre,OL,74,Sophomore,"6' 3""",252 lbs,True
 2655,2026,5141431,DJ Dugar,RB,21,Freshman,"6' 1""",212 lbs,True
 2655,2026,5193655,Tristen Fortenberry,OL,52,Sophomore,"6' 6""",315 lbs,True
-2655,2026,5219711,Seth Gale,WR,83,Sophomore,"5' 10""",171 lbs,True
+2655,2026,5219711,Seth Gale,WR,28,Sophomore,"5' 10""",171 lbs,True
 2655,2026,5302751,Tylan George,OL,67,Freshman,"6' 3""",319 lbs,True
 2655,2026,5389045,Deuce Hadley Jr.,WR,81,Freshman,"6' 2""",173 lbs,True
 2655,2026,5150834,Destyn Hill,WR,2,Junior,"6' 1""",191 lbs,True
@@ -47,7 +47,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2655,2026,5203726,Cameron Roberts,TE,87,Freshman,"6' 5""",237 lbs,True
 2655,2026,5389044,Riley Rushing,OL,71,Junior,"6' 4""",322 lbs,True
 2655,2026,5294300,Cade Scott,QB,7,Freshman,"6' 5""",216 lbs,True
-2655,2026,5294301,Cash Semonza,WR,37,Freshman,"5' 10""",178 lbs,True
+2655,2026,5294301,Cash Semonza,WR,84,Freshman,"5' 10""",178 lbs,True
 2655,2026,5091890,Kadin Semonza,QB,3,Junior,"5' 11""",195 lbs,True
 2655,2026,5209007,Colby Simpson,TE,88,Freshman,"6' 6""",247 lbs,True
 2655,2026,5121987,Kevin Adams III,S,7,Junior,"5' 10""",195 lbs,True
@@ -68,6 +68,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2655,2026,5147226,Chase Green,S,27,Sophomore,"5' 10""",200 lbs,True
 2655,2026,5085391,LJ Green,CB,22,Junior,"5' 10""",172 lbs,True
 2655,2026,5147842,Geordan Guidry,DL,96,Sophomore,"6' 2""",282 lbs,True
+2655,2026,4912184,Kameron Hamilton,DL,70,Senior,"6' 4""",294 lbs,True
 2655,2026,5093012,Gerrod Henderson,DE,10,Senior,"6' 2""",267 lbs,True
 2655,2026,4710019,Dalton Hughes,LB,11,Senior,"6' 3""",226 lbs,True
 2655,2026,5141514,Michael Igbinoghene,DB,24,Freshman,"5' 10""",198 lbs,True
@@ -90,7 +91,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2655,2026,4698572,Derrick Shepard Jr.,DL,94,Senior,"6' 3""",313 lbs,True
 2655,2026,5147197,E'zaiah Shine,CB,5,Sophomore,"6' 1""",201 lbs,True
 2655,2026,5210048,Josh Sims,DB,6,Freshman,"6' 0""",192 lbs,True
-2655,2026,5294302,Miles Smith,DE,89,Freshman,"6' 1""",206 lbs,True
 2655,2026,5389039,John Allen,P,38,Freshman,"6' 4""",189 lbs,True
 2655,2026,5294289,Jason Arredondo,LS,57,Sophomore,"5' 10""",219 lbs,True
 2655,2026,5389042,Graham Coady,LS,63,Freshman,"6' 1""",194 lbs,True

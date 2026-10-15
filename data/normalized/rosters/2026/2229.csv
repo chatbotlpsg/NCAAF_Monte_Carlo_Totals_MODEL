@@ -8,7 +8,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5222534,Tyson Carter,WR,13,Sophomore,"5' 11""",175 lbs,True
 2229,2026,4837175,Miguel Cedeno,OL,75,Senior,"6' 8""",320 lbs,True
 2229,2026,5222792,Samson Chazulle,OL,76,Freshman,"6' 3""",325 lbs,True
-2229,2026,5152861,Oscar Colon,OL,58,Junior,"6' 3""",310 lbs,True
+2229,2026,5152861,Oscar Colon,OL,58,Junior,"6' 5""",310 lbs,True
 2229,2026,5273264,Justin Compere,RB,36,Freshman,"5' 10""",195 lbs,True
 2229,2026,5158412,Noah Fernandez,OL,60,Junior,"6' 3""",315 lbs,True
 2229,2026,4608805,Zaire Flournoy,OL,54,Senior,"6' 3""",335 lbs,True
@@ -20,7 +20,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5122159,Daveion Harley,OL,55,Junior,"6' 1""",310 lbs,True
 2229,2026,5158414,Nate Henry,RB,21,Junior,"5' 9""",190 lbs,True
 2229,2026,5295585,Dylan Herman,WR,80,Sophomore,"5' 11""",190 lbs,True
-2229,2026,5217201,Amari Isaac,WR,12,Sophomore,"6' 1""",205 lbs,True
+2229,2026,5217201,Amari Isaac,WR,12,Freshman,"6' 1""",205 lbs,True
 2229,2026,5299092,Matt Ivaldi,QB,20,Freshman,"5' 11""",200 lbs,True
 2229,2026,5164324,Sterling Joseph,RB,22,Freshman,"5' 9""",195 lbs,True
 2229,2026,4870883,JJ Kohl,QB,17,Junior,"6' 7""",250 lbs,True
@@ -36,7 +36,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5293340,Ayden Passley,TE,81,Freshman,"6' 5""",230 lbs,True
 2229,2026,5302768,Malik Penson,WR,83,Freshman,"5' 10""",170 lbs,True
 2229,2026,5079684,James Resar,TE,4,Sophomore,"6' 5""",235 lbs,True
-2229,2026,5101200,Manasseh Ripert,OL,51,Senior,"6' 4""",290 lbs,True
 2229,2026,5157188,Jon Rodriguez,OL,67,Sophomore,"6' 5""",300 lbs,True
 2229,2026,4698120,Kevin Schaeffer,TE,88,Senior,"6' 5""",245 lbs,True
 2229,2026,5270807,Barrett Schulz,WR,84,Freshman,"6' 5""",190 lbs,True
@@ -52,7 +51,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5382716,Elisha Baldridge,DL,97,Junior,"6' 3""",245 lbs,True
 2229,2026,4431195,DeAndre Boykins,DB,2,Senior,"5' 11""",200 lbs,True
 2229,2026,5197101,Tyderick Brown,DB,23,Freshman,"6' 0""",175 lbs,True
-2229,2026,5143170,Germaine Carter,DT,99,Junior,"5' 11""",270 lbs,True
+2229,2026,5143170,Germaine Carter,DL,99,Junior,"5' 11""",270 lbs,True
 2229,2026,4911903,Jai-Ayviauynn Celestine,DB,7,Senior,"5' 9""",175 lbs,True
 2229,2026,5291808,Jahmani Chin-Suer,DB,35,Freshman,"5' 9""",170 lbs,True
 2229,2026,4917298,Percy Courtney Jr.,LB,11,Senior,"6' 0""",225 lbs,True
@@ -78,12 +77,11 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5302774,Demitris Mincey,LB,31,Freshman,"6' 1""",210 lbs,True
 2229,2026,5382715,Lukenson Morancy,DL,92,Freshman,"6' 3""",275 lbs,True
 2229,2026,5160223,RJ Moss Jr.,DL,12,Junior,"6' 3""",285 lbs,True
-2229,2026,5096274,Richard Nwaukoni,DL,48,Senior,"6' 3""",280 lbs,True
 2229,2026,5446766,Nealan Perez,DL,93,Freshman,"6' 5""",225 lbs,True
 2229,2026,5082436,Kyrie Samuel,DL,91,Senior,"5' 11""",260 lbs,True
 2229,2026,5296253,Elijah Simmons,DL,88,Senior,"6' 0""",285 lbs,True
-2229,2026,5295586,Kenton Simmons,DE,5,Senior,"6' 4""",245 lbs,True
-2229,2026,5272623,Michael Smarts,DE,44,Freshman,"6' 4""",240 lbs,True
+2229,2026,5295586,Kenton Simmons,DL,5,Senior,"6' 4""",245 lbs,True
+2229,2026,5272623,Michael Smarts,DL,44,Freshman,"6' 4""",240 lbs,True
 2229,2026,5141690,Anthony Smith,DL,95,Sophomore,"6' 2""",345 lbs,True
 2229,2026,5264369,Kani Smith,LB,17,Sophomore,"6' 2""",210 lbs,True
 2229,2026,5196863,Shamir Sterlin,DB,1,Sophomore,"6' 2""",215 lbs,True
@@ -93,9 +91,11 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2229,2026,5161914,Dominic Turnbull,DB,29,Freshman,"6' 2""",195 lbs,True
 2229,2026,5295587,Ormond Wallace,DB,10,Senior,"6' 0""",210 lbs,True
 2229,2026,5158422,Nick Watson,DL,16,Senior,"6' 3""",235 lbs,True
+2229,2026,5292279,Zay West,DB,26,Freshman,"6' 0""",170 lbs,True
 2229,2026,5230751,Robert Czeremcha,PK,48,Sophomore,"6' 1""",175 lbs,True
 2229,2026,5382710,Holden Harkins,LS,46,Freshman,"5' 10""",190 lbs,True
 2229,2026,5382713,Rodrigo Marron,LS,86,Freshman,"5' 8""",165 lbs,True
 2229,2026,5291874,Noah Sidan,PK,30,Freshman,"5' 8""",165 lbs,True
 2229,2026,5184514,Stone Springman,P,41,Junior,"6' 3""",215 lbs,True
 2229,2026,5382711,Conrad Tolerico,P,49,Freshman,"6' 1""",175 lbs,True
+2229,2026,5382709,Felix Visser,P,43,Freshman,"6' 2""",215 lbs,True

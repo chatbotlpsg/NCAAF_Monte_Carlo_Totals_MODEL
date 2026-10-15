@@ -1,7 +1,7 @@
 season: 2026
 sport_key: americanfootball_ncaaf
-model_version: ncaaf_mc_totals_v1.1.0
-pipeline_version: 1.1.0
+model_version: ncaaf_mc_totals_v1.1.1
+pipeline_version: 1.1.1
 feature_version: ncaaf_features_v1.1
 simulation:
   seed: 20260901

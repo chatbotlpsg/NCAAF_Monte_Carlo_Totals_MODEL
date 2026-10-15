@@ -54,6 +54,8 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 96,2026,5369964,Kendall Tambling,QB,82,Freshman,"6' 5""",240 lbs,True
 96,2026,5369963,Hank Timon,OL,69,Freshman,"6' 6""",318 lbs,True
 96,2026,4685558,Tegra Tshabola,OL,77,Senior,"6' 3""",329 lbs,True
+96,2026,5164333,Brennen Ward,QB,14,Sophomore,"6' 4""",227 lbs,True
+96,2026,5211206,Lincoln Watkins,TE,11,Freshman,"6' 4""",234 lbs,True
 96,2026,4896319,Nasir Addison,DB,21,Senior,"6' 0""",204 lbs,True
 96,2026,4923030,Jesse Anderson III,DB,16,Senior,"6' 0""",185 lbs,True
 96,2026,5142590,Elijah Barnes,LB,0,Sophomore,"6' 1""",242 lbs,True
@@ -88,6 +90,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 96,2026,5148945,Hasaan Sykes,DB,12,Junior,"6' 0""",192 lbs,True
 96,2026,4871073,Kevis Thomas,DB,19,Senior,"6' 0""",181 lbs,True
 96,2026,5125776,Tyler Thomas,DE,97,Senior,"6' 5""",260 lbs,True
+96,2026,5369955,Braxton Urquhart,DB,11,Senior,"6' 3""",200 lbs,True
+96,2026,5141745,Tavion Wallace,LB,25,Sophomore,"6' 1""",241 lbs,True
+96,2026,5229431,Andrew Weber,DB,36,Junior,"6' 0""",179 lbs,True
 96,2026,4683967,Wilson Berry,P,93,Senior,"6' 4""",206 lbs,True
 96,2026,5147946,Jacob Kauwe,PK,91,Junior,"6' 1""",216 lbs,True
 96,2026,5092250,Cole Marszalek,LS,40,Senior,"5' 11""",197 lbs,True

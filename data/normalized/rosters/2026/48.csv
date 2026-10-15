@@ -3,7 +3,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 48,2026,5296312,EJ Archield Jr.,QB,11,Sophomore,"6' 4""",215 lbs,True
 48,2026,5289314,Tyler Bell,QB,7,Freshman,"6' 1""",195 lbs,True
 48,2026,5401942,Jake Blum,WR,81,Freshman,"6' 1""",193 lbs,True
-48,2026,5302765,Collier Book,OL,63,Freshman,"6' 5""",275 lbs,True
+48,2026,5302765,Collier Book,OL,94,Freshman,"6' 5""",275 lbs,True
 48,2026,5296343,Jaxson Bowman,TE,86,Sophomore,"6' 5""",255 lbs,True
 48,2026,5224773,Luke Brown,WR,43,Junior,"5' 10""",180 lbs,True
 48,2026,5079363,Tyler Burnham,OL,74,Junior,"6' 6""",320 lbs,True
@@ -66,7 +66,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 48,2026,5296322,AJ Graham,S,27,Sophomore,"6' 1""",205 lbs,True
 48,2026,5296327,Dillon Griffith,LB,37,Sophomore,"6' 0""",195 lbs,True
 48,2026,5271368,Trent Gummer,CB,21,Freshman,"5' 10""",175 lbs,True
-48,2026,5296331,Yamdry Hernandez,DE,49,Sophomore,"6' 3""",242 lbs,True
+48,2026,5296331,Yamdry Hernandez,DE,47,Sophomore,"6' 3""",242 lbs,True
 48,2026,5296315,Noah Jefferson,S,16,Sophomore,"6' 2""",194 lbs,True
 48,2026,5327490,Dannell Jester Jr.,S,5,Freshman,"6' 0""",185 lbs,True
 48,2026,5296317,Jamarion Kolagbodi,CB,18,Sophomore,"6' 0""",180 lbs,True

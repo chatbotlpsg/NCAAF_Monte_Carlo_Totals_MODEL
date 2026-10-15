@@ -4,7 +4,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2653,2026,5388770,Jayvin Bennett,TE,86,Sophomore,"6' 2""",232 lbs,True
 2653,2026,4837259,DeWhitt Betterson Jr.,RB,26,Senior,"6' 0""",214 lbs,True
 2653,2026,5222668,Jatorian Blackmon,OL,66,Sophomore,"6' 5""",320 lbs,True
-2653,2026,5258359,Gavin Bowlin,OL,50,Sophomore,"6' 6""",323 lbs,True
 2653,2026,5147346,Jywon Boyd,WR,2,Junior,"6' 0""",178 lbs,True
 2653,2026,5327461,Antwone Breland,OL,71,Junior,"6' 6""",299 lbs,True
 2653,2026,5388765,Bryce Burgess,RB,22,Junior,"5' 7""",163 lbs,True
@@ -24,6 +23,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2653,2026,5148784,TK Keyes,WR,8,Junior,"6' 2""",207 lbs,True
 2653,2026,4912119,Tucker Kilcrease,QB,10,Senior,"6' 0""",208 lbs,True
 2653,2026,5388762,Howard Kinchen,WR,18,Senior,"6' 3""",190 lbs,True
+2653,2026,5448637,Chris King,OL,59,,"6' 2""",295 lbs,True
 2653,2026,5215396,Andrew Leslie,WR,84,Sophomore,"5' 11""",199 lbs,True
 2653,2026,5078105,TJ Lott,WR,15,Senior,"5' 11""",163 lbs,True
 2653,2026,5120317,Jordan Lovett,RB,1,Senior,"5' 10""",186 lbs,True
@@ -45,6 +45,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2653,2026,5220679,Rodge Waldrop,QB,11,Junior,"6' 5""",216 lbs,True
 2653,2026,5164341,AC Walters,RB,21,Sophomore,"5' 10""",199 lbs,True
 2653,2026,5079632,Noreel White,WR,4,Junior,"6' 1""",195 lbs,True
+2653,2026,5102980,Jacorey Whitted,TE,89,Junior,"6' 6""",278 lbs,True
 2653,2026,5200106,JT Alvis,LB,23,Sophomore,"6' 1""",215 lbs,True
 2653,2026,5295866,Gavyn Baker,LB,46,Junior,"6' 1""",222 lbs,True
 2653,2026,5222667,Jon Bocchino,S,19,Sophomore,"6' 0""",201 lbs,True
@@ -62,7 +63,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2653,2026,5079476,Kavion Henderson,DE,25,Junior,"6' 2""",256 lbs,True
 2653,2026,4912242,Luke Hodge,LB,44,Senior,"6' 2""",220 lbs,True
 2653,2026,5296737,Hank James,S,36,Freshman,"6' 0""",182 lbs,True
-2653,2026,5388761,Keno Jones,LB,15,Senior,"6' 2""",228 lbs,True
 2653,2026,5388758,Jamarion Keyes,S,9,Junior,"6' 1""",205 lbs,True
 2653,2026,5194809,Joe Lott,S,29,Junior,"6' 3""",192 lbs,True
 2653,2026,5291783,Jermaine Mccree,CB,32,Freshman,"5' 11""",166 lbs,True
@@ -96,6 +96,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2653,2026,4899096,Evan Crenshaw,P,28,Senior,"6' 4""",184 lbs,True
 2653,2026,5219720,Ethan Head,PK,33,Junior,"6' 1""",186 lbs,True
 2653,2026,5297022,Austin Lewis,P,49,Sophomore,"5' 11""",184 lbs,True
-2653,2026,5152811,Kinnick Manley,LS,24,Senior,"6' 2""",201 lbs,True
+2653,2026,5152811,Kinnick Manley,LS,68,Senior,"6' 2""",201 lbs,True
 2653,2026,5295861,Jaden Tynes,PK,20,Sophomore,"6' 3""",178 lbs,True
 2653,2026,5122109,Colton Walls,LS,87,Senior,"6' 3""",237 lbs,True

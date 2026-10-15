@@ -4,7 +4,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2117,2026,5295480,Marcus Beamon,QB,10,Senior,"6' 0""",210 lbs,True
 2117,2026,5122147,Vaughn Blue,RB,24,Junior,"5' 11""",205 lbs,True
 2117,2026,5120452,Jacob Booth,OL,69,Junior,"6' 5""",295 lbs,True
-2117,2026,5075622,Rory Callahan,OL,64,Sophomore,"6' 4""",275 lbs,True
 2117,2026,5157391,Jayden Clerveaux,RB,31,Senior,"5' 11""",215 lbs,True
 2117,2026,5153454,Nic DiSanto,OL,56,Senior,"6' 5""",320 lbs,True
 2117,2026,5327593,Da'Shon Febres,WR,83,Freshman,"6' 0""",195 lbs,True
@@ -54,14 +53,15 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2117,2026,5077369,Jamari Allen,DB,21,Junior,"6' 0""",170 lbs,True
 2117,2026,5151489,Jeremiah Alston,LB,10,Junior,"6' 0""",230 lbs,True
 2117,2026,5222213,Nolan Anderson,DB,22,Freshman,"5' 10""",185 lbs,True
-2117,2026,5387645,Joshua Atiemo,LB,56,Freshman,"6' 1""",215 lbs,True
+2117,2026,5387645,Joshua Atiemo,LB,49,Freshman,"6' 1""",215 lbs,True
 2117,2026,5281454,Colton Benaitis,DB,37,Freshman,"6' 2""",195 lbs,True
-2117,2026,5387634,D.J. Bennett,DL,0,Senior,"6' 5""",265 lbs,True
+2117,2026,5219552,D.J. Bennett,DL,0,Senior,"6' 5""",260 lbs,True
 2117,2026,5170142,Quavion Bird,DL,96,Sophomore,"6' 1""",300 lbs,True
 2117,2026,5146738,Josiah Booker,DB,16,Sophomore,"5' 10""",160 lbs,True
 2117,2026,5126290,Logan Borodychuk,DL,82,Sophomore,"6' 5""",255 lbs,True
-2117,2026,5387644,Donovan Brown,LB,50,Sophomore,"6' 1""",265 lbs,True
+2117,2026,5387644,Donovan Brown,DL,50,Sophomore,"6' 1""",265 lbs,True
 2117,2026,5229975,Darrell Bryant Jr.,DB,19,Senior,"5' 11""",215 lbs,True
+2117,2026,5075622,Rory Callahan,DL,64,Sophomore,"6' 4""",275 lbs,True
 2117,2026,5086469,Tysen Campbell,DB,27,Sophomore,"6' 0""",175 lbs,True
 2117,2026,5387649,Jaxon Cherry,DL,92,Junior,"6' 1""",260 lbs,True
 2117,2026,5387639,Antonio Cherry Jr.,LB,30,Sophomore,"6' 1""",235 lbs,True
@@ -88,7 +88,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2117,2026,5083474,James Reinbold,DL,32,Senior,"6' 4""",260 lbs,True
 2117,2026,5279561,Elijah Reynolds,LB,33,Freshman,"6' 2""",230 lbs,True
 2117,2026,5300622,Collin Stare,DL,53,Freshman,"6' 2""",270 lbs,True
-2117,2026,5271233,E'Shawn Sutton,DB,38,Freshman,"6' 0""",190 lbs,True
+2117,2026,5271233,EShawn Sutton,DB,38,Freshman,"6' 0""",190 lbs,True
 2117,2026,5069279,Justin Taylor,DB,14,Junior,"6' 0""",200 lbs,True
 2117,2026,4878196,Max Van Fleet,DL,97,Senior,"6' 4""",275 lbs,True
 2117,2026,5077819,Nathan VanTimmeren,DL,48,Junior,"6' 5""",235 lbs,True

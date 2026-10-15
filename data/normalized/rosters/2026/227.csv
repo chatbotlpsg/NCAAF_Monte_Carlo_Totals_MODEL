@@ -3,7 +3,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 227,2026,5083404,Tre Alexander,OL,74,Senior,"6' 2""",321 lbs,True
 227,2026,5301095,Stephen Antonucci Jr.,OL,52,Sophomore,"6' 3""",285 lbs,True
 227,2026,5153973,Alvarez Baker,WR,85,Senior,"5' 9""",180 lbs,True
-227,2026,4602644,BJ Barrow,RB,2,Senior,"5' 8""",190 lbs,True
+227,2026,4602644,Brendon Barrow,RB,2,Senior,"5' 8""",190 lbs,True
 227,2026,5081794,Jayden Bass,OL,79,Senior,"6' 6""",320 lbs,True
 227,2026,5153970,Dontay Bishop,OL,56,Senior,"6' 6""",315 lbs,True
 227,2026,4685700,Rian Black,WR,18,Senior,"6' 0""",210 lbs,True
@@ -22,7 +22,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 227,2026,5301088,Larry Gailloux Jr.,WR,39,Sophomore,"5' 8""",158 lbs,True
 227,2026,4685358,Kevin Green Jr.,WR,6,Senior,"5' 11""",165 lbs,True
 227,2026,5153960,Carson Harwood,RB,25,Senior,"6' 0""",220 lbs,True
-227,2026,4769792,CJ Hawkins,WR,14,Senior,"6' 7""",230 lbs,True
+227,2026,4769792,C.J. Hawkins,WR,14,Senior,"6' 7""",230 lbs,True
 227,2026,5301091,Liam Hubacz,TE,89,Sophomore,"6' 5""",230 lbs,True
 227,2026,5301100,Griffin Kleinknecht,OL,63,Sophomore,"6' 3""",285 lbs,True
 227,2026,5087090,Aboraa Kwarteng,WR,5,Senior,"6' 2""",190 lbs,True
@@ -45,7 +45,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 227,2026,5301082,Ben Roden,QB,17,Sophomore,"6' 3""",200 lbs,True
 227,2026,5301084,Mekhi Rossignol,WR,81,Sophomore,"6' 0""",175 lbs,True
 227,2026,5164565,Anthony Santoro,WR,83,Senior,"5' 11""",170 lbs,True
-227,2026,5193356,Joshua Schuetzmann,OL,71,Junior,"6' 7""",310 lbs,True
+227,2026,5193356,Josh Schuetzmann,OL,71,Junior,"6' 7""",310 lbs,True
 227,2026,5301087,Evan Spencer,TE,37,Sophomore,"6' 0""",205 lbs,True
 227,2026,5405116,Darryl St Clermont,OL,60,Freshman,"6' 4""",277 lbs,True
 227,2026,5405115,Teddy Welch,OL,59,Freshman,"6' 2""",285 lbs,True

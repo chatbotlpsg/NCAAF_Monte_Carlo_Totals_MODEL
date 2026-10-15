@@ -10,7 +10,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,5291805,Arlando Crafton Jr.,TE,81,Freshman,"6' 4""",240 lbs,True
 98,2026,5278125,Jordan Curll,OL,69,Freshman,"6' 4""",280 lbs,True
 98,2026,5209932,Jackson Dialls,OL,64,Freshman,"6' 4""",310 lbs,True
-98,2026,5125726,CC Ezirim,TE,20,Senior,"6' 7""",250 lbs,True
+98,2026,5125726,CC Ezirim,TE,14,Senior,"6' 7""",250 lbs,True
 98,2026,5155579,Cameron Flowers,WR,4,Sophomore,"5' 11""",190 lbs,True
 98,2026,4920158,Brock Glenn,QB,11,Junior,"6' 2""",225 lbs,True
 98,2026,5291156,Devin Hamilton,WR,18,Freshman,"6' 4""",210 lbs,True
@@ -20,6 +20,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,5151200,Qua'Vez Humphreys,WR,7,Senior,"6' 3""",225 lbs,True
 98,2026,4705859,K.D. Hutchinson,WR,2,Senior,"5' 8""",185 lbs,True
 98,2026,4872725,Alec Johnson,OL,50,Senior,"6' 1""",295 lbs,True
+98,2026,5159234,Nigel Johnson,WR,21,Senior,"6' 5""",200 lbs,True
 98,2026,4900024,Rhett Larson,OL,70,Senior,"6' 4""",315 lbs,True
 98,2026,5218826,Alex Lopez,OL,59,Freshman,"6' 7""",310 lbs,True
 98,2026,5147844,Tyreek Major,OL,78,Sophomore,"6' 5""",325 lbs,True
@@ -44,7 +45,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,4921322,Zion Taylor,WR,17,Junior,"6' 0""",210 lbs,True
 98,2026,5295672,Max Thurston,OL,76,Sophomore,"6' 5""",300 lbs,True
 98,2026,5196864,Rodney Tisdale Jr.,QB,5,Sophomore,"6' 2""",195 lbs,True
-98,2026,5218827,Karsten Upchurch,OL,74,Senior,"6' 5""",295 lbs,True
 98,2026,5193652,Geajorm Akpaloo,LB,18,Junior,"6' 1""",230 lbs,True
 98,2026,5266918,Westen Ard,LB,32,Freshman,"6' 1""",235 lbs,True
 98,2026,5295663,Jordan Bergeron,DB,27,Freshman,"6' 1""",185 lbs,True
@@ -69,6 +69,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,4432726,Zeiqui Lawton,DT,33,Senior,"6' 2""",290 lbs,True
 98,2026,4701950,Jaylen Lewis,DB,7,Senior,"5' 11""",187 lbs,True
 98,2026,4832790,Garrison Madden,LB,15,Senior,"6' 3""",235 lbs,True
+98,2026,5088939,Mackavelli Malotumau,DT,0,Senior,"6' 1""",295 lbs,True
 98,2026,5394208,Walter Manning,DB,31,Sophomore,"5' 11""",185 lbs,True
 98,2026,5151129,Joshua Mensah,LB,29,Senior,"6' 1""",218 lbs,True
 98,2026,5223087,Leonzay Merzius,DB,26,Freshman,"5' 10""",175 lbs,True
@@ -87,10 +88,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,4808750,Venson Sneed,DE,55,Senior,"6' 4""",268 lbs,True
 98,2026,5327574,PJ Souffrant,DB,23,Freshman,"5' 10""",180 lbs,True
 98,2026,5141709,Sharlandiin Strange,DE,59,Freshman,"6' 4""",244 lbs,True
+98,2026,5093756,Rylen Su'a-Filo,DT,93,Senior,"6' 1""",320 lbs,True
 98,2026,5278086,Isaac Tanis,DE,57,Freshman,"6' 2""",228 lbs,True
 98,2026,5141716,Brandon Thomas,DE,41,Freshman,"6' 4""",224 lbs,True
 98,2026,5083777,Latrevion Thompson,DE,13,Senior,"6' 3""",248 lbs,True
-98,2026,5394207,D'Cambren Verrett,DB,8,Junior,"6' 2""",205 lbs,True
 98,2026,5221146,Michael Buck,PK,58,Sophomore,"5' 10""",177 lbs,True
 98,2026,5394214,Karl Campbell,PK,99,Freshman,"6' 5""",225 lbs,True
 98,2026,5394212,Nolan Imhoff,LS,49,Junior,"5' 11""",233 lbs,True
@@ -98,4 +99,3 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 98,2026,5220032,Bailey Sanders,LS,44,Sophomore,"5' 11""",223 lbs,True
 98,2026,4806380,Jackson Smith,PK,43,Senior,"5' 10""",215 lbs,True
 98,2026,5154386,Michael Smith,PK,33,Sophomore,"5' 6""",172 lbs,True
-98,2026,5394209,Daniel Wall,P,35,Freshman,"6' 1""",190 lbs,True

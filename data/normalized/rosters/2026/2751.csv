@@ -49,9 +49,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2751,2026,4879876,Isaac Schoenfeld,TE,87,Senior,"6' 5""",260 lbs,True
 2751,2026,4826579,Tyler Siddons,TE,80,Senior,"6' 5""",254 lbs,True
 2751,2026,5296625,Landon Sims,QB,14,Junior,"6' 3""",217 lbs,True
+2751,2026,5323607,Jordan Styles,WR,81,Freshman,"6' 0""",207 lbs,True
 2751,2026,5258130,Elvin Ampofo,S,13,Freshman,"6' 0""",182 lbs,True
 2751,2026,5193291,Dash Bauman,LB,46,Sophomore,"6' 2""",237 lbs,True
-2751,2026,4432660,Anthony Beavers,LB,2,Senior,"6' 2""",237 lbs,True
 2751,2026,5121690,Ian Bell,CB,3,Junior,"6' 1""",190 lbs,True
 2751,2026,5296624,Esaia Bogar,DE,11,Senior,"6' 2""",255 lbs,True
 2751,2026,5257978,Cade Brook,DE,90,Freshman,"6' 3""",256 lbs,True
@@ -67,7 +67,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2751,2026,5150905,Travis Franklin Jr.,S,2,Senior,"5' 11""",185 lbs,True
 2751,2026,5315931,Boston Gable,LB,28,Freshman,"6' 0""",216 lbs,True
 2751,2026,5085511,Thaddeus Gianaris,DE,51,Senior,"6' 2""",252 lbs,True
-2751,2026,5309286,Kendall Griffin,CB,19,Freshman,"5' 11""",190 lbs,True
+2751,2026,5309286,Kendall Griffin,CB,12,Freshman,"5' 11""",190 lbs,True
 2751,2026,5265449,Jason Handy,DE,47,Freshman,"6' 4""",247 lbs,True
 2751,2026,5220550,Alex Haswell,DL,97,Sophomore,"6' 5""",295 lbs,True
 2751,2026,5302905,Beck Haswell,DE,94,Freshman,"6' 3""",252 lbs,True

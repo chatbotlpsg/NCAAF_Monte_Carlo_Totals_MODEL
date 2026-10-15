@@ -25,11 +25,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 213,2026,5208134,Malachi Goodman,OL,78,Freshman,"6' 6""",330 lbs,True
 213,2026,5077502,Carson Hansen,RB,21,Senior,"6' 2""",216 lbs,True
 213,2026,5079496,Donnie Harbour,OL,79,Sophomore,"6' 3""",333 lbs,True
+213,2026,5312161,Max Heffner,WR,37,Freshman,"5' 11""",176 lbs,True
 213,2026,5230375,Liam Horan,OL,61,Sophomore,"6' 3""",292 lbs,True
 213,2026,5141525,Koby Howard,WR,6,Sophomore,"5' 11""",203 lbs,True
 213,2026,5331989,Tyshon Huff,OL,72,Junior,"6' 4""",292 lbs,True
 213,2026,5214469,Vaea Ikakoula,OL,54,Freshman,"6' 3""",326 lbs,True
-213,2026,5273821,Amarion Jackson,WR,19,Freshman,"6' 2""",192 lbs,True
+213,2026,5273821,Amarion Jackson,WR,9,Freshman,"6' 2""",192 lbs,True
 213,2026,5230176,Keith Jones Jr.,WR,15,Sophomore,"6' 4""",197 lbs,True
 213,2026,5211208,Brian Kortovich,TE,83,Freshman,"6' 4""",241 lbs,True
 213,2026,5211194,Kuol Kuol II,OL,74,Freshman,"6' 6""",291 lbs,True
@@ -67,11 +68,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 213,2026,5076123,Kooper Ebel,LB,8,Senior,"6' 4""",233 lbs,True
 213,2026,4826502,Ikenna Ezeogu,DE,1,Senior,"6' 5""",273 lbs,True
 213,2026,5209266,Chris Fileppo,LB,34,Sophomore,"6' 4""",219 lbs,True
-213,2026,5244760,Jackson Ford,DE,89,Freshman,"6' 5""",264 lbs,True
+213,2026,5244760,Jackson Ford,DE,89,Freshman,"6' 4""",264 lbs,True
 213,2026,5141483,Max Granville,DE,18,Sophomore,"6' 3""",252 lbs,True
-213,2026,5312161,Max Heffner,CB,37,Freshman,"5' 11""",176 lbs,True
 213,2026,5214530,Joshua Johnson,CB,15,Freshman,"6' 2""",189 lbs,True
-213,2026,5141548,Jahmir Joseph,CB,23,Freshman,"6' 0""",190 lbs,True
+213,2026,5141548,Jahmir Joseph,CB,0,Freshman,"6' 0""",190 lbs,True
 213,2026,5276923,Keian Kaiser,LB,40,Freshman,"6' 4""",215 lbs,True
 213,2026,5213238,Yvan Kemajou,DE,19,Sophomore,"6' 3""",252 lbs,True
 213,2026,5081870,John Klosterman,LB,32,Senior,"5' 11""",223 lbs,True
@@ -79,7 +79,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 213,2026,5375167,Jake Lukac,LB,40,Freshman,"6' 1""",210 lbs,True
 213,2026,5195461,Ibn McDaniels,S,24,Sophomore,"6' 3""",202 lbs,True
 213,2026,5215273,Alexander McPherson,DE,33,Sophomore,"6' 6""",254 lbs,True
-213,2026,5160165,Bobby Mears,DE,93,Junior,"6' 4""",257 lbs,True
+213,2026,5160165,Bobby Mears,DE,86,Junior,"6' 4""",257 lbs,True
 213,2026,5160622,Donte Nastasi,CB,16,Junior,"5' 10""",169 lbs,True
 213,2026,5173604,Marcus Neal Jr.,S,31,Junior,"6' 1""",216 lbs,True
 213,2026,5125968,Armstrong Nnodim,DT,91,Sophomore,"6' 2""",310 lbs,True

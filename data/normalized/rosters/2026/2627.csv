@@ -3,7 +3,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2627,2026,5442168,Markellus Bass,RB,0,Junior,"5' 11""",200 lbs,True
 2627,2026,5163608,Connor Beeman,OL,71,Senior,"6' 3""",280 lbs,True
 2627,2026,5442183,Nate Boudy,OL,52,Freshman,"6' 3""",280 lbs,True
-2627,2026,5442174,Miequle Brock,RB,22,Junior,"5' 9""",200 lbs,True
+2627,2026,5226523,Miequle Brock,RB,22,Junior,"5' 9""",200 lbs,True
 2627,2026,5087357,DeAndre Buchannon,WR,9,Senior,"5' 10""",175 lbs,True
 2627,2026,5089568,Evan Carney,OL,78,Senior,"6' 5""",305 lbs,True
 2627,2026,5302058,Cardea Collier,QB,15,Sophomore,"5' 10""",150 lbs,True
@@ -42,7 +42,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2627,2026,5302068,Landon Rangel,OL,65,Sophomore,"6' 5""",285 lbs,True
 2627,2026,5295135,Braylon Reado,OL,74,Freshman,"6' 7""",240 lbs,True
 2627,2026,4880407,Charlie Robinson,TE,47,Senior,"6' 1""",245 lbs,True
-2627,2026,5442176,Fred Adams,DB,28,Senior,"5' 10""",170 lbs,True
+2627,2026,5302070,Colton Rodriguez,WR,80,Sophomore,"5' 9""",165 lbs,True
 2627,2026,5295753,Fredd Adams,DB,8,Senior,"5' 9""",170 lbs,True
 2627,2026,5163596,Steve Albert Jr.,LB,25,Senior,"6' 3""",220 lbs,True
 2627,2026,5442175,Martin Alisandro,DB,26,Sophomore,"6' 3""",190 lbs,True

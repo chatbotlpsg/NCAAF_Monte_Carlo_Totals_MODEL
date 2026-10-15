@@ -48,7 +48,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 38,2026,4714496,Taj White,OL,54,Senior,"6' 5""",310 lbs,True
 38,2026,5122077,Charlie Williams,TE,87,Senior,"6' 4""",245 lbs,True
 38,2026,4871048,Hykeem Williams,WR,5,Senior,"6' 2""",220 lbs,True
-38,2026,5189530,Joseph Williams,WR,8,Junior,"6' 2""",200 lbs,True
 38,2026,5087182,Toby Anene,DE,53,Senior,"6' 4""",260 lbs,True
 38,2026,5158952,Preston Ashley,CB,31,Freshman,"5' 11""",185 lbs,True
 38,2026,5123274,Jah Jah Boyd,DB,15,Junior,"5' 11""",190 lbs,True
@@ -69,6 +68,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 38,2026,5290698,Colby Johnson,LB,40,Freshman,"6' 2""",195 lbs,True
 38,2026,5221291,RJ Johnson,DB,5,Senior,"6' 2""",185 lbs,True
 38,2026,4687042,Balansama Kamara,DE,96,Senior,"6' 3""",260 lbs,True
+38,2026,5328093,Gideon Lampron,LB,44,Senior,"6' 0""",220 lbs,True
 38,2026,5086986,Gideon ESPN Lampron,LB,44,Senior,"6' 0""",220 lbs,True
 38,2026,5230276,Bo LaPenna,LB,54,Senior,"6' 1""",235 lbs,True
 38,2026,4870862,Liona Lefau,LB,17,Senior,"6' 1""",230 lbs,True

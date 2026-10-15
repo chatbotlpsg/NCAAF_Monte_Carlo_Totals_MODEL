@@ -9,7 +9,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2426,2026,5391331,Evan Blouir,QB,15,Freshman,"6' 0""",205 lbs,True
 2426,2026,5391326,Bash Bodily,WR,6,Freshman,"6' 5""",205 lbs,True
 2426,2026,5391364,Peter Bonnet,OT,58,Freshman,"6' 5""",295 lbs,True
-2426,2026,5391321,Truman Brasfield,WR,3,Freshman,"6' 1""",197 lbs,True
+2426,2026,5391321,Truman Brasfield,WR,83,Freshman,"6' 1""",197 lbs,True
 2426,2026,5295377,Ryan Brass,QB,10,Sophomore,"6' 0""",210 lbs,True
 2426,2026,5391337,Tyler Breedlove,WR,28,Freshman,"6' 1""",173 lbs,True
 2426,2026,5212645,Alex Brewer,OT,69,Freshman,"6' 4""",315 lbs,True
@@ -38,7 +38,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2426,2026,5220495,Quinton Ezzard,RB,35,Junior,"6' 1""",210 lbs,True
 2426,2026,5295405,Hunter Fay,C,54,Sophomore,"6' 3""",265 lbs,True
 2426,2026,5295380,Maddax Fayard,WR,14,Sophomore,"5' 10""",187 lbs,True
-2426,2026,5295408,Wyatt Ferguson,G,56,Sophomore,"6' 4""",295 lbs,True
 2426,2026,5230720,Drew Fontana,OT,61,Junior,"6' 4""",273 lbs,True
 2426,2026,5295385,Braeden George,RB,24,Sophomore,"5' 11""",204 lbs,True
 2426,2026,5220471,Andre Gilbert Jr.,WR,36,Junior,"5' 7""",160 lbs,True
@@ -91,6 +90,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2426,2026,5391366,Todd Hammond,DL,68,Freshman,"6' 2""",280 lbs,True
 2426,2026,5391342,Maddox Hayles,LB,34,Freshman,"6' 0""",212 lbs,True
 2426,2026,5220520,Chris Herock,DL,99,Junior,"6' 1""",266 lbs,True
+2426,2026,5391347,Jaden Holder,LB,37,Freshman,"6' 2""",210 lbs,True
 2426,2026,5295428,Jack Armbruster,P,90,Sophomore,"6' 2""",180 lbs,True
 2426,2026,5391330,Nolan Bartley,PK,15,Freshman,"6' 0""",172 lbs,True
 2426,2026,5220485,Jacob Carlson,P,11,Junior,"5' 10""",190 lbs,True

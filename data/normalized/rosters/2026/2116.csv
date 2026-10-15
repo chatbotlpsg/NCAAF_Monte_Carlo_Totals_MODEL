@@ -52,7 +52,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2116,2026,5295613,Antonio Branch Jr.,DB,16,Freshman,"6' 3""",175 lbs,True
 2116,2026,5385727,Jayden Burnett,LB,23,Freshman,"6' 2""",210 lbs,True
 2116,2026,4870654,Lewis Carter,LB,20,Senior,"6' 0""",225 lbs,True
-2116,2026,5101237,Anthony Coaxum,EDGE,96,Senior,"6' 4""",270 lbs,True
 2116,2026,5157309,Thomas Collins,DT,99,Junior,"6' 1""",295 lbs,True
 2116,2026,5092328,Jahleel Culbreath,LB,34,Senior,"6' 4""",222 lbs,True
 2116,2026,4870659,Tackett Curtis,LB,24,Senior,"6' 2""",230 lbs,True
@@ -93,6 +92,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2116,2026,5385731,Patrick Ryan,EDGE,56,Freshman,"6' 4""",220 lbs,True
 2116,2026,5293964,Josh Schell,DT,97,Senior,"6' 4""",300 lbs,True
 2116,2026,5142612,Rukeem Stroud,DB,25,Freshman,"5' 11""",165 lbs,True
+2116,2026,5103176,Ken Talley,EDGE,11,Senior,"6' 3""",260 lbs,True
 2116,2026,5160651,Atticus Bertrams,P,49,Senior,"6' 4""",235 lbs,True
 2116,2026,5296085,Mason Denaburg,PK,97,Freshman,"6' 4""",225 lbs,True
 2116,2026,5225963,Kyle Hicks,LS,44,Sophomore,"6' 3""",235 lbs,True

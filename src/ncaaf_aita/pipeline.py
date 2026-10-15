@@ -25,7 +25,7 @@ from ncaaf_aita.handoff.builder import build_zip
 
 EV_BOARD_COLUMNS = [
     "quant_rank", "aita_event_id", "odds_event_id", "matchup", "market_family", "period",
-    "team_if_applicable", "side", "point", "american_price", "bookmaker", "bookmaker_title",
+    "team_if_applicable", "team_role", "side", "point", "american_price", "bookmaker", "bookmaker_title",
     "P_MC", "P_MARKET_FAIR", "P_BLEND", "P_CONSERVATIVE", "P_BREAK_EVEN", "p_push",
     "FAIR_PRICE_MC", "FAIR_PRICE_BLEND", "FAIR_PRICE_CONSERVATIVE", "EV_RAW", "EV_BLEND",
     "EV_CONSERVATIVE", "confidence", "confidence_band", "quant_grade", "grade_status",
@@ -49,8 +49,8 @@ TEAM_BOARD_COLUMNS = [
     "model_mean_points", "model_median_points", "model_fair_team_total", "book_team_total",
     "model_team_total_edge_points", "p_over_book", "p_under_book", "p_push_book", "model_lean",
     "model_over_fair_american", "model_under_fair_american", "best_over_price", "best_over_book",
-    "best_under_price", "best_under_book", "market_status", "model_status", "state_source",
-    "entity_resolution", "simulation_converged", "data_quality_flags",
+    "best_under_price", "best_under_book", "market_status", "market_team_identity", "market_team_role",
+    "model_status", "state_source", "entity_resolution", "simulation_converged", "data_quality_flags",
 ]
 
 H1_BOARD_COLUMNS = [
@@ -85,7 +85,10 @@ def _conservative_strength(conf: float, cfg: Config):
 def _pair_market_fair(market: pd.DataFrame) -> pd.DataFrame:
     if market.empty:
         return pd.DataFrame(columns=list(market.columns) + ["P_MARKET_FAIR", "vig"])
-    keys = ["odds_event_id", "market_family", "period", "team_if_applicable", "point", "bookmaker", "bookmaker_title"]
+    market = market.copy()
+    if "team_role" not in market.columns:
+        market["team_role"] = None
+    keys = ["odds_event_id", "market_family", "period", "team_if_applicable", "team_role", "point", "bookmaker", "bookmaker_title"]
     rows = []
     for _, g in market.groupby(keys, dropna=False):
         over = g[g.side == "OVER"]
@@ -113,12 +116,21 @@ def _distribution_for(row, sim: GameSimulationResult, *, home_display: str, away
     if fam == "H1_TOTAL":
         return sim.h1_total
     if fam == "TEAM_TOTAL":
+        role = str(row.get("team_role") or "").upper()
+        if role == "HOME":
+            return sim.home_points
+        if role == "AWAY":
+            return sim.away_points
+
+        # Backward-compatible fallback for old/manual snapshots:
+        # exact normalized alias match only. Prefix matching is prohibited
+        # because "Iowa" must not match "Iowa State".
         team = norm_team(str(row.get("team_if_applicable") or ""))
         home_names = {norm_team(home_display), norm_team(home_model)}
         away_names = {norm_team(away_display), norm_team(away_model)}
-        if team in home_names or any(team.startswith(x + " ") for x in home_names if x):
+        if team in home_names:
             return sim.home_points
-        if team in away_names or any(team.startswith(x + " ") for x in away_names if x):
+        if team in away_names:
             return sim.away_points
     return None
 
@@ -222,17 +234,19 @@ def _fair_line_from_curve(c: pd.DataFrame) -> tuple[float, float, float, float]:
     return float(r.line), float(r.p_over), float(r.p_under), float(r.p_push)
 
 
-def _best_market_offer(market: pd.DataFrame, odds_event_id: str, family: str, team_names: list[str] | None = None):
+def _best_market_offer(market: pd.DataFrame, odds_event_id: str, family: str, team_names: list[str] | None = None, team_role: str | None = None):
     if market.empty or not odds_event_id or odds_event_id == "nan":
         return None
     g = market[(market["odds_event_id"].astype(str) == str(odds_event_id)) & (market["market_family"] == family)].copy()
     if g.empty:
         return None
     if family == "TEAM_TOTAL":
-        valid = {norm_team(x) for x in (team_names or []) if x}
-        g = g[g["team_if_applicable"].astype(str).map(norm_team).map(
-            lambda n: n in valid or any(n.startswith(v + " ") or v.startswith(n + " ") for v in valid if v and n)
-        )]
+        role = str(team_role or "").upper()
+        if role in {"HOME", "AWAY"} and "team_role" in g.columns:
+            g = g[g["team_role"].astype(str).str.upper() == role]
+        else:
+            valid = {norm_team(x) for x in (team_names or []) if x}
+            g = g[g["team_if_applicable"].astype(str).map(norm_team).isin(valid)]
         if g.empty:
             return None
     g["point"] = pd.to_numeric(g["point"], errors="coerce")
@@ -255,6 +269,8 @@ def _best_market_offer(market: pd.DataFrame, odds_event_id: str, family: str, te
         "point": point,
         "best_over_price": float(ro.american_price), "best_over_book": ro.get("bookmaker_title") or ro.get("bookmaker"),
         "best_under_price": float(ru.american_price), "best_under_book": ru.get("bookmaker_title") or ru.get("bookmaker"),
+        "team_if_applicable": ro.get("team_if_applicable"),
+        "team_role": ro.get("team_role"),
     }
 
 
@@ -456,7 +472,7 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
             ("away_team_total",sim.away_points,away_display,away_model,"AWAY",a,ameth),
         ):
             fair_line, _, _, _ = _fair_line_from_curve(curve_map[label])
-            toffer = _best_market_offer(market, oid, "TEAM_TOTAL", [team_display, team_model])
+            toffer = _best_market_offer(market, oid, "TEAM_TOTAL", [team_display, team_model], team_role=hoa)
             row={
                 "model_rank":event_index,"aita_event_id":eid,"odds_event_id":oid if oid != "nan" else "",
                 "matchup":f"{away_display} @ {home_display}","team":team_display,"team_model":team_model,"home_away":hoa,
@@ -464,7 +480,8 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
                 "book_team_total":np.nan,"model_team_total_edge_points":np.nan,"p_over_book":np.nan,"p_under_book":np.nan,"p_push_book":np.nan,
                 "model_lean":"MODEL_ONLY","model_over_fair_american":np.nan,"model_under_fair_american":np.nan,
                 "best_over_price":np.nan,"best_over_book":"","best_under_price":np.nan,"best_under_book":"",
-                "market_status":"MODEL_ONLY_NO_EXACT_MARKET","model_status":model_status,
+                "market_status":"MODEL_ONLY_NO_EXACT_MARKET","market_team_identity":"","market_team_role":"",
+                "model_status":model_status,
                 "state_source":state_obj.state_source or state_obj.opponent_adjustment_source or "CFBD_STATE",
                 "entity_resolution":resolution,"simulation_converged":conv,"data_quality_flags":flag_text,
             }
@@ -477,6 +494,8 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
                     "best_over_price":toffer["best_over_price"],"best_over_book":toffer["best_over_book"],
                     "best_under_price":toffer["best_under_price"],"best_under_book":toffer["best_under_book"],
                     "market_status":"EXACT_TWO_SIDED_MARKET_AVAILABLE",
+                    "market_team_identity":toffer.get("team_if_applicable",""),
+                    "market_team_role":toffer.get("team_role",""),
                 })
             team_board.append(row)
 
@@ -591,10 +610,49 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
     if ledger_src and ledger_src.exists(): shutil.copy2(ledger_src,run_dir/"16_ODDS_API_USAGE_LEDGER.csv")
     else: pd.DataFrame(columns=["timestamp","endpoint","sport","markets","regions_bookmakers","event_id","cost_last","credits_used","credits_remaining","run_id"]).to_csv(run_dir/"16_ODDS_API_USAGE_LEDGER.csv",index=False)
 
+    # Pregame handoff invariants: fail closed on internal identity or conservative-EV contradictions.
+    validation_blockers = []
+    if not tt.empty:
+        exact_tt = tt[tt["market_status"] == "EXACT_TWO_SIDED_MARKET_AVAILABLE"].copy()
+        if not exact_tt.empty:
+            role_bad = exact_tt[
+                exact_tt["market_team_role"].astype(str).str.upper() != exact_tt["home_away"].astype(str).str.upper()
+            ]
+            for _, vr in role_bad.iterrows():
+                validation_blockers.append({
+                    "type":"TEAM_TOTAL_IDENTITY_MISMATCH",
+                    "aita_event_id":vr.get("aita_event_id"),
+                    "team":vr.get("team"),
+                    "home_away":vr.get("home_away"),
+                    "market_team_identity":vr.get("market_team_identity"),
+                    "market_team_role":vr.get("market_team_role"),
+                })
+    if not master.empty:
+        eps = 1e-12
+        cons_bad = master[
+            (pd.to_numeric(master["P_CONSERVATIVE"], errors="coerce") > pd.concat([
+                pd.to_numeric(master["P_MC"], errors="coerce"),
+                pd.to_numeric(master["P_BLEND"], errors="coerce")
+            ], axis=1).min(axis=1) + eps)
+            | ((pd.to_numeric(master["EV_RAW"], errors="coerce") < 0)
+               & (pd.to_numeric(master["EV_BLEND"], errors="coerce") < 0)
+               & (pd.to_numeric(master["EV_CONSERVATIVE"], errors="coerce") > 0))
+        ]
+        for _, vr in cons_bad.iterrows():
+            validation_blockers.append({
+                "type":"CONSERVATIVE_EV_INVARIANT_VIOLATION",
+                "aita_event_id":vr.get("aita_event_id"),
+                "market_family":vr.get("market_family"),
+                "team_if_applicable":vr.get("team_if_applicable"),
+                "side":vr.get("side"),
+                "point":vr.get("point"),
+            })
+
+    handoff_validation_status = "PASS" if not validation_blockers else "BLOCK"
     blocking_events=sum(x["status"]=="BLOCK" for x in dq)
     warning_events=sum(x["status"]=="WARN" for x in dq)
     modeled_events=len(proj); total_events=len(slate)
-    dq_status="BLOCK" if blocking_events else ("PASS_WITH_WARNINGS" if warning_events else "PASS")
+    dq_status="BLOCK" if (blocking_events or validation_blockers) else ("PASS_WITH_WARNINGS" if warning_events else "PASS")
     write_json(run_dir/"13_DATA_QUALITY_REPORT.json", {
         "run_id":run_id,"events":dq,"blocking_events":blocking_events,"warning_events":warning_events,
         "slate_events":total_events,"modeled_events":modeled_events,"model_coverage_pct":round(100*modeled_events/max(1,total_events),2),
@@ -619,6 +677,8 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
         "postgame_grading_performed":False,"close_capture_performed":False,"simulation_count":n,"seed":cfg.get("simulation.seed"),
         "slate_event_count":total_events,"modeled_event_count":modeled_events,"priced_candidate_count":len(master),
         "calibration_status":calibration_status,"external_trading_agent_required":True,"historical_outputs_immutable":True,
+        "handoff_validation_status":handoff_validation_status,"validation_blocker_count":len(validation_blockers),
+        "validation_blockers":validation_blockers,
     })
     manifest={
         "sport":"NCAAF","season":season,"week":week,"slate_date":slate_date,"run_id":run_id,
@@ -626,7 +686,9 @@ def run_quant_pipeline(*, cfg: Config, slate: pd.DataFrame, team_states: pd.Data
         "created_at":utc_now_iso(),"markets":["full_game_total","home_team_total","away_team_total","first_half_total"],
         "handoff_target":"external_ncaaf_trading_agent","trading_agent_embedded":False,"postgame_audit_embedded":False,
         "simulation_seed":cfg.get("simulation.seed"),"simulation_count":n,"early_season_mode":early,
-        "data_quality_status":dq_status,"model_coverage":{"slate_events":total_events,"modeled_events":modeled_events,"pct":round(100*modeled_events/max(1,total_events),2)},
+        "data_quality_status":dq_status,"handoff_validation_status":handoff_validation_status,
+        "validation_blocker_count":len(validation_blockers),
+        "model_coverage":{"slate_events":total_events,"modeled_events":modeled_events,"pct":round(100*modeled_events/max(1,total_events),2)},
         "calibration_status":calibration_status,"ev_estimate_status":ev_estimate_status,
         "ev_policy":"EV requires exact two-sided sportsbook market; no market means model-only board, never fabricated EV",
         "warnings":["EV estimates are provisional/uncalibrated"] if calibration_status != "CALIBRATED" else [],"files":[],

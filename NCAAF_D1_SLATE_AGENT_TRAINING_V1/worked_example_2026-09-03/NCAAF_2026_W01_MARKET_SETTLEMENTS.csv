@@ -1,0 +1,72 @@
+capture_tier,aita_event_id,matchup,market_family,period,team_if_applicable,entry_book,entry_line,close_line,settlement_value,entry_over_outcome,entry_under_outcome,close_over_outcome,close_under_outcome,settlement_basis,result_source
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,FG_TOTAL,FG,—,BetMGM,58.5,58.5,79,WIN,LOSS,WIN,LOSS,official final combined score including OT,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,FG_TOTAL,FG,—,DraftKings,58.5,58.5,79,WIN,LOSS,WIN,LOSS,official final combined score including OT,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,FG_TOTAL,FG,—,FanDuel,58.5,58.5,79,WIN,LOSS,WIN,LOSS,official final combined score including OT,SportsbookReview box score
+T2,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,FG_TOTAL,FG,—,BetRivers,59.0,58.0,79,WIN,LOSS,WIN,LOSS,official final combined score including OT,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,AWAY_TEAM_TOTAL,FG,Bethune-Cookman Wildcats,FanDuel,7.5,6.5,6,LOSS,WIN,LOSS,WIN,official away final score including OT,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,HOME_TEAM_TOTAL,FG,UCF Knights,FanDuel,51.5,50.5,73,WIN,LOSS,WIN,LOSS,official home final score including OT,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,H1_TOTAL,H1,—,DraftKings,32.5,DATA GAP,38,WIN,LOSS,DATA GAP,DATA GAP,end-of-Q2 combined score,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,H1_TOTAL,H1,—,BetRivers,33.5,33.5,38,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,SportsbookReview box score
+T1,AITA_2026-09-03_002,Bethune-Cookman Wildcats @ UCF Knights,H1_TOTAL,H1,—,FanDuel,33.5,33.5,38,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,SportsbookReview box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,FG_TOTAL,FG,—,BetRivers,48.0,50.5,54,WIN,LOSS,WIN,LOSS,official final combined score including OT,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,FG_TOTAL,FG,—,BetMGM,48.5,50.5,54,WIN,LOSS,WIN,LOSS,official final combined score including OT,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,FG_TOTAL,FG,—,DraftKings,48.5,50.5,54,WIN,LOSS,WIN,LOSS,official final combined score including OT,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,FG_TOTAL,FG,—,FanDuel,48.5,50.5,54,WIN,LOSS,WIN,LOSS,official final combined score including OT,Wake Forest Athletics box score
+T1,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,AWAY_TEAM_TOTAL,FG,Akron Zips,FanDuel,12.5,10.5,16,WIN,LOSS,WIN,LOSS,official away final score including OT,Wake Forest Athletics box score
+T1,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,HOME_TEAM_TOTAL,FG,Wake Forest Demon Deacons,FanDuel,36.5,38.5,38,WIN,LOSS,LOSS,WIN,official home final score including OT,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,H1_TOTAL,H1,—,BetMGM,24.5,26.5,31,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,H1_TOTAL,H1,—,BetRivers,25.5,27.5,31,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,H1_TOTAL,H1,—,DraftKings,25.5,27.5,31,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Wake Forest Athletics box score
+T2,AITA_2026-09-03_003,Akron Zips @ Wake Forest Demon Deacons,H1_TOTAL,H1,—,FanDuel,26.5,27.5,31,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Wake Forest Athletics box score
+T2,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,FG_TOTAL,FG,—,BetRivers,55.0,56.5,49,LOSS,WIN,LOSS,WIN,official final combined score including OT,Delaware Athletics box score
+T2,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,FG_TOTAL,FG,—,BetMGM,55.5,56.5,49,LOSS,WIN,LOSS,WIN,official final combined score including OT,Delaware Athletics box score
+T2,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,FG_TOTAL,FG,—,FanDuel,56.5,55.5,49,LOSS,WIN,LOSS,WIN,official final combined score including OT,Delaware Athletics box score
+T1,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,AWAY_TEAM_TOTAL,FG,Merrimack Warriors,FanDuel,13.5,10.5,7,LOSS,WIN,LOSS,WIN,official away final score including OT,Delaware Athletics box score
+T1,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,HOME_TEAM_TOTAL,FG,Delaware Blue Hens,FanDuel,42.5,43.5,42,LOSS,WIN,LOSS,WIN,official home final score including OT,Delaware Athletics box score
+T1,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,H1_TOTAL,H1,—,BetRivers,30.5,30.5,21,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,Delaware Athletics box score
+T1,AITA_2026-09-03_004,Merrimack Warriors @ Delaware Blue Hens,H1_TOTAL,H1,—,FanDuel,30.5,30.5,21,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,Delaware Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,FG_TOTAL,FG,—,BetMGM,51.5,50.5,47,LOSS,WIN,LOSS,WIN,official final combined score including OT,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,FG_TOTAL,FG,—,DraftKings,51.5,50.5,47,LOSS,WIN,LOSS,WIN,official final combined score including OT,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,FG_TOTAL,FG,—,FanDuel,51.5,50.5,47,LOSS,WIN,LOSS,WIN,official final combined score including OT,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,FG_TOTAL,FG,—,BetRivers,51.5,50.5,47,LOSS,WIN,LOSS,WIN,official final combined score including OT,Kennesaw State Athletics box score
+T1,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,AWAY_TEAM_TOTAL,FG,West Georgia Wolves,FanDuel,14.5,13.5,0,LOSS,WIN,LOSS,WIN,official away final score including OT,Kennesaw State Athletics box score
+T1,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,HOME_TEAM_TOTAL,FG,Kennesaw State Owls,FanDuel,37.5,35.5,47,WIN,LOSS,WIN,LOSS,official home final score including OT,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,H1_TOTAL,H1,—,BetRivers,27.5,27.5,40,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,H1_TOTAL,H1,—,DraftKings,27.5,26.5,40,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Kennesaw State Athletics box score
+T2,AITA_2026-09-03_005,West Georgia Wolves @ Kennesaw State Owls,H1_TOTAL,H1,—,FanDuel,27.5,27.5,40,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Kennesaw State Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,FG_TOTAL,FG,—,FanDuel,60.5,61.5,68,WIN,LOSS,WIN,LOSS,official final combined score including OT,Arkansas-Pine Bluff Athletics box score
+T2,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,FG_TOTAL,FG,—,BetRivers,61.0,62.5,68,WIN,LOSS,WIN,LOSS,official final combined score including OT,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,FG_TOTAL,FG,—,BetMGM,61.5,62.5,68,WIN,LOSS,WIN,LOSS,official final combined score including OT,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,FG_TOTAL,FG,—,DraftKings,61.5,62.5,68,WIN,LOSS,WIN,LOSS,official final combined score including OT,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,AWAY_TEAM_TOTAL,FG,Arkansas-Pine Bluff Golden Lions,FanDuel,2.5,2.5,14,WIN,LOSS,WIN,LOSS,official away final score including OT,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,HOME_TEAM_TOTAL,FG,Missouri Tigers,FanDuel,56.5,58.5,54,LOSS,WIN,LOSS,WIN,official home final score including OT,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,H1_TOTAL,H1,—,DraftKings,34.5,35.5,40,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Arkansas-Pine Bluff Athletics box score
+T1,AITA_2026-09-03_007,Arkansas-Pine Bluff Golden Lions @ Missouri Tigers,H1_TOTAL,H1,—,FanDuel,34.5,35.5,40,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Arkansas-Pine Bluff Athletics box score
+T2,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,FG_TOTAL,FG,—,BetMGM,50.5,53.5,27,LOSS,WIN,LOSS,WIN,official final combined score including OT,The Football Database box score
+T2,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,FG_TOTAL,FG,—,BetRivers,50.5,53,27,LOSS,WIN,LOSS,WIN,official final combined score including OT,The Football Database box score
+T2,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,FG_TOTAL,FG,—,FanDuel,50.5,52.5,27,LOSS,WIN,LOSS,WIN,official final combined score including OT,The Football Database box score
+T1,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,FG_TOTAL,FG,—,DraftKings,51.5,53.5,27,LOSS,WIN,LOSS,WIN,official final combined score including OT,The Football Database box score
+T1,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,AWAY_TEAM_TOTAL,FG,Colorado Buffaloes,FanDuel,21.5,DATA GAP,14,LOSS,WIN,DATA GAP,DATA GAP,official away final score including OT,The Football Database box score
+T2,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,HOME_TEAM_TOTAL,FG,Georgia Tech Yellow Jackets,FanDuel,29.5,DATA GAP,13,LOSS,WIN,DATA GAP,DATA GAP,official home final score including OT,The Football Database box score
+T2,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,H1_TOTAL,H1,—,BetMGM,24.5,26.5,17,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,The Football Database box score
+T1,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,H1_TOTAL,H1,—,BetRivers,25.5,26.5,17,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,The Football Database box score
+T1,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,H1_TOTAL,H1,—,DraftKings,25.5,26.5,17,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,The Football Database box score
+T1,AITA_2026-09-03_008,Colorado Buffaloes @ Georgia Tech Yellow Jackets,H1_TOTAL,H1,—,FanDuel,26.5,26.5,17,LOSS,WIN,LOSS,WIN,end-of-Q2 combined score,The Football Database box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,FG_TOTAL,FG,—,BetRivers,51.0,52.5,66,WIN,LOSS,WIN,LOSS,official final combined score including OT,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,FG_TOTAL,FG,—,BetMGM,51.5,51.5,66,WIN,LOSS,WIN,LOSS,official final combined score including OT,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,FG_TOTAL,FG,—,DraftKings,51.5,52.5,66,WIN,LOSS,WIN,LOSS,official final combined score including OT,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,FG_TOTAL,FG,—,FanDuel,51.5,52.5,66,WIN,LOSS,WIN,LOSS,official final combined score including OT,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,AWAY_TEAM_TOTAL,FG,Eastern Illinois Panthers,FanDuel,2.5,3.5,7,WIN,LOSS,WIN,LOSS,official away final score including OT,Minnesota Athletics box score
+T1,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,HOME_TEAM_TOTAL,FG,Minnesota Golden Gophers,FanDuel,47.5,48.5,59,WIN,LOSS,WIN,LOSS,official home final score including OT,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,H1_TOTAL,H1,—,DraftKings,28.5,30.5,42,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Minnesota Athletics box score
+T2,AITA_2026-09-03_009,Eastern Illinois Panthers @ Minnesota Golden Gophers,H1_TOTAL,H1,—,FanDuel,28.5,30.5,42,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,Minnesota Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,FG_TOTAL,FG,—,BetMGM,54.5,53.5,65,WIN,LOSS,WIN,LOSS,official final combined score including OT,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,FG_TOTAL,FG,—,BetRivers,54.5,53.5,65,WIN,LOSS,WIN,LOSS,official final combined score including OT,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,FG_TOTAL,FG,—,DraftKings,54.5,54.5,65,WIN,LOSS,WIN,LOSS,official final combined score including OT,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,FG_TOTAL,FG,—,FanDuel,54.5,54.5,65,WIN,LOSS,WIN,LOSS,official final combined score including OT,UAB Athletics box score
+T1,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,AWAY_TEAM_TOTAL,FG,UAB Blazers,FanDuel,13.5,DATA GAP,23,WIN,LOSS,DATA GAP,DATA GAP,official away final score including OT,UAB Athletics box score
+T1,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,HOME_TEAM_TOTAL,FG,Illinois Fighting Illini,FanDuel,41.5,DATA GAP,42,WIN,LOSS,DATA GAP,DATA GAP,official home final score including OT,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,H1_TOTAL,H1,—,BetRivers,28.5,29.5,34,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,H1_TOTAL,H1,—,BetMGM,29.5,28.5,34,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,H1_TOTAL,H1,—,DraftKings,29.5,30.5,34,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,UAB Athletics box score
+T2,AITA_2026-09-03_011,UAB Blazers @ Illinois Fighting Illini,H1_TOTAL,H1,—,FanDuel,29.5,28.5,34,WIN,LOSS,WIN,LOSS,end-of-Q2 combined score,UAB Athletics box score

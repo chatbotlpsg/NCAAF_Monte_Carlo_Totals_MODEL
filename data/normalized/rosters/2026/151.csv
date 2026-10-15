@@ -8,7 +8,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 151,2026,5291709,Trey Burke,QB,13,Freshman,"6' 3""",205 lbs,True
 151,2026,5293910,Zach Caulder,OL,52,Senior,"6' 1""",251 lbs,True
 151,2026,5084705,Trenton Cloud,WR,87,Junior,"5' 11""",193 lbs,True
-151,2026,5196644,Stephen Collier,TE,85,Sophomore,"6' 2""",242 lbs,True
+151,2026,5196644,Stephen Collier,TE,25,Sophomore,"6' 2""",242 lbs,True
 151,2026,5084229,Hayes Creel,OL,75,Senior,"6' 7""",320 lbs,True
 151,2026,5382338,Brooks Culp,OL,61,Freshman,"6' 4""",310 lbs,True
 151,2026,5226083,Jason Dickerson,WR,24,Junior,"5' 10""",189 lbs,True
@@ -46,7 +46,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 151,2026,5382334,Daulton Phalines,QB,11,Freshman,"6' 5""",210 lbs,True
 151,2026,5159027,Dawson Quarterman,WR,88,Freshman,"6' 2""",200 lbs,True
 151,2026,5081157,Gage Reale,TE,82,Senior,"6' 3""",238 lbs,True
-151,2026,5293911,Peyton Reeder,OL,78,Sophomore,"6' 4""",300 lbs,True
+151,2026,5293911,Peyton Reeder,OL,70,Sophomore,"6' 4""",300 lbs,True
 151,2026,5216835,Cayman Reynolds,OL,67,Sophomore,"6' 4""",234 lbs,True
 151,2026,5077368,Jonathan Akins,DB,21,Senior,"5' 11""",199 lbs,True
 151,2026,5095851,Jackson Barker,LB,1,Senior,"6' 2""",227 lbs,True
@@ -71,7 +71,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 151,2026,5226084,Jurnee Lattimore,DB,19,Junior,"5' 10""",167 lbs,True
 151,2026,5161633,Cade Law,LB,20,Senior,"6' 1""",225 lbs,True
 151,2026,5132627,Crews Law,LB,10,Junior,"6' 1""",225 lbs,True
-151,2026,5382333,Ashton Levells-Mitchell,DB,7,Senior,"6' 1""",170 lbs,True
+151,2026,4891875,Ashton Levells-Mitchell,DB,7,Senior,"6' 1""",170 lbs,True
 151,2026,5293906,Landon Lewis,LB,35,Sophomore,"6' 3""",205 lbs,True
 151,2026,5291779,Amare Mack,DB,37,Freshman,"5' 11""",175 lbs,True
 151,2026,5261755,Jacoby Martin,DL,97,Junior,"6' 2""",264 lbs,True
@@ -89,7 +89,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 151,2026,4701937,Myles Pollard,DB,12,Senior,"6' 2""",190 lbs,True
 151,2026,5296201,LJ Porter,LB,32,Freshman,"6' 0""",215 lbs,True
 151,2026,5293907,Evan Powell,DL,50,Sophomore,"6' 4""",247 lbs,True
-151,2026,5293905,Reagan Printy,LB,59,Junior,"6' 1""",217 lbs,True
+151,2026,5293905,Reagan Printy,LB,30,Junior,"6' 1""",217 lbs,True
 151,2026,5278573,Zyon Ratchford,DL,51,Freshman,"6' 3""",215 lbs,True
 151,2026,4611524,Jasiyah Robinson,DL,0,Senior,"6' 3""",265 lbs,True
 151,2026,5382336,Riley Robinson,DB,38,Freshman,"6' 1""",225 lbs,True

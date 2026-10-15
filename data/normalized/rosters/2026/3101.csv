@@ -1,6 +1,7 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
 3101,2026,5441724,Elijah Aaron,WR,80,Sophomore,"6' 4""",190 lbs,True
 3101,2026,5441720,Reno Aceves,OL,72,Freshman,"6' 7""",248 lbs,True
+3101,2026,5301921,Zay Akinsanya,TE,6,Sophomore,"6' 3""",225 lbs,True
 3101,2026,5224562,Bronson Barben,QB,13,Junior,"6' 5""",220 lbs,True
 3101,2026,5224401,Zach Brown,OL,64,Senior,"6' 3""",290 lbs,True
 3101,2026,5152425,Justin Buhler,TE,24,Senior,"6' 0""",235 lbs,True
@@ -13,6 +14,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 3101,2026,5441727,Elijah Davis,WR,84,Junior,"6' 1""",180 lbs,True
 3101,2026,5301938,Cade Draper,OL,50,Sophomore,"6' 2""",290 lbs,True
 3101,2026,5301948,Kaden Eggett,TE,86,Junior,"6' 3""",230 lbs,True
+3101,2026,5301939,Pesi Fonua,OL,71,Sophomore,"6' 3""",303 lbs,True
 3101,2026,5441700,Jalen Ford,WR,29,Freshman,"6' 2""",170 lbs,True
 3101,2026,5301944,Greg Fotinopoulos,OL,75,Senior,"6' 5""",290 lbs,True
 3101,2026,5441714,Gavin Gleason,OL,52,Sophomore,"6' 4""",285 lbs,True
@@ -43,7 +45,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 3101,2026,5301945,Davyn Sedwick,WR,16,Sophomore,"6' 3""",170 lbs,True
 3101,2026,5441722,Camden Smith,OL,74,Freshman,"6' 3""",285 lbs,True
 3101,2026,5301942,Matthew Snarr,OL,60,Sophomore,"6' 5""",315 lbs,True
-3101,2026,5301931,Damon Taylor,RB,9,Sophomore,"6' 0""",205 lbs,True
 3101,2026,5224599,Will Alovao,LB,11,Senior,"6' 3""",230 lbs,True
 3101,2026,5232737,Uilisoni Angilau,DL,5,Senior,"6' 3""",250 lbs,True
 3101,2026,5441708,Skylar Briggs,LB,42,Sophomore,"6' 1""",235 lbs,True
@@ -91,7 +92,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 3101,2026,5225234,Tyson Simmons,DL,94,Junior,"6' 3""",265 lbs,True
 3101,2026,5441715,Robert Smith,DL,53,Freshman,"6' 2""",310 lbs,True
 3101,2026,5224576,Brady Sorenson,DB,22,Junior,"6' 2""",190 lbs,True
-3101,2026,5441716,Jaggar Tavai,DL,56,Junior,"6' 0""",300 lbs,True
 3101,2026,5224595,Cyrus Aguinaga,PK,88,Junior,"6' 0""",195 lbs,True
 3101,2026,5224572,Fisher Brown,PK,32,Junior,"5' 11""",197 lbs,True
 3101,2026,5301932,Dax Iverson,PK,36,Sophomore,"5' 11""",190 lbs,True

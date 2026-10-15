@@ -17,6 +17,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 8,2026,5331746,Braeden Fuller,QB,16,Senior,"6' 3""",221 lbs,True
 8,2026,5236182,Gavin Garretson,TE,89,Sophomore,"6' 7""",256 lbs,True
 8,2026,5231027,Breylen Gilbert,TE,84,Sophomore,"6' 3""",235 lbs,True
+8,2026,5148630,Maurice Gleaton Jr.,WR,86,Sophomore,"5' 10""",170 lbs,True
 8,2026,5369923,Daniel Grein,OL,70,Sophomore,"6' 5""",324 lbs,True
 8,2026,5258853,Jude Hall,WR,18,Freshman,"6' 5""",200 lbs,True
 8,2026,3116099,Monte Harrison,WR,11,Junior,"6' 3""",222 lbs,True
@@ -50,7 +51,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 8,2026,5222564,Cam Settles,RB,27,Sophomore,"5' 11""",209 lbs,True
 8,2026,5150273,Aaron Smith,OL,65,Senior,"6' 6""",288 lbs,True
 8,2026,5207646,Hugh Smith,OL,63,Freshman,"6' 5""",305 lbs,True
-8,2026,4805256,Sutton Smith,RB,5,Senior,"5' 9""",196 lbs,True
 8,2026,5369919,J'Lynn Allen,DL,30,Junior,"6' 7""",226 lbs,True
 8,2026,4921239,Brian Alston,DL,41,Senior,"6' 2""",247 lbs,True
 8,2026,5161904,Danny Beale III,DL,99,Freshman,"6' 5""",347 lbs,True

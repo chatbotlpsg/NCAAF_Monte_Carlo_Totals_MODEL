@@ -25,6 +25,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 254,2026,5229988,Anthony Hernandez,RB,28,Junior,"5' 10""",192 lbs,True
 254,2026,5172606,Cedric Jefferson,OL,73,Junior,"6' 5""",300 lbs,True
 254,2026,5209335,Michael Johnson,QB,13,Freshman,"6' 0""",175 lbs,True
+254,2026,4868300,Nate Johnson,RB,3,Senior,"6' 1""",200 lbs,True
 254,2026,5132652,Ricky Johnson,WR,11,Sophomore,"6' 2""",185 lbs,True
 254,2026,5258440,Isaiah Kema,OL,56,Freshman,"6' 3""",312 lbs,True
 254,2026,5219997,Kana'i Lopes,TE,33,Junior,"6' 3""",228 lbs,True
@@ -52,6 +53,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 254,2026,5219991,Jackson Bennee,S,23,Junior,"6' 2""",190 lbs,True
 254,2026,5384866,Mauka Bernard,DE,46,Freshman,"6' 4""",215 lbs,True
 254,2026,518520,Nick Brown,CB,13,Sophomore,"6' 0""",170 lbs,True
+254,2026,5226164,Nick Brown,CB,13,Sophomore,"6' 0""",170 lbs,True
 254,2026,5192951,Luke Bryant,S,28,Freshman,"6' 2""",200 lbs,True
 254,2026,4713278,Rock Caldwell,CB,2,Senior,"6' 3""",190 lbs,True
 254,2026,5147164,James Chenault Jr.,CB,5,Junior,"6' 0""",180 lbs,True
@@ -72,7 +74,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 254,2026,5384864,Brandon Holmes,CB,27,Sophomore,"6' 1""",180 lbs,True
 254,2026,4816097,Lance Holtzclaw,DE,15,Senior,"6' 3""",245 lbs,True
 254,2026,5384870,Nicholas Igwe,DE,92,Sophomore,"6' 4""",255 lbs,True
-254,2026,5447183,Jed Judkins,LB,53,Freshman,"6' 2""",215 lbs,True
+254,2026,5447183,Jed Judkins,LB,52,Freshman,"6' 2""",215 lbs,True
 254,2026,5167750,Karson Kaufusi,DT,51,Sophomore,"6' 6""",305 lbs,True
 254,2026,5447181,King Long,CB,20,Freshman,"5' 9""",180 lbs,True
 254,2026,5229930,Grady Mareko,LB,43,Junior,"6' 1""",231 lbs,True
@@ -90,10 +92,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 254,2026,4430691,Nate Ritchie,S,6,Senior,"6' 2""",207 lbs,True
 254,2026,5121725,Lucas Samsula,DT,97,Sophomore,"6' 4""",306 lbs,True
 254,2026,5258445,Pupu Sepulona,DT,45,Sophomore,"6' 2""",298 lbs,True
-254,2026,5210476,Fameitau Siale,DE,58,Freshman,"6' 3""",265 lbs,True
+254,2026,5210476,Fa Siale,DE,58,Freshman,"6' 3""",265 lbs,True
 254,2026,5294275,Josh Sovereign,S,32,Sophomore,"5' 11""",198 lbs,True
 254,2026,5294277,Cole Standage,S,14,Sophomore,"6' 2""",200 lbs,True
-254,2026,5215359,PJ Takitaki,DE,16,Freshman,"6' 3""",223 lbs,True
 254,2026,5084830,Logan Castor,LS,65,Senior,"6' 6""",240 lbs,True
 254,2026,4695604,Tanner Cragun,PK,88,Junior,"6' 2""",205 lbs,True
 254,2026,5257815,Dillon Curtis,PK,17,Sophomore,"6' 2""",190 lbs,True

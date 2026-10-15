@@ -43,7 +43,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 238,2026,5276669,Kahden Smith,WR,81,Freshman,"6' 2""",195 lbs,True
 238,2026,5375016,Michael Smith,OL,77,Junior,"6' 6""",330 lbs,True
 238,2026,5161881,Mitchell Smith,OL,72,Freshman,"6' 6""",320 lbs,True
-238,2026,4799991,Cole Spence,TE,16,Senior,"6' 7""",255 lbs,True
 238,2026,4881838,Brian Allen Jr.,EDGE,10,Senior,"6' 3""",264 lbs,True
 238,2026,5150500,Ty Bartholomew,LB,45,Senior,"6' 1""",235 lbs,True
 238,2026,5146574,Simeon Boulware,DL,49,Junior,"6' 5""",258 lbs,True
@@ -89,6 +88,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 238,2026,5375011,Myles Miller,EDGE,33,Sophomore,"6' 1""",255 lbs,True
 238,2026,5281490,Kene Obi,LB,50,Freshman,"6' 1""",221 lbs,True
 238,2026,4911912,Issa Ouattara,DL,5,Senior,"6' 7""",315 lbs,True
+238,2026,5219879,Khalil Poteat,EDGE,96,Senior,"6' 5""",275 lbs,True
 238,2026,5089173,Nick Rinaldi,LB,24,Senior,"6' 3""",240 lbs,True
 238,2026,5078548,Jailen Ruth,S,14,Junior,"6' 3""",225 lbs,True
 238,2026,5139855,Glenn Seabrooks III,DL,53,Junior,"6' 3""",340 lbs,True

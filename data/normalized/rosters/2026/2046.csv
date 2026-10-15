@@ -10,7 +10,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2046,2026,5224133,Ward Dorris,OL,65,Sophomore,"6' 1""",286 lbs,True
 2046,2026,5439835,Roman Eulo,TE,87,Freshman,"6' 1""",214 lbs,True
 2046,2026,5114310,Chance Fitzgerald,WR,17,Junior,"6' 1""",196 lbs,True
-2046,2026,5095114,Nate Garnett Jr,WR,7,Senior,"5' 8""",167 lbs,True
+2046,2026,5095114,Nate Garnett Jr.,WR,7,Senior,"5' 8""",167 lbs,True
 2046,2026,4874541,Kyler Gibson,OL,71,Senior,"6' 5""",301 lbs,True
 2046,2026,5142228,Karson Gordon,QB,4,Sophomore,"6' 1""",180 lbs,True
 2046,2026,5214404,Isaiah Groves,RB,10,Freshman,"5' 11""",198 lbs,True
@@ -23,7 +23,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2046,2026,5439831,Stephen Kpelafiya,OL,70,Freshman,"6' 0""",222 lbs,True
 2046,2026,5439818,Ni'Kel Lewis,RB,21,Freshman,"5' 7""",190 lbs,True
 2046,2026,5088584,Ben Marshall,TE,89,Junior,"6' 4""",239 lbs,True
-2046,2026,5439816,Clay Merrill,WR,18,Freshman,"5' 8""",180 lbs,True
+2046,2026,5301577,Clay Merrill,WR,18,Freshman,"5' 8""",172 lbs,True
 2046,2026,4912907,Joshua Miller,OL,73,Junior,"6' 4""",313 lbs,True
 2046,2026,5076098,Obadiah Obasuyi,OL,79,Junior,"6' 6""",319 lbs,True
 2046,2026,5439830,Solomon Ortiz,OL,69,Senior,"6' 3""",298 lbs,True
@@ -34,7 +34,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2046,2026,5194625,Jaden Robinson,WR,8,Junior,"6' 1""",205 lbs,True
 2046,2026,5301580,Drew Ross,TE,83,Freshman,"6' 1""",222 lbs,True
 2046,2026,5301581,Sam Roston,OL,50,Freshman,"6' 4""",274 lbs,True
-2046,2026,4602390,Joshua Sales Jr,OL,72,Senior,"6' 5""",300 lbs,True
+2046,2026,4602390,Joshua Sales Jr.,OL,72,Senior,"6' 5""",300 lbs,True
 2046,2026,5439832,Myles Sawyers,OL,76,Freshman,"6' 3""",309 lbs,True
 2046,2026,5153737,Courtland Simmons,RB,11,Junior,"5' 11""",206 lbs,True
 2046,2026,5162646,Marvin Sims,WR,19,Senior,"5' 11""",180 lbs,True

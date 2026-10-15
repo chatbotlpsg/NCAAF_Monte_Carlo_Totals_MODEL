@@ -1,5 +1,4 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
-349,2026,5293692,BJ Alleyne,WR,22,Sophomore,"5' 8""",190 lbs,True
 349,2026,5219436,Brady Anderson,WR,84,Junior,"6' 1""",209 lbs,True
 349,2026,5390386,Mark Andrzejewski,WR,45,Freshman,"6' 2""",189 lbs,True
 349,2026,5150352,Henry Appleton,OL,58,Senior,"6' 2""",291 lbs,True
@@ -49,6 +48,8 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 349,2026,5390378,Isaiah Linyear,RB,38,Freshman,"5' 11""",212 lbs,True
 349,2026,5293684,Bryson Luter,QB,6,Sophomore,"5' 11""",203 lbs,True
 349,2026,5390377,Gavin Madigan,RB,37,Freshman,"5' 11""",218 lbs,True
+349,2026,5390364,Finbar Malloy,RB,21,Freshman,"6' 0""",195 lbs,True
+349,2026,5293728,Jack Manning,OL,59,Sophomore,"6' 2""",295 lbs,True
 349,2026,5293683,Nathan Adejokun,CB,4,Sophomore,"5' 10""",199 lbs,True
 349,2026,5293700,Victor Afolabi,LB,34,Sophomore,"6' 1""",227 lbs,True
 349,2026,5390409,Nehemiah Allen,DL,98,Freshman,"5' 10""",288 lbs,True
@@ -62,7 +63,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 349,2026,5390372,Louis Blakely,CB,32,Freshman,"5' 11""",186 lbs,True
 349,2026,5150374,Jack Bousum,DL,99,Junior,"6' 5""",255 lbs,True
 349,2026,5390369,Ethan Bradshaw,S,30,Freshman,"5' 10""",182 lbs,True
-349,2026,5293731,William Brockmeier,DL,83,Sophomore,"6' 3""",260 lbs,True
 349,2026,5150324,Caden Brungard,DB,31,Senior,"6' 0""",210 lbs,True
 349,2026,5219443,Nick Buchys,DL,56,Junior,"6' 2""",275 lbs,True
 349,2026,5293734,Jadon Bumbaugh,DL,87,Sophomore,"6' 2""",270 lbs,True

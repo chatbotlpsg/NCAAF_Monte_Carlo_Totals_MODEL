@@ -9,6 +9,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2348,2026,5184630,Jackson Bradley,QB,7,Freshman,"6' 3""",220 lbs,True
 2348,2026,5222150,Joshua Brantley,TE,9,Freshman,"6' 4""",220 lbs,True
 2348,2026,5296386,Dylone Brooks,RB,26,Freshman,"5' 10""",200 lbs,True
+2348,2026,5296374,Andrew Burnette,RB,1,Senior,"6' 2""",225 lbs,True
 2348,2026,5224217,Marcus Calwise Jr.,WR,6,Junior,"5' 10""",190 lbs,True
 2348,2026,5207645,Kaleb Campbell,OL,63,Freshman,"6' 7""",305 lbs,True
 2348,2026,5302780,Johnny Casey Jr.,WR,85,Freshman,"5' 9""",165 lbs,True
@@ -44,8 +45,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2348,2026,4919037,Sergio Snider,RB,23,Sophomore,"5' 11""",200 lbs,True
 2348,2026,5383002,Jackson Speer,OL,73,Freshman,"6' 5""",280 lbs,True
 2348,2026,5215238,Johnnie Thiel IV,WR,88,Freshman,"5' 11""",175 lbs,True
-2348,2026,5215381,Brady Vodicka,QB,14,Freshman,"6' 2""",215 lbs,True
-2348,2026,5265463,Luke Watkins,WR,15,Sophomore,"6' 4""",205 lbs,True
+2348,2026,5231369,Demario Bookhart,DB,17,Sophomore,"6' 1""",175 lbs,True
 2348,2026,5149829,Jacob Bradford,DL,93,Sophomore,"6' 1""",290 lbs,True
 2348,2026,5296384,Amari Butler,DB,2,Senior,"5' 10""",186 lbs,True
 2348,2026,5296377,Kameron Carter,DB,3,Senior,"6' 1""",175 lbs,True
@@ -63,11 +63,11 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2348,2026,5269141,Nathan Green,DB,26,Freshman,"5' 11""",175 lbs,True
 2348,2026,5221075,Jaitlin Hampton,DB,18,Junior,"5' 11""",170 lbs,True
 2348,2026,5302785,Grayson Hardy,LB,27,Freshman,"6' 3""",215 lbs,True
-2348,2026,5296389,Zander Hayes,LB,36,Freshman,"5' 10""",194 lbs,True
+2348,2026,5296389,Zander Hayes,LB,30,Freshman,"5' 10""",194 lbs,True
 2348,2026,5222250,Zheric Hill,LB,21,Sophomore,"6' 0""",230 lbs,True
 2348,2026,5382999,Nate Jackson,LB,45,Freshman,"6' 2""",230 lbs,True
 2348,2026,5296390,Zachary Jackson,DB,37,Sophomore,"5' 10""",170 lbs,True
-2348,2026,5197102,Alonzo Jackson Jr.,LB,23,Sophomore,"6' 1""",227 lbs,True
+2348,2026,5197102,Alonzo Jackson Jr.,LB,24,Sophomore,"6' 1""",227 lbs,True
 2348,2026,5147383,Ahkhari Johnson,DB,5,Junior,"5' 11""",191 lbs,True
 2348,2026,5225413,Ty Jones,DB,20,Senior,"6' 2""",200 lbs,True
 2348,2026,5382996,Jake Kim,DB,41,Freshman,"5' 11""",175 lbs,True

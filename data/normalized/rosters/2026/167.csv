@@ -46,7 +46,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 167,2026,5296587,Zhaiel Smith,WR,6,Sophomore,"5' 11""",188 lbs,True
 167,2026,5327588,Jerbralon Stewart,OL,69,Freshman,"6' 2""",260 lbs,True
 167,2026,5265502,Jaymar Tasi,OL,58,Sophomore,"6' 2""",308 lbs,True
-167,2026,5141712,Bear Tenney,TE,17,Sophomore,"6' 6""",255 lbs,True
 167,2026,4807124,Darren Agu,DE,10,Senior,"6' 6""",252 lbs,True
 167,2026,5083172,Ormanie Arnold,CB,8,Senior,"5' 8""",178 lbs,True
 167,2026,5388854,Nick Barber,DT,98,Freshman,"6' 3""",280 lbs,True
@@ -72,6 +71,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 167,2026,5226456,Will Hicks,S,17,Junior,"6' 0""",198 lbs,True
 167,2026,5209409,Ricklan Holmes II,LB,50,Freshman,"5' 11""",227 lbs,True
 167,2026,5121532,C.J. Johnson,LB,11,Junior,"6' 2""",215 lbs,True
+167,2026,5220449,Brett Karhu,DE,45,Senior,"6' 1""",226 lbs,True
 167,2026,5326948,Jaron Liles,S,39,Freshman,"6' 1""",200 lbs,True
 167,2026,5151022,Kevin Longstreet,S,20,Senior,"5' 8""",185 lbs,True
 167,2026,5149176,Clay Martineau,LB,18,Junior,"6' 3""",228 lbs,True

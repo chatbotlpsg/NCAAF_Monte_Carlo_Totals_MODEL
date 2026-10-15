@@ -3,6 +3,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2450,2026,5150426,Deljay Bailey,QB,2,Junior,"6' 2""",205 lbs,True
 2450,2026,5227484,Kiron Benjamin,RB,22,Senior,"5' 10""",190 lbs,True
 2450,2026,4920147,Paul Billups II,WR,1,Junior,"6' 2""",195 lbs,True
+2450,2026,5439476,Pierce Brown,WR,,Junior,"6' 0""",175 lbs,True
 2450,2026,5410232,Brevin Caldwell,WR,11,Senior,"5' 10""",160 lbs,True
 2450,2026,5439447,Kameron Casnave,RB,28,Freshman,"6' 1""",220 lbs,True
 2450,2026,5155989,Jayden Chappell,OL,71,Junior,"6' 5""",340 lbs,True
@@ -44,7 +45,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2450,2026,5227503,Dominic Theibault,WR,89,Junior,"6' 2""",185 lbs,True
 2450,2026,5439461,Terry Thomas Jr.,OL,54,Junior,"6' 4""",330 lbs,True
 2450,2026,5305901,Shamar Vick,WR,8,Freshman,"5' 10""",175 lbs,True
-2450,2026,5439465,Drean Wallace,OL,64,Freshman,"6' 2""",280 lbs,True
 2450,2026,5083534,Daizon Allen,DB,10,Senior,"6' 1""",186 lbs,True
 2450,2026,5417461,Eugene Allen IV,DE,52,Junior,"6' 3""",260 lbs,True
 2450,2026,5082364,Nasir Bashir,DB,2,Senior,"6' 0""",185 lbs,True
@@ -60,11 +60,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2450,2026,5228217,Quintin Goins,DL,98,Sophomore,"6' 3""",265 lbs,True
 2450,2026,5155980,Xavier Graham,LB,18,Junior,"6' 2""",225 lbs,True
 2450,2026,5439473,Jaylen Graves,DT,93,Freshman,"5' 10""",185 lbs,True
+2450,2026,5155181,Isaiah Hackett,DB,6,Sophomore,"6' 0""",185 lbs,True
 2450,2026,4683698,Stephon Hall,S,5,Senior,"6' 2""",193 lbs,True
 2450,2026,5439453,Christian Henry,S,38,Freshman,"5' 10""",175 lbs,True
 2450,2026,5224506,Jeremiah Henry,DT,12,Senior,"6' 3""",275 lbs,True
 2450,2026,5439446,Zachary Johnson,CB,21,Freshman,"6' 3""",200 lbs,True
-2450,2026,5254533,Sidney Jones Jr.,S,46,Sophomore,"6' 0""",,True
+2450,2026,5254533,Sidney Jones Jr.,S,46,Sophomore,"6' 1""",205 lbs,True
 2450,2026,5301382,Tormon Laprade,DB,3,Junior,"5' 11""",178 lbs,True
 2450,2026,5290230,Jacoby Marshall,S,34,Freshman,"6' 0""",175 lbs,True
 2450,2026,5087285,Javontay Martin,LB,9,Senior,"6' 3""",230 lbs,True

@@ -14,7 +14,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 62,2026,5158917,Nick Delgadillo,WR,17,Junior,"6' 0""",190 lbs,True
 62,2026,4871099,Denaris DeRosa Jr.,OL,58,Senior,"6' 3""",285 lbs,True
 62,2026,5150635,Koa Eldredge,WR,13,Senior,"6' 0""",190 lbs,True
-62,2026,5302884,Vainuupo Fanuaea,TE,87,Freshman,"6' 4""",275 lbs,True
+62,2026,5302884,Vainuupo Fanuaea,OL,74,Freshman,"6' 4""",275 lbs,True
 62,2026,5218882,Josiah Fetui,WR,83,Sophomore,"6' 3""",185 lbs,True
 62,2026,5291002,TJ Fo'ilefutu,RB,28,Freshman,"6' 0""",240 lbs,True
 62,2026,5388749,Brandon Gaea,WR,86,Freshman,"6' 0""",190 lbs,True
@@ -33,13 +33,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 62,2026,5229929,Diezel Kamoku,WR,19,Sophomore,"5' 9""",185 lbs,True
 62,2026,5151465,Micah Kaonohi-Kaihenui,TE,45,Senior,"5' 11""",255 lbs,True
 62,2026,5215247,Jordan Kernaghan,OL,54,Freshman,"6' 3""",285 lbs,True
-62,2026,5148777,Titan Lacaden,RB,22,Freshman,"5' 6""",175 lbs,True
+62,2026,5148777,Titan Lacaden,WR,22,Freshman,"5' 6""",175 lbs,True
 62,2026,5218875,Lautaimi Manuma,OL,62,Sophomore,"6' 3""",300 lbs,True
 62,2026,5303283,Eric McFall,OL,51,Sophomore,"6' 4""",305 lbs,True
 62,2026,5218869,Sitani Mikaele,RB,26,Sophomore,"5' 11""",230 lbs,True
 62,2026,5158459,Lipe Moala,OL,73,Junior,"6' 6""",345 lbs,True
 62,2026,5147135,Tu'i Muti,OL,50,Sophomore,"6' 1""",300 lbs,True
-62,2026,5291692,Andrew Price,OL,74,Freshman,"6' 5""",235 lbs,True
+62,2026,5291692,Andrew Price,TE,74,Freshman,"6' 5""",235 lbs,True
 62,2026,5079651,DeVon Rice,RB,1,Sophomore,"5' 9""",180 lbs,True
 62,2026,5295249,Ezekiel Salanoa,OL,60,Freshman,"5' 11""",290 lbs,True
 62,2026,4869316,Oakie Salave'a,TE,85,Senior,"6' 2""",240 lbs,True
@@ -52,7 +52,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 62,2026,4819249,Ka'eo Akana,DL,10,Senior,"6' 3""",245 lbs,True
 62,2026,4917317,Zion Allen,DB,6,Senior,"6' 1""",175 lbs,True
 62,2026,5302880,Jahren Altura,DB,27,Freshman,"5' 10""",175 lbs,True
-62,2026,4775257,Caleb Brown,DB,1,Senior,"6' 1""",170 lbs,True
 62,2026,5138130,Nazaiah Caravallo,DL,26,Sophomore,"6' 2""",235 lbs,True
 62,2026,5147678,Alika Cavaco-Amoy,LB,43,Sophomore,"6' 0""",215 lbs,True
 62,2026,5327571,Brayton Correa,DB,34,Freshman,"5' 10""",185 lbs,True
@@ -93,6 +92,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 62,2026,5083969,Geoffrey Speight Jr.,DL,95,Senior,"6' 1""",280 lbs,True
 62,2026,5292969,Kydel Stone,DB,23,Freshman,"6' 1""",185 lbs,True
 62,2026,5151458,Tasi Tadio,LB,49,Junior,"5' 11""",225 lbs,True
+62,2026,5084119,Matagi Thompson,DB,25,Senior,"6' 2""",190 lbs,True
 62,2026,5299904,Hudson Borsari,PK,16,Freshman,"5' 10""",175 lbs,True
 62,2026,5293824,Gehrig Heil,P,47,Freshman,"6' 1""",195 lbs,True
 62,2026,5388746,Gannon Miller,P,43,Freshman,"6' 0""",190 lbs,True

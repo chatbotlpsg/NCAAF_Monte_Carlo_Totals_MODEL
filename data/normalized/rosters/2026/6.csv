@@ -22,14 +22,14 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 6,2026,5078273,Ethan Hubbard,OL,72,Senior,"6' 6""",295 lbs,True
 6,2026,5085800,Shalik Hubbard,OL,57,Senior,"6' 4""",330 lbs,True
 6,2026,5151609,Everett Hunter,TE,83,Senior,"6' 4""",250 lbs,True
-6,2026,5289802,Taylor Jacobs Jr,QB,15,Freshman,"5' 11""",195 lbs,True
+6,2026,5289802,Taylor Jacobs Jr.,QB,15,Freshman,"5' 11""",195 lbs,True
 6,2026,5215189,Anthony Jeffery,RB,17,Sophomore,"5' 8""",190 lbs,True
 6,2026,5156183,Brendan Jenkins,WR,12,Senior,"6' 0""",195 lbs,True
 6,2026,4879603,Kenton Jerido,OL,69,Senior,"6' 3""",340 lbs,True
 6,2026,5295064,Jeremiah Jones-Thomas,WR,2,Sophomore,"5' 11""",180 lbs,True
 6,2026,5220588,Julyon Jordan,RB,24,Sophomore,"5' 9""",180 lbs,True
 6,2026,5160235,Julius Kidd,OL,61,Senior,"6' 2""",260 lbs,True
-6,2026,5290748,Artem Korchagin Jr,OL,67,Freshman,"6' 4""",300 lbs,True
+6,2026,5290748,Artem Korchagin Jr.,OL,67,Freshman,"6' 4""",300 lbs,True
 6,2026,5259827,Maddox Lynch,TE,14,Sophomore,"6' 5""",240 lbs,True
 6,2026,5395322,Eric Mahan,OL,79,Freshman,"6' 3""",402 lbs,True
 6,2026,5274378,Khatori Marion,WR,10,Freshman,"5' 11""",180 lbs,True
@@ -38,6 +38,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 6,2026,5395313,Cam McFarlin,TE,34,Junior,"6' 4""",240 lbs,True
 6,2026,5395324,Jordan Morris,TE,87,Senior,"6' 4""",230 lbs,True
 6,2026,5199938,Aydan Newell,OL,74,Freshman,"6' 3""",315 lbs,True
+6,2026,5447532,Brandon Nolan,WR,89,Freshman,"5' 10""",170 lbs,True
 6,2026,5154941,Reese Osei-Wusu,OL,68,Senior,"6' 4""",310 lbs,True
 6,2026,5295070,Keenan Phillips,RB,3,Junior,"5' 10""",185 lbs,True
 6,2026,5395320,Jamal Scott,OL,73,Freshman,"5' 11""",230 lbs,True
@@ -68,26 +69,26 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 6,2026,5395312,Perry Hand,LB,30,Freshman,"5' 11""",200 lbs,True
 6,2026,5084551,Jayvon Henderson,S,2,Senior,"5' 10""",190 lbs,True
 6,2026,4870769,Tre'Mon Henry,LB,25,Senior,"6' 1""",235 lbs,True
-6,2026,5301748,Andrew Hines,DL,11,Sophomore,"6' 3""",285 lbs,True
+6,2026,5301748,Andrew Hines,DL,94,Sophomore,"6' 3""",285 lbs,True
 6,2026,5395316,Rodney Hunter,DL,39,Junior,"6' 2""",305 lbs,True
 6,2026,5308486,Brayden Hurst,DL,80,Freshman,"6' 3""",310 lbs,True
 6,2026,5220200,Kaleb Jackson,S,29,Senior,"5' 8""",180 lbs,True
 6,2026,5078047,Stephen Johnson,DL,56,Senior,"6' 3""",310 lbs,True
 6,2026,5192749,Tirrell Johnson,LB,20,Senior,"6' 2""",230 lbs,True
-6,2026,5274336,Tomareo Johnson Jr,S,28,Freshman,"6' 2""",200 lbs,True
+6,2026,5274336,Tomareo Johnson Jr.,S,28,Freshman,"6' 2""",200 lbs,True
 6,2026,5395314,Evan Jones,CB,37,Freshman,"6' 0""",175 lbs,True
-6,2026,5151082,Terry Kirksey Jr,LB,46,Senior,"6' 2""",245 lbs,True
+6,2026,5151082,Terry Kirksey Jr.,LB,46,Senior,"6' 2""",245 lbs,True
 6,2026,5220224,Seidrion Langston,LB,16,Senior,"6' 1""",220 lbs,True
 6,2026,5220201,Matthew Laseter,S,35,Sophomore,"6' 0""",180 lbs,True
 6,2026,5306406,Latrelle Lett,LB,53,Sophomore,"5' 8""",235 lbs,True
 6,2026,5084222,Mase Lewis,DL,18,Senior,"6' 3""",275 lbs,True
-6,2026,4840124,DJ Moore,S,1,Senior,"6' 0""",200 lbs,True
+6,2026,4840124,D.J. Moore,S,1,Senior,"6' 0""",200 lbs,True
 6,2026,5298224,Demetress Mosley,LB,45,Freshman,"6' 2""",195 lbs,True
 6,2026,5077268,Jaylen Moson,CB,12,Senior,"5' 11""",175 lbs,True
 6,2026,5220206,Jacob Porco,LB,43,Junior,"6' 1""",210 lbs,True
 6,2026,5395309,Kam Robinson,S,13,Senior,"5' 11""",185 lbs,True
 6,2026,5087083,Christian Ross,LB,17,Senior,"6' 2""",235 lbs,True
-6,2026,5148775,Parker Shattuck,LB,0,Junior,"6' 1""",220 lbs,True
+6,2026,5148775,Parker Shattuck,LB,11,Junior,"6' 1""",220 lbs,True
 6,2026,5217871,E'Mauri Smiley,DL,90,Sophomore,"6' 1""",265 lbs,True
 6,2026,5154353,Bradley Thomas,CB,34,Senior,"5' 11""",175 lbs,True
 6,2026,5161855,Camen Upshaw,S,32,Freshman,"6' 0""",200 lbs,True
@@ -96,6 +97,5 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 6,2026,5258469,Dylan Freebury,PK,37,Sophomore,"5' 10""",180 lbs,True
 6,2026,5185701,Davis Little,PK,35,Junior,"6' 0""",175 lbs,True
 6,2026,5160230,Aleksi Pulkkinen,P,40,Senior,"6' 4""",215 lbs,True
-6,2026,5395326,Max Roth,PK,97,Junior,"5' 11""",220 lbs,True
 6,2026,5220208,Grant Rountree,LS,47,Junior,"6' 1""",215 lbs,True
 6,2026,5160239,Baxter Turner,LS,44,Senior,"5' 11""",200 lbs,True

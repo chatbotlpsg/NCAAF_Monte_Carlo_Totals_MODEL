@@ -1,0 +1,20 @@
+# NCAAF Division I Postgame Audit Handoff
+
+```text
+SLATE_DATE=<YYYY-MM-DD>
+RESULT_ROWS=<n>
+TARGET_ROWS=<n>
+COMPLETE_TARGETS=<n>
+T1_COMPLETE=<n>
+DATA_GAPS=<n>
+AUDIT_READINESS=<...>
+```
+
+Trading Agent reads:
+1. `00_SLATE_IDENTITY.md`
+2. `02_CAPTURE_TARGETS.csv`
+3. `03_RESULTS.csv`
+4. `04_CLOSING_LINES.csv`
+5. `05_MARKET_SETTLEMENTS.csv`
+6. `06_GAP_REGISTER.csv`
+7. `08_CAPTURE_REPORT.md`

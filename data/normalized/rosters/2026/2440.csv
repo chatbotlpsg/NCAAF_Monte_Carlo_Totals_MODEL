@@ -1,13 +1,13 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
 2440,2026,5222628,Mataio Aiono,OL,68,Freshman,"6' 3""",280 lbs,True
 2440,2026,5216506,DJ Asiasi,TE,16,Freshman,"6' 2""",248 lbs,True
-2440,2026,5084959,Kola Babalola,TE,15,Senior,"6' 2""",230 lbs,True
+2440,2026,5084959,Kola Babalola,TE,19,Senior,"6' 2""",215 lbs,True
 2440,2026,5221583,Jose Balver-Mendoza,OL,75,Sophomore,"6' 5""",287 lbs,True
 2440,2026,5216332,Colin Banning,OL,71,Freshman,"6' 2""",304 lbs,True
 2440,2026,4819250,AJ Bianco,QB,10,Senior,"6' 3""",217 lbs,True
 2440,2026,5103836,Marshaun Brown,WR,9,Junior,"6' 4""",198 lbs,True
 2440,2026,5084703,Daijon Calimon,WR,8,Sophomore,"6' 2""",190 lbs,True
-2440,2026,5153499,Donnie Cheers,WR,85,Junior,"6' 1""",192 lbs,True
+2440,2026,5153499,Donnie Cheers,WR,5,Junior,"6' 0""",180 lbs,True
 2440,2026,5085378,Zach Cochnauer,OL,76,Senior,"6' 5""",306 lbs,True
 2440,2026,5151405,Jaceon Doss,WR,3,Senior,"6' 0""",170 lbs,True
 2440,2026,5077500,Luke Duncan,QB,12,Junior,"6' 6""",210 lbs,True
@@ -20,14 +20,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2440,2026,5291847,Colton Hogge,OL,65,Freshman,"6' 4""",280 lbs,True
 2440,2026,5148658,Carter Jackson,RB,4,Freshman,"5' 9""",190 lbs,True
 2440,2026,5388800,Janerious Jackson,RB,2,Junior,"6' 1""",220 lbs,True
-2440,2026,5291848,Terrence Johnson,OL,61,Freshman,,,True
+2440,2026,5291848,Terrence Johnson,OL,61,Freshman,"6' 4""",300 lbs,True
 2440,2026,5205097,Carter Jones,QB,6,Sophomore,"6' 3""",197 lbs,True
 2440,2026,5388808,Elias Justice,OL,52,Junior,"6' 3""",315 lbs,True
 2440,2026,5265178,Dominic Kelley,RB,0,Sophomore,"6' 0""",215 lbs,True
 2440,2026,5258475,Mack Kump,WR,19,Freshman,"5' 9""",183 lbs,True
 2440,2026,5081208,Snoop Leota-Amaama,OL,70,Senior,"6' 4""",331 lbs,True
 2440,2026,5219596,Ethan Lowell,OL,58,Sophomore,"6' 3""",282 lbs,True
-2440,2026,5296356,Kaden Martirano,QB,17,Freshman,"6' 2""",214 lbs,True
 2440,2026,5157361,Tyler Miller,OL,73,Sophomore,"6' 2""",302 lbs,True
 2440,2026,5158756,Damien Morgan,WR,11,Senior,"5' 10""",181 lbs,True
 2440,2026,5292044,Amari Nash,WR,87,Freshman,"6' 0""",175 lbs,True
@@ -35,25 +34,25 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2440,2026,5221582,Jacob Norcross,OL,59,Junior,"6' 2""",300 lbs,True
 2440,2026,5151791,Jayden O'Rourke,TE,82,Senior,"6' 9""",262 lbs,True
 2440,2026,5258481,Jackson Ramsey,OL,64,Freshman,"6' 3""",305 lbs,True
-2440,2026,5265175,Bronwyn Rios,RB,24,Freshman,,,True
+2440,2026,5265175,Bronwyn Rios,RB,24,Freshman,"5' 9""",205 lbs,True
 2440,2026,4683297,Gerick Robinson,WR,14,Senior,"5' 7""",178 lbs,True
 2440,2026,5281139,Darren Schmitt,TE,80,Freshman,"6' 4""",230 lbs,True
 2440,2026,5196569,Henry Sellards,OL,66,Sophomore,"6' 4""",300 lbs,True
-2440,2026,5265060,Reeve Slone,QB,5,Freshman,,,True
+2440,2026,5265060,Reeve Slone,QB,5,Freshman,"6' 0""",200 lbs,True
 2440,2026,5332898,Mekai Smith,RB,26,Freshman,"6' 0""",220 lbs,True
 2440,2026,5290856,Joe Stimpson,WR,86,Freshman,"5' 10""",180 lbs,True
 2440,2026,5220671,Herschel Turner,RB,1,Junior,"5' 9""",196 lbs,True
 2440,2026,5326061,Deven Vigue,WR,84,Freshman,"6' 0""",170 lbs,True
-2440,2026,5388810,Benjamin Wheeler,TE,89,Junior,,,True
-2440,2026,5159069,Isaiah Williams,WR,13,Freshman,,,True
+2440,2026,5388810,Benjamin Wheeler,TE,89,Junior,"6' 2""",224 lbs,True
+2440,2026,5159069,Isaiah Williams,WR,13,Freshman,"5' 11""",175 lbs,True
 2440,2026,5290783,Perrion Williams,WR,88,Freshman,"6' 0""",175 lbs,True
+2440,2026,4833591,Ky Woods,RB,25,Senior,"5' 9""",173 lbs,True
 2440,2026,5229945,Zavien Abercrombie,DB,17,Sophomore,"5' 9""",166 lbs,True
 2440,2026,5155324,Brandon Amaniampong,EDGE,4,Junior,"6' 6""",250 lbs,True
-2440,2026,5107937,Selman Bridges,DB,7,Sophomore,,181 lbs,True
+2440,2026,5107937,Selman Bridges,DB,7,Sophomore,"6' 4""",181 lbs,True
 2440,2026,5209142,Kameron Brown,EDGE,3,Freshman,"6' 2""",249 lbs,True
-2440,2026,5327576,Jaxon Cannida,LB,14,Freshman,,,True
+2440,2026,5327576,Jaxon Cannida,LB,14,Freshman,"6' 3""",219 lbs,True
 2440,2026,5292583,Sam Davidson IV,EDGE,94,Freshman,"6' 5""",260 lbs,True
-2440,2026,5150541,Bryce Echols,DL,56,Junior,"6' 5""",273 lbs,True
 2440,2026,5388814,Jeremiah Foni,DT,97,Junior,"6' 1""",290 lbs,True
 2440,2026,5236390,Mykel Ford,DB,28,Freshman,"5' 10""",168 lbs,True
 2440,2026,5082503,James Gillespie,DT,91,Senior,"6' 3""",315 lbs,True
@@ -61,14 +60,14 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2440,2026,5265480,Jason Hemphill II,DL,90,Freshman,"5' 11""",300 lbs,True
 2440,2026,5388805,Michael Hunt,DB,33,Freshman,"6' 0""",175 lbs,True
 2440,2026,5388804,Coy Jones,DB,31,Freshman,"5' 10""",175 lbs,True
-2440,2026,5224460,Zion Jones,DB,5,Junior,"6' 2""",163 lbs,True
+2440,2026,5152112,Zion Jones,DB,5,Senior,"6' 3""",179 lbs,True
 2440,2026,5255015,Isaiah Jordan,DB,26,Freshman,"6' 0""",200 lbs,True
 2440,2026,5388813,Chris Kalu,EDGE,95,Sophomore,"6' 3""",250 lbs,True
 2440,2026,5269155,Colson Kermode,LB,42,Freshman,"6' 1""",212 lbs,True
 2440,2026,5219590,Dylan LaBarbera,EDGE,32,Senior,"6' 1""",248 lbs,True
 2440,2026,5156346,Jack MacKinnon,EDGE,9,Junior,"6' 4""",239 lbs,True
 2440,2026,5388807,Alosio Maluia,LB,44,Sophomore,"6' 1""",220 lbs,True
-2440,2026,5280597,CJ Mooring,LB,19,Freshman,,,True
+2440,2026,5280597,CJ Mooring,LB,19,Freshman,"6' 0""",215 lbs,True
 2440,2026,5295194,Jeremy Naborne-Owens,LB,1,Senior,"6' 2""",220 lbs,True
 2440,2026,5219603,David Paine Jr.,DL,98,Sophomore,"6' 1""",273 lbs,True
 2440,2026,5222642,Keegan Perea,EDGE,88,Freshman,"6' 1""",255 lbs,True
@@ -94,6 +93,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2440,2026,5295049,Jaylen Webb,DB,22,Junior,"6' 2""",196 lbs,True
 2440,2026,5215388,Cody Wells,LB,20,Freshman,"6' 2""",210 lbs,True
 2440,2026,4687184,Myles Williams,EDGE,92,Senior,"6' 3""",242 lbs,True
+2440,2026,5159493,Cooper Wilson,DB,6,Junior,"6' 2""",186 lbs,True
 2440,2026,5388812,Ewan Baulch,P,95,Freshman,"6' 3""",215 lbs,True
 2440,2026,5388815,Jacob Fernandez,PK,99,Freshman,"6' 6""",215 lbs,True
 2440,2026,4690467,Joe McFadden,PK,84,Senior,"5' 9""",180 lbs,True

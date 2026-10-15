@@ -145,13 +145,27 @@ class OddsApiAdapter:
                     key = market.get("key")
                     for o in market.get("outcomes", []) or []:
                         desc = o.get("description")
-                        if key == "totals": family, period, team = "FG_TOTAL", "FG", None
-                        elif key == "totals_h1": family, period, team = "H1_TOTAL", "H1", None
-                        elif key == "team_totals": family, period, team = "TEAM_TOTAL", "FG", desc
-                        else: continue
+                        team_role = None
+                        if key == "totals":
+                            family, period, team = "FG_TOTAL", "FG", None
+                        elif key == "totals_h1":
+                            family, period, team = "H1_TOTAL", "H1", None
+                        elif key == "team_totals":
+                            family, period, team = "TEAM_TOTAL", "FG", desc
+                            dn = " ".join(str(desc or "").lower().split())
+                            hn = " ".join(str(ev.get("home_team") or "").lower().split())
+                            an = " ".join(str(ev.get("away_team") or "").lower().split())
+                            if dn and dn == hn:
+                                team_role = "HOME"
+                            elif dn and dn == an:
+                                team_role = "AWAY"
+                            else:
+                                team_role = "UNKNOWN"
+                        else:
+                            continue
                         rows.append({
                             "odds_event_id": ev.get("id"), "home_team": ev.get("home_team"), "away_team": ev.get("away_team"),
-                            "market_family": family, "period": period, "team_if_applicable": team,
+                            "market_family": family, "period": period, "team_if_applicable": team, "team_role": team_role,
                             "side": str(o.get("name", "")).upper(), "point": o.get("point"), "american_price": o.get("price"),
                             "bookmaker": book.get("key"), "bookmaker_title": book.get("title"),
                             "last_update": market.get("last_update") or book.get("last_update"), "snapshot_time": utc_now_iso(),

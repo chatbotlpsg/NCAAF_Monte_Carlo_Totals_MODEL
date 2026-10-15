@@ -8,17 +8,17 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2534,2026,5296832,Tim Burns Jr.,WR,3,Senior,"5' 10""",170 lbs,True
 2534,2026,5205093,Logan Cahill,OL,68,Sophomore,"6' 4""",310 lbs,True
 2534,2026,5225792,Alijah Cason,WR,4,Junior,"5' 10""",175 lbs,True
-2534,2026,5154266,Josiah Chenault,OL,73,Senior,"6' 2""",305 lbs,True
+2534,2026,5154266,Josiah Chenault,OL,64,Senior,"6' 2""",305 lbs,True
 2534,2026,5233649,Elijah Collins,OL,75,Junior,"6' 4""",310 lbs,True
-2534,2026,5438485,Konner Dandridge,WR,19,Freshman,,,True
+2534,2026,5438485,Konner Dandridge,WR,19,Freshman,"6' 0""",195 lbs,True
 2534,2026,5207795,London Deyon,TE,14,Sophomore,"6' 4""",235 lbs,True
 2534,2026,5384799,MJ Dowdy,RB,20,Freshman,"5' 11""",210 lbs,True
 2534,2026,5235648,Jeremiah Edmond,OL,56,Senior,"6' 1""",300 lbs,True
 2534,2026,5296823,Ah'Marion Gaines-Smith,RB,25,Senior,"5' 11""",220 lbs,True
-2534,2026,5220444,Terrence Guillory II,WR,80,Junior,"5' 9""",170 lbs,True
+2534,2026,5220444,Terrence Guillory II,WR,88,Junior,"5' 9""",170 lbs,True
 2534,2026,5306480,Cade Hays,TE,85,Sophomore,"6' 1""",235 lbs,True
 2534,2026,5384797,Brett Holloway,QB,9,Freshman,"5' 11""",210 lbs,True
-2534,2026,5212648,Mason Holtzclaw,QB,16,Freshman,"6' 1""",205 lbs,True
+2534,2026,5212648,Mason Holtzclaw,QB,16,Freshman,"6' 4""",205 lbs,True
 2534,2026,5207781,Myles Joseph,OL,72,Freshman,"6' 4""",315 lbs,True
 2534,2026,5148846,Carter Kadow,OL,58,Junior,"6' 8""",315 lbs,True
 2534,2026,5265431,Brock Kuhl,TE,89,Sophomore,"6' 4""",250 lbs,True
@@ -47,12 +47,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2534,2026,5384808,Joe Warren,OL,63,Junior,"6' 4""",310 lbs,True
 2534,2026,4695711,Max Whisner,TE,87,Senior,"6' 5""",255 lbs,True
 2534,2026,5193393,Railyn Adams,S,13,Junior,"6' 0""",185 lbs,True
-2534,2026,5146974,Josh Alexander-Felton,DE,15,Junior,"6' 3""",265 lbs,True
+2534,2026,5146974,Josh Alexander-Felton,DE,1,Junior,"6' 3""",265 lbs,True
 2534,2026,5088585,Jarra Anderson,DT,92,Senior,"6' 3""",300 lbs,True
 2534,2026,4870605,Jace Arnold,S,9,Senior,"5' 11""",185 lbs,True
-2534,2026,5086522,Ishmel Atkins,CB,4,Senior,"6' 4""",200 lbs,True
+2534,2026,5086522,Ishmel Atkins,CB,5,Senior,"6' 4""",200 lbs,True
 2534,2026,4702895,Tyler Bailey,S,8,Senior,"6' 0""",195 lbs,True
 2534,2026,5151041,Brian Bates Jr.,LB,33,Senior,"6' 1""",230 lbs,True
+2534,2026,5272707,O'Kece Battle,CB,38,Freshman,"5' 11""",175 lbs,True
 2534,2026,5438486,O'Kece Battle,CB,38,Freshman,,,True
 2534,2026,5127802,Stacy Bey,LB,18,Sophomore,"6' 0""",210 lbs,True
 2534,2026,5297878,Marcus Bourda Jr.,S,36,Freshman,"6' 1""",185 lbs,True
@@ -63,12 +64,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2534,2026,5258014,Caius Coy,DE,91,Sophomore,"6' 3""",255 lbs,True
 2534,2026,5438482,Aaron Edwards,S,16,Junior,"6' 3""",205 lbs,True
 2534,2026,5148938,Dean Ford,LB,21,Junior,"6' 1""",230 lbs,True
-2534,2026,4893939,Cameron Franklin,S,38,Senior,"6' 2""",200 lbs,True
+2534,2026,4893939,Cameron Franklin,S,15,Senior,"6' 2""",200 lbs,True
 2534,2026,4685343,Dylan Frazier,DT,97,Senior,"6' 5""",280 lbs,True
 2534,2026,5216573,Jayden Fry,DE,19,Sophomore,"6' 3""",235 lbs,True
 2534,2026,5296824,Tokyo Gordon,LB,26,Senior,"6' 2""",215 lbs,True
 2534,2026,5147144,Elijah Groves,LB,12,Junior,"6' 5""",245 lbs,True
-2534,2026,5265513,Brody Henderson,DE,16,Sophomore,"6' 4""",250 lbs,True
+2534,2026,5265513,Brody Henderson,DE,3,Sophomore,"6' 4""",250 lbs,True
 2534,2026,5083794,Octavius Henderson,CB,17,Senior,"6' 3""",190 lbs,True
 2534,2026,5083715,Ca'lub Holloway,LB,42,Senior,"6' 1""",245 lbs,True
 2534,2026,5384801,Kade Houston,LB,32,Senior,"6' 1""",225 lbs,True
@@ -81,11 +82,11 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2534,2026,5438484,Julian Mayfield,CB,34,Freshman,"5' 10""",185 lbs,True
 2534,2026,5310764,Robert McFarland,S,27,Freshman,"5' 10""",205 lbs,True
 2534,2026,5079547,Dimitry Nicolas,DT,99,Junior,"6' 4""",295 lbs,True
-2534,2026,5438483,Evan Odom,CB,43,Junior,"6' 0""",175 lbs,True
+2534,2026,5438483,Evan Odom,CB,43,Sophomore,"6' 0""",175 lbs,True
 2534,2026,5384803,Joseph Opara,CB,39,Freshman,"5' 10""",180 lbs,True
 2534,2026,5220429,Lyric Smith,S,29,Junior,"6' 0""",190 lbs,True
 2534,2026,5296821,Bryen Spaulding,DE,14,Senior,"6' 3""",260 lbs,True
-2534,2026,5078919,Jalyn Stanford,S,5,Senior,"5' 10""",200 lbs,True
+2534,2026,5078919,Jalyn Stanford,S,4,Senior,"5' 10""",200 lbs,True
 2534,2026,5384802,Jabaric Sullivan,CB,35,Freshman,"6' 0""",180 lbs,True
 2534,2026,5125472,Zion Taylor,DE,28,Junior,"6' 1""",225 lbs,True
 2534,2026,5126292,Justin Terrell,DT,98,Junior,"6' 3""",310 lbs,True
@@ -98,4 +99,3 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2534,2026,5295340,Cameron McCulloch,LS,49,Junior,"6' 4""",220 lbs,True
 2534,2026,5219070,Nico Ottomanelli,PK,81,Junior,"6' 3""",200 lbs,True
 2534,2026,5296834,Tate Ryan,PK,83,Sophomore,"6' 0""",180 lbs,True
-2534,2026,5160213,Carson Whitington,LS,46,Senior,"6' 0""",240 lbs,True

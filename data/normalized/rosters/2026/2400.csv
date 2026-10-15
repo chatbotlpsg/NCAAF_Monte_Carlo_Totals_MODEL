@@ -8,7 +8,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2400,2026,5439368,Dondiago Collins,OL,75,Junior,"6' 2""",,True
 2400,2026,5439372,Montrell Conner,WR,81,Freshman,"5' 9""",,True
 2400,2026,5439344,Jordon Davis,QB,2,Junior,"5' 7""",,True
-2400,2026,5308275,Jermarie Dumas,OL,72,Senior,"6' 2""",,True
+2400,2026,5308275,Jermarie Dumas,OL,72,Senior,"6' 2""",340 lbs,True
 2400,2026,5439366,CJ Francis,OL,64,Freshman,"6' 5""",,True
 2400,2026,5268932,Jackson Hampton,WR,84,Freshman,"6' 4""",,True
 2400,2026,5088974,Carter James,RB,9,Senior,"6' 0""",215 lbs,True
@@ -31,6 +31,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2400,2026,5439367,Joshua Vaughan,OL,73,Freshman,"6' 2""",,True
 2400,2026,5304068,Martez Williams,TE,0,Senior,"6' 5""",,True
 2400,2026,5161729,Kamsi Arinze,LB,19,Senior,"6' 3""",204 lbs,True
+2400,2026,5439350,Dayvian Bluitt,DB,11,Junior,"5' 11""",156 lbs,True
 2400,2026,5439353,Jonathan Brown,DB,17,Sophomore,"6' 1""",,True
 2400,2026,4877400,Deondri Clark,DE,92,Senior,"6' 2""",230 lbs,True
 2400,2026,5439349,Jusden Culpper,LB,9,Sophomore,"6' 1""",,True
@@ -44,7 +45,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2400,2026,5306304,Phillip Jackson,DL,38,Sophomore,"6' 2""",,True
 2400,2026,5439356,Sian John,DB,24,Freshman,"6' 1""",,True
 2400,2026,5439355,Tyrell Johnson,CB,22,Freshman,"6' 0""",,True
-2400,2026,5439378,David Jones,DL,99,Senior,"6' 1""",,True
+2400,2026,5439378,David Jones,DL,99,Senior,"6' 1""",425 lbs,True
 2400,2026,5439357,Terrance Jones,CB,25,Freshman,"5' 11""",,True
 2400,2026,5304065,Byron Keys,LB,44,Senior,"6' 3""",,True
 2400,2026,5439359,Christ Kore,DL,48,Junior,"6' 0""",,True

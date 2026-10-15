@@ -17,7 +17,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2572,2026,5125171,Jaylen Foster,RB,22,Junior,"5' 11""",190 lbs,True
 2572,2026,5216843,Connor Gooding,TE,82,Sophomore,"6' 4""",230 lbs,True
 2572,2026,4618083,Ethan Hampton,QB,5,Senior,"6' 3""",220 lbs,True
-2572,2026,5296029,Robert Henderson,RB,20,Sophomore,"5' 10""",195 lbs,True
+2572,2026,5296029,Robert Henderson,RB,21,Sophomore,"5' 10""",195 lbs,True
 2572,2026,5394595,Jaylen Himes,WR,9,Sophomore,"5' 9""",185 lbs,True
 2572,2026,5086379,Brandon Hood,RB,26,Sophomore,"5' 10""",200 lbs,True
 2572,2026,5146687,Trey Horne,WR,23,Junior,"6' 3""",200 lbs,True
@@ -35,7 +35,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2572,2026,5394597,Maddox McCrory,QB,16,Freshman,"6' 1""",185 lbs,True
 2572,2026,5144800,Toby Mealer,OL,53,Freshman,"6' 5""",335 lbs,True
 2572,2026,5225526,Camden Myers,OL,64,Sophomore,"6' 3""",300 lbs,True
-2572,2026,5220378,Greg Nunnery,OL,56,Senior,"6' 4""",320 lbs,True
+2572,2026,5220378,Greg Nunnery,OL,58,Senior,"6' 4""",320 lbs,True
 2572,2026,4702560,Grant Page,WR,13,Senior,"6' 3""",200 lbs,True
 2572,2026,5274304,Broderick Peters,TE,84,Freshman,"6' 4""",245 lbs,True
 2572,2026,5159059,Hugh Price,QB,15,Freshman,"6' 6""",204 lbs,True
@@ -66,13 +66,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2572,2026,5394610,Ricky Harding,LB,51,Junior,"6' 1""",220 lbs,True
 2572,2026,5163074,Mathis Haygood,LB,13,Junior,"6' 4""",230 lbs,True
 2572,2026,5394606,Aidan Horne,S,37,Freshman,"6' 3""",187 lbs,True
-2572,2026,5394622,Cam'rom Hoyte,DL,99,Junior,"6' 4""",295 lbs,True
+2572,2026,5394622,Cam'ron Hoyte,DL,99,Junior,"6' 4""",295 lbs,True
 2572,2026,4431552,Ishmael Ibraheem,CB,8,Senior,"6' 0""",178 lbs,True
 2572,2026,5155211,Josh Johnson,DL,95,Junior,"6' 0""",320 lbs,True
 2572,2026,4870777,Zachariah Keith,DL,31,Junior,"6' 6""",280 lbs,True
 2572,2026,5394592,Tyler Lassiter,LB,2,Sophomore,"6' 3""",230 lbs,True
 2572,2026,4868341,Champ Lewis,DB,1,Junior,"6' 0""",183 lbs,True
-2572,2026,5220369,Jameer Lewis,DL,16,Senior,"6' 2""",230 lbs,True
+2572,2026,5220369,Jameer Lewis,DL,9,Senior,"6' 2""",230 lbs,True
 2572,2026,5161172,Andrew Martin,LB,6,Senior,"6' 0""",212 lbs,True
 2572,2026,5296126,Jonah Martinez,DB,16,Junior,"6' 0""",180 lbs,True
 2572,2026,5303729,Kei'shaun Mashburn,DL,98,Junior,"6' 2""",300 lbs,True

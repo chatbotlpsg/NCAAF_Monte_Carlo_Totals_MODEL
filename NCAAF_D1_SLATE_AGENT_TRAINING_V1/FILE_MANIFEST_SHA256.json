@@ -1,0 +1,164 @@
+{
+  "package": "NCAAF_D1_SLATE_AGENT_TRAINING_V1",
+  "version": "1.0.0",
+  "created_at_utc": "2026-09-06T14:01:26Z",
+  "entry_command": "<DATE> NCAAF D1",
+  "primary_prompt": "10_MASTER_SLATE_AGENT_PROMPT.md",
+  "files": [
+    {
+      "path": "00_README.md",
+      "sha256": "a7daacb92e54b32400911143fbae518635cf0908af3b37a90a51ee9c80d7e8ae",
+      "bytes": 1378
+    },
+    {
+      "path": "01_AGENT_IDENTITY_AND_NONNEGOTIABLES.md",
+      "sha256": "3eeed29388b0bcda4ca9d8f9b36034eec25a98275ae8c9cb8fc87ecce70a099c",
+      "bytes": 849
+    },
+    {
+      "path": "02_ONE_LINE_COMMAND_ROUTER.md",
+      "sha256": "df976f1cd68be7a328ca9f5d9e8ee625d5f5a96c957a13e9092754b32bff761d",
+      "bytes": 1292
+    },
+    {
+      "path": "03_PREGAME_HANDOFF_AND_TARGET_BUILD.md",
+      "sha256": "c33d09d59d6a2c44d127035862c743089338c75d2f6e95bdece1bda0b1674ebf",
+      "bytes": 879
+    },
+    {
+      "path": "04_RESULTS_CAPTURE_PLAYBOOK.md",
+      "sha256": "014c53fa3a9a358b34d99cbf0ab41f13b40626c4b74c71c83ebce93d688ce083",
+      "bytes": 950
+    },
+    {
+      "path": "05_CLOSING_LINE_CAPTURE_PLAYBOOK.md",
+      "sha256": "42bbfdc1e8ea1de89ca9fe3a7bfa199c320f9699fc2b69488f74cb900f3f5dfd",
+      "bytes": 1126
+    },
+    {
+      "path": "06_SOURCE_HIERARCHY_AND_GAP_RECOVERY.md",
+      "sha256": "9c462844dd3f95638dff3d5aeecb2c99fb77e99ffd0b0fe9acb7fe9143deea6a",
+      "bytes": 1685
+    },
+    {
+      "path": "07_MARKET_IDENTITY_AND_SETTLEMENT_ENGINE.md",
+      "sha256": "2efaa5e34cf2f016f3a2e15c4326ff9821bd5e292dcc61ed8a102951d11991e6",
+      "bytes": 853
+    },
+    {
+      "path": "08_OUTPUT_CONTRACT_AND_SCHEMAS.md",
+      "sha256": "501c8eeb1deee15f8096cd61d7a664a09d5c888bc56a06a1af1da3936f1a795f",
+      "bytes": 1437
+    },
+    {
+      "path": "09_QA_AND_COMPLETION_GATES.md",
+      "sha256": "0dfdf97aff99372694bc86edaf86d04cebfe77f133168c55ce726e0f0bef30b2",
+      "bytes": 1129
+    },
+    {
+      "path": "10_MASTER_SLATE_AGENT_PROMPT.md",
+      "sha256": "d2691086d1dd0df563f096d993a31b4283cc3b9f03fe187860ca5276d5f007f9",
+      "bytes": 2261
+    },
+    {
+      "path": "11_POSTGAME_TRADING_AGENT_HANDOFF_STANDARD.md",
+      "sha256": "d88ae25aa8467a34e8bf129083e78f56c1cb17c4da58bda7d400824ecb20f2bb",
+      "bytes": 802
+    },
+    {
+      "path": "12_WORKED_EXAMPLE_2026-09-03.md",
+      "sha256": "dd08ef9ceaec3e984bcd61b32db08cf581a9b9a61b7c61298ebaaaa8b5cc3e8d",
+      "bytes": 2029
+    },
+    {
+      "path": "13_COMMAND_EXAMPLES.md",
+      "sha256": "be6451f7f163658c7db7d0dbcabffb9d8301dcb8f5c1f3322739690a73d58a89",
+      "bytes": 395
+    },
+    {
+      "path": "14_TRAINING_PROVENANCE.md",
+      "sha256": "592e97cdcc9c37f41cbf87e6fc5aa7b88a8072e318a5e649255190ce033e91a4",
+      "bytes": 817
+    },
+    {
+      "path": "templates/00_SLATE_IDENTITY_TEMPLATE.md",
+      "sha256": "4e5cb359992a472e8790258ea342f4ad524bad0cf43a1208bc304ca109fc96af",
+      "bytes": 436
+    },
+    {
+      "path": "templates/01_SLATE_EVENTS_TEMPLATE.csv",
+      "sha256": "7834d1dce526bb8e8c935aaf4705745c22cfe08d1f750cb502f218548f291685",
+      "bytes": 171
+    },
+    {
+      "path": "templates/02_CAPTURE_TARGETS_TEMPLATE.csv",
+      "sha256": "a08f5564e4aab799dff682a59d657a8f9c9830404f08f890ede33a0189d48332",
+      "bytes": 171
+    },
+    {
+      "path": "templates/03_RESULTS_TEMPLATE.csv",
+      "sha256": "0ef50e148575c748ece9b4af7a3dc56b3597dffd213faf090a471b80704273cf",
+      "bytes": 208
+    },
+    {
+      "path": "templates/04_CLOSING_LINES_TEMPLATE.csv",
+      "sha256": "f2b949d635a1f3e85bb6b117750b69e863d794d3cdcca1e3ec7c25e630a2e2b4",
+      "bytes": 224
+    },
+    {
+      "path": "templates/05_MARKET_SETTLEMENTS_TEMPLATE.csv",
+      "sha256": "dc07ba7762e98084d31d17aedeb120eb5edb722433c94f59ba6b7dfd4a9b0619",
+      "bytes": 235
+    },
+    {
+      "path": "templates/06_GAP_REGISTER_TEMPLATE.csv",
+      "sha256": "f03736a3ca469b553ded8642a5a9c49d251aa297c21250531f304b228e9456af",
+      "bytes": 134
+    },
+    {
+      "path": "templates/07_SOURCE_LEDGER_TEMPLATE.csv",
+      "sha256": "f23e3a666a41a8e4df96cbed4c49d1a51ea4c57b72d670569d2292a699e05646",
+      "bytes": 109
+    },
+    {
+      "path": "templates/08_CAPTURE_REPORT_TEMPLATE.md",
+      "sha256": "44bee975afac5124310b11578e97b1216cb7fa3f0a660600f95ac94a7358cbd7",
+      "bytes": 338
+    },
+    {
+      "path": "templates/09_CLOSE_RECOVERY_LOG_TEMPLATE.csv",
+      "sha256": "b124509e82783f926b3c9a1509aa01aeb717eda601b9ee657474f3cfe30e013a",
+      "bytes": 193
+    },
+    {
+      "path": "templates/10_POSTGAME_AUDIT_HANDOFF_TEMPLATE.md",
+      "sha256": "fae1718eac7586c1d60a39ebb423f1bb7aa1e30dac37aaa87fad23722784d378",
+      "bytes": 388
+    },
+    {
+      "path": "worked_example_2026-09-03/NCAAF_2026_W01_CAPTURE_REPORT.md",
+      "sha256": "5c0609ac15944fa8c319920ffc08cf7303b0e2eba6bb50fabf01947aabb3a342",
+      "bytes": 3977
+    },
+    {
+      "path": "worked_example_2026-09-03/NCAAF_2026_W01_CLOSING_LINES.csv",
+      "sha256": "3821cff800169ab7501d0cf7c8fd6b24921d8c23d6cdd7788b243a2ec29c70a8",
+      "bytes": 22656
+    },
+    {
+      "path": "worked_example_2026-09-03/NCAAF_2026_W01_GAP_RECOVERY_LOG.csv",
+      "sha256": "9ef575d7fd37e9ae10d05b898dd48adbce3986eb2e56e11d155aa62cff1b5951",
+      "bytes": 7943
+    },
+    {
+      "path": "worked_example_2026-09-03/NCAAF_2026_W01_MARKET_SETTLEMENTS.csv",
+      "sha256": "f1210526de8796862db1f90656fbb0c6d6753f2cbe55506e9f853206562aec4e",
+      "bytes": 14209
+    },
+    {
+      "path": "worked_example_2026-09-03/NCAAF_2026_W01_RESULTS.csv",
+      "sha256": "65792cddb818732253f069114aae1d8ab0f9b5a1bdbf2dcbe7dcc7ea851856b5",
+      "bytes": 2239
+    }
+  ]
+}

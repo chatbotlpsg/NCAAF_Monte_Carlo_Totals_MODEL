@@ -43,7 +43,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 277,2026,5150460,John Neider,WR,80,Junior,"6' 2""",205 lbs,True
 277,2026,5384828,Robert Oliver,WR,85,Freshman,"6' 2""",185 lbs,True
 277,2026,4898018,Josh Sapp,TE,0,Senior,"6' 2""",238 lbs,True
-277,2026,5151353,Prince Strachan,WR,17,Junior,"6' 5""",215 lbs,True
 277,2026,5446695,Destin Achi,LB,54,Sophomore,"6' 1""",216 lbs,True
 277,2026,5296329,Alex Adebayo,S,42,Sophomore,"6' 1""",202 lbs,True
 277,2026,5122015,David Afogho,EDGE,99,Junior,"6' 3""",251 lbs,True
@@ -55,6 +54,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 277,2026,5207896,Jacob Bradford,S,12,Freshman,"5' 11""",192 lbs,True
 277,2026,5215323,Taylor Brown,DL,51,Freshman,"6' 3""",290 lbs,True
 277,2026,5149497,Brandon Caesar,DL,98,Freshman,"6' 4""",257 lbs,True
+277,2026,5095810,Jason Chambers,CB,36,Senior,"5' 11""",189 lbs,True
 277,2026,5384824,Shane Cornali,S,31,Freshman,"6' 2""",195 lbs,True
 277,2026,4923061,Ben Cutter,LB,15,Senior,"6' 0""",228 lbs,True
 277,2026,5096044,Chams Diagne,CB,7,Senior,"6' 3""",208 lbs,True
@@ -63,14 +63,14 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 277,2026,5306335,Troy Fischer,LB,48,Senior,"5' 11""",222 lbs,True
 277,2026,5146985,Nate Gabriel,DL,93,Junior,"6' 3""",295 lbs,True
 277,2026,5291773,Rickey Giles,S,28,Freshman,"5' 10""",194 lbs,True
-277,2026,5234984,Tobi Haastrup,EDGE,95,Freshman,"6' 3""",250 lbs,True
+277,2026,5234984,Tobi Haastrup,LB,95,Freshman,"6' 3""",250 lbs,True
 277,2026,5154004,Jason Hall Jr.,LB,40,Junior,"6' 1""",234 lbs,True
 277,2026,5141484,Maliek Hawkins,DB,37,Freshman,"6' 0""",192 lbs,True
 277,2026,5384826,KJ Henson,DL,43,Junior,"6' 4""",290 lbs,True
 277,2026,5290588,Simaj Hill,CB,32,Freshman,"6' 0""",184 lbs,True
-277,2026,5146973,Harper Holloman,EDGE,50,Junior,"6' 2""",255 lbs,True
+277,2026,5146973,Harper Holloman,LB,50,Junior,"6' 2""",255 lbs,True
 277,2026,4868405,Malachi Hood,LB,45,Senior,"6' 2""",228 lbs,True
-277,2026,5384818,Jeremiah Johnson,EDGE,10,Junior,"6' 2""",249 lbs,True
+277,2026,5384818,Jeremiah Johnson,LB,10,Junior,"6' 2""",249 lbs,True
 277,2026,5384830,Emerson Joy,DL,92,Junior,"6' 6""",253 lbs,True
 277,2026,5311261,Carter Kessler,DL,49,Freshman,"6' 2""",250 lbs,True
 277,2026,5290619,Miles Khatri,DB,17,Freshman,"6' 0""",208 lbs,True
@@ -92,9 +92,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 277,2026,5281453,Vincent Smith,CB,11,Freshman,"6' 1""",215 lbs,True
 277,2026,5278550,Emory Snyder,DB,23,Freshman,"6' 3""",211 lbs,True
 277,2026,5446694,Silas Steffen,S,38,Freshman,"6' 4""",200 lbs,True
-277,2026,5081377,Tyler Stolsky,LB,14,Senior,"6' 2""",232 lbs,True
 277,2026,5295665,Jack Cassidy,PK,42,Senior,"6' 6""",234 lbs,True
 277,2026,5163486,Nate Flower,PK,48,Junior,"6' 2""",188 lbs,True
+277,2026,5095131,Mack Flynn,PR,97,Sophomore,"5' 10""",175 lbs,True
 277,2026,5082263,Bryan Hansen,P,83,Senior,"6' 3""",217 lbs,True
 277,2026,5100575,Macguire Moss,LS,38,Senior,"6' 1""",226 lbs,True
 277,2026,5257317,Peter Notaro,PK,39,Freshman,"5' 11""",192 lbs,True

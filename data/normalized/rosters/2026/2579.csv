@@ -61,12 +61,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2579,2026,5077110,Judge Collier,DB,8,Senior,"6' 2""",206 lbs,True
 2579,2026,5184576,Drew Collins,DE,27,Sophomore,"6' 2""",246 lbs,True
 2579,2026,4870667,Kelby Collins,DL,97,Senior,"6' 4""",285 lbs,True
-2579,2026,5159002,JZavien Currence,DB,14,Freshman,"6' 4""",215 lbs,True
+2579,2026,5159002,J'Zavien Currence,DB,14,Freshman,"6' 4""",215 lbs,True
 2579,2026,5142601,Kendall Daniels Jr.,DB,5,Sophomore,"6' 4""",213 lbs,True
 2579,2026,5218646,Donovan Darden,LB,15,Sophomore,"6' 4""",240 lbs,True
 2579,2026,5208372,Jaquavious Dodd,DE,22,Freshman,"6' 6""",253 lbs,True
 2579,2026,4878232,Tomiwa Durojaiye,DL,13,Senior,"6' 4""",291 lbs,True
-2579,2026,5209294,Aiden Harris,DL,92,Freshman,"6' 2""",286 lbs,True
+2579,2026,5209294,Aiden Harris,DL,90,Freshman,"6' 2""",286 lbs,True
 2579,2026,5212647,Andrew Harris,LB,30,Freshman,"6' 2""",238 lbs,True
 2579,2026,5214499,Chris Hatfield,DB,21,Freshman,"6' 2""",215 lbs,True
 2579,2026,4870738,Caleb Herring,DE,39,Senior,"6' 5""",245 lbs,True
@@ -74,6 +74,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2579,2026,5215155,Jaquel Holman,DB,18,Sophomore,"6' 1""",214 lbs,True
 2579,2026,5110495,Kelvin Hunter,DB,3,Sophomore,"6' 0""",210 lbs,True
 2579,2026,5236219,Christian Ingram,DL,95,Freshman,"6' 6""",300 lbs,True
+2579,2026,4869129,Ethan Johnson,DB,,Senior,"6' 0""",190 lbs,True
 2579,2026,5147146,Fred Johnson,LB,0,Junior,"6' 3""",241 lbs,True
 2579,2026,5276984,KJ Johnson,DB,44,Freshman,"6' 1""",175 lbs,True
 2579,2026,5084052,Gerald Kilgore,DB,1,Senior,"6' 0""",208 lbs,True
@@ -91,11 +92,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2579,2026,5210066,Josh Smith,LB,20,Freshman,"6' 2""",234 lbs,True
 2579,2026,5079703,Jalewis Solomon,DB,16,Sophomore,"6' 1""",195 lbs,True
 2579,2026,5079709,Dylan Stewart,DE,6,Junior,"6' 5""",250 lbs,True
-2579,2026,4921117,Vicari Swain,DB,4,Junior,"6' 0""",193 lbs,True
 2579,2026,5089446,Upton Bellenfant,PK,27,Senior,"6' 0""",180 lbs,True
-2579,2026,5255255,Kyler Farrow,LS,33,Freshman,"6' 2""",221 lbs,True
+2579,2026,5255255,Kyler Farrow,LS,57,Freshman,"6' 2""",221 lbs,True
 2579,2026,5215546,Max Kelley,PK,14,Sophomore,"6' 2""",225 lbs,True
 2579,2026,5147105,Mason Love,PK,24,Sophomore,"6' 0""",195 lbs,True
 2579,2026,5296711,Matthew Oh,LS,59,Freshman,"5' 9""",215 lbs,True
-2579,2026,5298660,Malik Orsan,LS,32,Freshman,"6' 1""",210 lbs,True
-2579,2026,5154390,Emmet Rhoades,LS,57,Junior,"5' 11""",225 lbs,True
+2579,2026,5298660,Malik Orsan,PK,32,Freshman,"6' 1""",210 lbs,True
+2579,2026,5154390,Emmet Rhoades,LS,53,Junior,"5' 11""",225 lbs,True

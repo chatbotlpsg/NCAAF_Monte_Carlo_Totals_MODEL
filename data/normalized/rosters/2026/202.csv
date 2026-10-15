@@ -1,4 +1,5 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
+202,2026,5152863,JaQuan Adams,OL,72,Senior,"6' 4""",300 lbs,True
 202,2026,5265441,Andrew Alford,QB,16,Freshman,"6' 0""",200 lbs,True
 202,2026,4685699,Damari Alston,RB,6,Senior,"5' 10""",205 lbs,True
 202,2026,5290596,Nick Anciaux,OL,65,Freshman,"6' 5""",260 lbs,True
@@ -22,7 +23,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 202,2026,5224011,Baylor Hayes,QB,10,Sophomore,"6' 0""",185 lbs,True
 202,2026,5224032,Jack Hood,OL,53,Sophomore,"6' 5""",295 lbs,True
 202,2026,5193725,Ross Johnston,OL,54,Junior,"6' 6""",315 lbs,True
-202,2026,5295930,Trequan Jones,RB,20,Senior,"5' 9""",180 lbs,True
+202,2026,5295930,Trequan Jones,RB,3,Senior,"5' 9""",180 lbs,True
 202,2026,5162991,Ryley Kester,OL,69,Freshman,"6' 3""",290 lbs,True
 202,2026,5302754,Courtney Lewis Jr.,WR,18,Freshman,"6' 0""",170 lbs,True
 202,2026,5219789,Josh Love,OL,76,Sophomore,"6' 2""",295 lbs,True
@@ -44,23 +45,22 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 202,2026,5229589,Javon Ross,WR,9,Junior,"5' 8""",170 lbs,True
 202,2026,5281030,Joshua Rushing,WR,13,Freshman,"6' 3""",195 lbs,True
 202,2026,5217701,Jackson Shockley,TE,87,Freshman,"6' 3""",235 lbs,True
-202,2026,4710860,Oran Singleton Jr.,WR,2,Senior,"6' 0""",165 lbs,True
+202,2026,4710860,Oran Singleton Jr.,WR,2,Senior,"5' 8""",165 lbs,True
 202,2026,5146727,Josh Smith,WR,15,Sophomore,"6' 4""",225 lbs,True
 202,2026,5390303,Chaden Sullivan,OL,63,Junior,"6' 2""",300 lbs,True
-202,2026,4871069,Micah Tease,WR,3,Junior,"6' 0""",190 lbs,True
 202,2026,5121616,Grayson Tempest,WR,19,Senior,"5' 10""",190 lbs,True
 202,2026,5222570,Luke Tevis,TE,86,Freshman,"6' 5""",240 lbs,True
 202,2026,5265523,Kelvin Washington,RB,22,Freshman,"5' 9""",170 lbs,True
 202,2026,4833593,William Alexander,LB,33,Junior,"6' 2""",230 lbs,True
 202,2026,5257712,Hudson Ball,DL,32,Sophomore,"6' 3""",255 lbs,True
 202,2026,5219787,Caleb Bowers,LB,53,Sophomore,"6' 4""",240 lbs,True
-202,2026,5390301,Austin Bussman,S,47,Freshman,"5' 10""",185 lbs,True
-202,2026,5329824,Luke Bussman,S,46,Freshman,"5' 10""",185 lbs,True
+202,2026,5449381,Austin Bussmann,S,47,Freshman,"5' 10""",185 lbs,True
+202,2026,5449380,Luke Bussmann,S,46,Freshman,"5' 10""",185 lbs,True
 202,2026,5290272,Julian Byrd,CB,26,Freshman,"6' 1""",190 lbs,True
 202,2026,4888129,NuNu Campbell,CB,13,Senior,"5' 11""",180 lbs,True
 202,2026,5390300,Zach Claton,CB,39,Freshman,"6' 0""",170 lbs,True
 202,2026,5150130,Dax Collins,LB,9,Junior,"6' 0""",210 lbs,True
-202,2026,5315930,Raymir Coney,LB,18,Freshman,"6' 1""",225 lbs,True
+202,2026,5315930,Raymir Coney,LB,43,Freshman,"6' 1""",225 lbs,True
 202,2026,4683043,Thomas Davis,DL,15,Senior,"6' 2""",235 lbs,True
 202,2026,5289942,Carson Dempsey,DL,91,Freshman,"6' 3""",225 lbs,True
 202,2026,4900577,JD Drew,CB,3,Senior,"6' 0""",170 lbs,True
@@ -71,7 +71,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 202,2026,5084564,Jaylen George,DL,11,Senior,"6' 3""",295 lbs,True
 202,2026,5146966,Willie Goodwyn,CB,23,Sophomore,"5' 11""",185 lbs,True
 202,2026,5157259,Elijah Green,CB,7,Junior,"6' 2""",195 lbs,True
-202,2026,4917155,Korbyn Green,CB,8,Senior,"6' 0""",185 lbs,True
+202,2026,4917155,Korbyn Green,CB,18,Senior,"6' 0""",185 lbs,True
 202,2026,4431131,Devin Hightower,LB,24,Senior,"6' 1""",230 lbs,True
 202,2026,5224041,Dailen Howard,DL,88,Senior,"6' 1""",275 lbs,True
 202,2026,5207653,Rohon Kazadi,DB,37,Freshman,"6' 2""",190 lbs,True
@@ -88,13 +88,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 202,2026,5091837,Devin Robinson,DB,2,Junior,"6' 0""",210 lbs,True
 202,2026,5183808,Dedaunte Scott,S,12,Sophomore,"6' 0""",185 lbs,True
 202,2026,5258019,Sam Stone,LB,25,Freshman,"6' 1""",225 lbs,True
+202,2026,4871069,Micah Tease,CB,8,Junior,"6' 0""",190 lbs,True
 202,2026,4429028,Chris Thompson Jr.,LB,6,Senior,"6' 3""",245 lbs,True
 202,2026,4918128,C.J. Turner,LB,35,Junior,"6' 1""",220 lbs,True
 202,2026,5147932,Will Upshaw,DL,41,Sophomore,"6' 3""",255 lbs,True
-202,2026,5390299,Jack Watts,LB,38,Freshman,"6' 2""",225 lbs,True
 202,2026,5326900,Joel Bazinet,LS,41,Freshman,"5' 10""",210 lbs,True
 202,2026,5326901,Owen Carey,PK,10,Freshman,"6' 2""",215 lbs,True
-202,2026,5085399,Aidan Fedigan,LS,42,Senior,"5' 11""",205 lbs,True
+202,2026,5085399,Aidan Fedigan,LS,42,Senior,"5' 11""",215 lbs,True
 202,2026,5219794,Evan Guenthner,PK,95,Junior,"5' 10""",165 lbs,True
 202,2026,5085238,Marlon Hauck,PK,18,Senior,"6' 2""",200 lbs,True
 202,2026,5219783,Henry Simon,P,44,Sophomore,"6' 3""",205 lbs,True

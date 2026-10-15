@@ -3,7 +3,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2032,2026,5091003,Cameron Ambrose,OL,58,Senior,"6' 4""",275 lbs,True
 2032,2026,5379737,Josh Austin,OL,78,Freshman,"6' 4""",336 lbs,True
 2032,2026,5327235,Solomon Baggett,RB,23,Freshman,"5' 10""",196 lbs,True
-2032,2026,5218663,Boski Barrett,WR,13,Junior,"5' 11""",178 lbs,True
 2032,2026,4870601,Jaylen Bonelli,WR,10,Senior,"5' 11""",175 lbs,True
 2032,2026,5291661,Dallas Boozer,WR,81,Freshman,"6' 2""",175 lbs,True
 2032,2026,5221070,Ezra Burgess,TE,82,Junior,"6' 4""",243 lbs,True
@@ -11,6 +10,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2032,2026,4877014,Nana Burris,WR,0,Senior,"5' 11""",195 lbs,True
 2032,2026,5221048,Jabari Bush,TE,17,Junior,"6' 4""",230 lbs,True
 2032,2026,5092397,Landry Cannon,OL,74,Senior,"6' 4""",310 lbs,True
+2032,2026,5156215,Timothy Carter,RB,31,Senior,"6' 0""",215 lbs,True
 2032,2026,5126019,Talan Chandler,OL,53,Junior,"6' 2""",299 lbs,True
 2032,2026,5209930,Cade Channell,OL,51,Sophomore,"6' 5""",294 lbs,True
 2032,2026,4888886,Kenyon Clay,RB,5,Senior,"6' 1""",223 lbs,True
@@ -43,7 +43,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2032,2026,4868928,Wil Saxton,OL,50,Senior,"6' 3""",314 lbs,True
 2032,2026,5296209,Mason Schubert,QB,20,Sophomore,"6' 3""",188 lbs,True
 2032,2026,5311262,Cooper Sherrod,OL,69,Freshman,"6' 3""",305 lbs,True
-2032,2026,5221058,Damon Sisa,RB,30,Junior,"5' 8""",160 lbs,True
 2032,2026,5091355,Tristian Smith,OL,68,Senior,"6' 3""",319 lbs,True
 2032,2026,5149058,Devin Spencer,RB,4,Junior,"5' 10""",183 lbs,True
 2032,2026,5218650,Jeremy St-Hilaire,QB,12,Junior,"6' 4""",220 lbs,True
@@ -86,7 +85,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2032,2026,4869967,James Reed III,S,19,Senior,"5' 10""",187 lbs,True
 2032,2026,5258442,Ryan Reese,DT,54,Sophomore,"6' 2""",272 lbs,True
 2032,2026,5327495,Paul Risper,S,32,Freshman,"6' 1""",173 lbs,True
-2032,2026,5225574,Bryson Ross,S,12,Junior,"6' 3""",190 lbs,True
+2032,2026,5225574,Bryson Ross,CB,12,Junior,"6' 3""",190 lbs,True
 2032,2026,5154884,Makai Shahid,S,4,Senior,"6' 0""",197 lbs,True
 2032,2026,5300797,Elias Sherman,DT,92,Senior,"6' 1""",291 lbs,True
 2032,2026,5379741,TJ Spann,DT,99,Junior,"6' 3""",307 lbs,True
@@ -94,7 +93,8 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2032,2026,5262647,Lincoln Stueve,DE,90,Sophomore,"6' 3""",243 lbs,True
 2032,2026,5094086,Gavin Taylor,DE,30,Senior,"6' 2""",247 lbs,True
 2032,2026,5032145,AJ Thomas,DE,27,Senior,"6' 2""",242 lbs,True
-2032,2026,5221055,Clayton Amaya,PK,25,Junior,"5' 10""",199 lbs,True
+2032,2026,5271369,Rasheem Turner,LB,35,Freshman,"5' 10""",219 lbs,True
+2032,2026,5221055,Clayton Amaya,PK,30,Junior,"5' 10""",199 lbs,True
 2032,2026,5379739,Sam Boozer,LS,87,Freshman,"6' 3""",215 lbs,True
 2032,2026,5294519,Kyle Nill,LS,42,Sophomore,"6' 1""",205 lbs,True
 2032,2026,5224092,Riley Smith,LS,88,Junior,"6' 1""",205 lbs,True

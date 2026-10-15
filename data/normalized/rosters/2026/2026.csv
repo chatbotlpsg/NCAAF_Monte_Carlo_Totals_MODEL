@@ -5,7 +5,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2026,2026,5224355,Nate Branch,WR,1,Junior,"5' 9""",180 lbs,True
 2026,2026,5261754,Derick Brazil,WR,81,Junior,"6' 0""",175 lbs,True
 2026,2026,5397624,Cash Brown,WR,28,Freshman,"5' 10""",155 lbs,True
-2026,2026,5079360,JMarion Burnette,RB,48,Junior,"6' 2""",220 lbs,True
+2026,2026,5079360,J'Marion Burnette,RB,48,Junior,"6' 2""",220 lbs,True
 2026,2026,5327437,Kamron Burris,OL,74,Senior,"6' 5""",305 lbs,True
 2026,2026,5278135,Bronzden Chaffin,QB,15,Freshman,"6' 4""",235 lbs,True
 2026,2026,5294314,Doopah Coleman,WR,80,Sophomore,"5' 11""",195 lbs,True
@@ -26,7 +26,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2026,2026,5146664,Henry Hasselbeck,QB,8,Junior,"6' 3""",200 lbs,True
 2026,2026,5209334,Jamel Howse,TE,19,Freshman,"6' 4""",250 lbs,True
 2026,2026,5397628,Zalin Ingram,WR,82,Junior,"6' 3""",185 lbs,True
-2026,2026,5150276,Dazmin James,WR,83,Senior,"6' 2""",200 lbs,True
+2026,2026,5150276,Daz James,WR,83,Senior,"6' 2""",200 lbs,True
 2026,2026,5327439,Ben Jones,OL,55,Freshman,"6' 3""",295 lbs,True
 2026,2026,5290763,Nick Kashubara,OL,72,Freshman,"6' 4""",295 lbs,True
 2026,2026,5156152,Jaquari Lewis,RB,5,Sophomore,"5' 10""",205 lbs,True
@@ -35,7 +35,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2026,2026,4685469,Sam Mbake,WR,12,Senior,"6' 3""",205 lbs,True
 2026,2026,5397629,Ryan Morrison,WR,84,Junior,"6' 0""",180 lbs,True
 2026,2026,5280933,Caden Muskus,OL,60,Freshman,"6' 5""",300 lbs,True
-2026,2026,5294317,Big Al Oliver,OL,70,Sophomore,"6' 5""",305 lbs,True
+2026,2026,5294317,Al Oliver,OL,70,Sophomore,"6' 5""",305 lbs,True
 2026,2026,5271376,Kabran Paul,WR,88,Freshman,"5' 10""",165 lbs,True
 2026,2026,5300543,Sam Pickett III,WR,0,Sophomore,"6' 0""",185 lbs,True
 2026,2026,4877456,Tyriq Poindexter,OL,78,Senior,"6' 5""",310 lbs,True
@@ -70,7 +70,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2026,2026,5295635,Jordan Harris,DL,11,Freshman,"6' 6""",235 lbs,True
 2026,2026,5121706,Ki'Shawn Harvey,DL,95,Senior,"6' 1""",320 lbs,True
 2026,2026,5147728,Devin Henderson,DB,7,Junior,"5' 10""",200 lbs,True
-2026,2026,4808742,JaCari Henderson,DB,3,Senior,"6' 0""",180 lbs,True
+2026,2026,4808742,Ja'Cari Henderson,DB,3,Senior,"6' 0""",180 lbs,True
 2026,2026,5397623,Kevin Henderson,LB,16,Junior,"5' 11""",215 lbs,True
 2026,2026,5277541,Xavier Joseph,DL,97,Freshman,"6' 2""",255 lbs,True
 2026,2026,5159012,BJ Junius,LB,22,Freshman,"6' 0""",205 lbs,True
@@ -78,15 +78,15 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2026,2026,5276935,Manny Lewis,DL,44,Freshman,"6' 2""",280 lbs,True
 2026,2026,5056145,Ricky Lolohea,DL,96,Junior,"6' 3""",310 lbs,True
 2026,2026,5102614,Randy Marion III,LB,49,Senior,"6' 0""",210 lbs,True
-2026,2026,4683118,JaDen McBurrows,DB,1,Senior,"5' 11""",195 lbs,True
+2026,2026,4683118,Ja'Den McBurrows,DB,1,Senior,"5' 11""",195 lbs,True
 2026,2026,5263781,Michael Mcclenton,LB,52,Freshman,"6' 0""",230 lbs,True
 2026,2026,5278634,Dorrian Medley,DB,30,Freshman,"6' 3""",175 lbs,True
 2026,2026,5083898,Alex Mitchell,LB,15,Senior,"6' 1""",235 lbs,True
 2026,2026,5078159,Colton Phares,LB,10,Senior,"6' 2""",225 lbs,True
 2026,2026,5216581,Caleb Pitts,DL,94,Sophomore,"6' 2""",265 lbs,True
-2026,2026,4826504,Kaleb Purdy,DB,26,Senior,"5' 11""",185 lbs,True
+2026,2026,4826504,Kaleb Purdy,DB,25,Senior,"5' 11""",185 lbs,True
 2026,2026,5261482,Joe Reddish,DB,21,Senior,"5' 11""",190 lbs,True
-2026,2026,4870241,Ammo Robinson,DB,9,Senior,"6' 0""",180 lbs,True
+2026,2026,4870241,Ahmad Robinson,DB,9,Senior,"6' 0""",180 lbs,True
 2026,2026,5155313,Caleb Sandstrom,DL,41,Senior,"6' 3""",250 lbs,True
 2026,2026,5224443,Carson Sloan,LB,5,Junior,"6' 2""",230 lbs,True
 2026,2026,5295917,Keshawn Thomas,LB,13,Senior,"6' 1""",230 lbs,True

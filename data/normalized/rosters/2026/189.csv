@@ -12,12 +12,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 189,2026,4879925,Blane Cleaver,TE,89,Senior,"6' 2""",235 lbs,True
 189,2026,5226828,Isaiah Dawson,WR,6,Sophomore,"5' 8""",192 lbs,True
 189,2026,5147347,Austyn Dendy,RB,1,Sophomore,"6' 1""",230 lbs,True
+189,2026,5148876,MJ Dillard,OL,64,Sophomore,"6' 5""",280 lbs,True
 189,2026,5385752,Dylan Dreasky,QB,15,Freshman,"6' 2""",197 lbs,True
 189,2026,5147681,Gabe Funk,OL,65,Sophomore,"6' 6""",320 lbs,True
 189,2026,5211189,Vincent Giordano,OT,50,Freshman,"6' 5""",310 lbs,True
 189,2026,5246590,Derron Gray Jr.,TE,86,Freshman,"6' 4""",230 lbs,True
 189,2026,5194650,Alex Harris,OT,70,Sophomore,"6' 5""",320 lbs,True
-189,2026,5326942,Maddox Hunstad,TE,82,Freshman,"6' 5""",197 lbs,True
+189,2026,5326942,Maddox Hunstad,WR,82,Freshman,"6' 5""",197 lbs,True
 189,2026,5193300,Eli Jacon-Duffy,TE,8,Sophomore,"6' 4""",245 lbs,True
 189,2026,4912186,Trey Johnson,WR,3,Senior,"6' 0""",200 lbs,True
 189,2026,5385753,Jay Kastantin,QB,17,Junior,"6' 4""",235 lbs,True
@@ -42,21 +43,21 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 189,2026,5084763,Alexis Sanchez,G,78,Senior,"6' 3""",335 lbs,True
 189,2026,5207804,Jeremiah Scoby,TE,0,Sophomore,"6' 3""",218 lbs,True
 189,2026,5193284,Winn Sharp,WR,18,Sophomore,"6' 5""",200 lbs,True
-189,2026,5385760,Pierce St. Geme,WR,83,Sophomore,"5' 11""",186 lbs,True
+189,2026,5231360,Nick Sowell,WR,9,Senior,"6' 5""",205 lbs,True
+189,2026,5219021,Pierce St Geme,WR,83,Sophomore,"5' 11""",186 lbs,True
 189,2026,5302829,Trent Taylor,TE,84,Freshman,"6' 5""",260 lbs,True
 189,2026,5122032,James Thomas Jr.,G,77,Junior,"6' 5""",295 lbs,True
 189,2026,5219019,Josira Andrews,CB,26,Sophomore,"5' 10""",180 lbs,True
-189,2026,5236345,DeVenchi Arnold II,S,40,Freshman,"6' 1""",190 lbs,True
+189,2026,5236345,DeVenchi Arnold II,S,24,Freshman,"6' 1""",190 lbs,True
 189,2026,5167697,John Baker IV,DL,56,Freshman,"6' 5""",210 lbs,True
 189,2026,5193267,D'kyah Banks,S,15,Sophomore,"6' 5""",185 lbs,True
 189,2026,5295262,Garrison Blair,CB,37,Sophomore,"5' 10""",185 lbs,True
 189,2026,5093334,Myles Bradley,DE,23,Senior,"6' 0""",230 lbs,True
-189,2026,5227659,Drey Braxton,DB,41,Junior,"5' 10""",175 lbs,True
+189,2026,5227659,Drey Braxton,DB,1,Junior,"5' 10""",175 lbs,True
 189,2026,5291854,Bryce Brewster,DL,90,Freshman,"6' 3""",245 lbs,True
 189,2026,4685288,Selah Brown,DL,88,Senior,"6' 2""",295 lbs,True
 189,2026,5281468,Caden Carter,LB,30,Freshman,"6' 1""",215 lbs,True
 189,2026,5290982,Cedarius Christian,DB,21,Freshman,"6' 1""",190 lbs,True
-189,2026,5385756,MJ Dillard,DT,43,Sophomore,"6' 5""",280 lbs,True
 189,2026,5327292,Samuel Dossous,DL,28,Freshman,"6' 3""",230 lbs,True
 189,2026,5209954,Elijah Durham-Smith,DL,52,Freshman,"6' 2""",250 lbs,True
 189,2026,5225939,Sanders Ellis,LB,6,Junior,"6' 2""",250 lbs,True
@@ -74,7 +75,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 189,2026,5258471,Jahai Johnson,S,19,Freshman,"6' 1""",200 lbs,True
 189,2026,4594448,JoJo Johnson,CB,2,Senior,"6' 0""",188 lbs,True
 189,2026,4832020,Kade Kostus,DL,4,Senior,"6' 2""",265 lbs,True
-189,2026,5295261,Cashmire Lewis,LB,35,Freshman,"6' 4""",215 lbs,True
+189,2026,5295261,Cashmire Lewis,LB,8,Freshman,"6' 4""",215 lbs,True
 189,2026,5265491,Quentin Lewis,DE,48,Freshman,"6' 2""",240 lbs,True
 189,2026,5385763,Trent Merrell,DL,93,Freshman,"6' 3""",250 lbs,True
 189,2026,4941006,Jabari Mitchell,LB,36,Junior,"6' 3""",225 lbs,True
@@ -98,4 +99,3 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 189,2026,4917426,Ryan Kingston,P,30,Senior,"6' 6""",220 lbs,True
 189,2026,5295260,Treyton McKee,PK,27,Freshman,"5' 11""",192 lbs,True
 189,2026,5385766,Drew Rosick,PK,97,Freshman,"6' 1""",180 lbs,True
-189,2026,5083074,Ethan Warner,PK,40,Senior,"5' 9""",192 lbs,True

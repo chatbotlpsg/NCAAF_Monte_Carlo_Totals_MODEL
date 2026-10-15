@@ -5,7 +5,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2641,2026,4695195,Jett Carpenter,TE,85,Senior,"6' 3""",255 lbs,True
 2641,2026,4867887,Terrance Carter Jr.,TE,7,Senior,"6' 2""",245 lbs,True
 2641,2026,5205094,Connor Carty,OL,61,Sophomore,"6' 4""",305 lbs,True
-2641,2026,4773919,Tommy Castellanos,QB,4,Senior,"5' 10""",190 lbs,True
+2641,2026,4773919,Thomas Castellanos,QB,4,Senior,"5' 10""",190 lbs,True
 2641,2026,4870663,Jordan Church,OL,54,Senior,"6' 4""",320 lbs,True
 2641,2026,5156431,Cash Cleveland,OL,52,Junior,"6' 2""",300 lbs,True
 2641,2026,5290505,Jacob Crow,OL,76,Freshman,"6' 9""",310 lbs,True
@@ -58,7 +58,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2641,2026,5077501,Miquel Dingle Jr.,S,21,Senior,"6' 2""",220 lbs,True
 2641,2026,5147221,Malik Esquerra,S,24,Junior,"6' 3""",210 lbs,True
 2641,2026,5303727,Amarie Fleming,LB,56,Junior,"6' 2""",230 lbs,True
-2641,2026,5195456,Brock Golwas,LB,11,Sophomore,"6' 1""",240 lbs,True
+2641,2026,5195456,Brock Golwas,LB,45,Sophomore,"6' 1""",240 lbs,True
 2641,2026,5141476,Tarrion Grant,CB,12,Junior,"6' 2""",190 lbs,True
 2641,2026,5385736,Jamarn Grant II,S,30,Junior,"6' 2""",205 lbs,True
 2641,2026,5280093,LaDamion Guyton,LB,32,Freshman,"6' 4""",235 lbs,True

@@ -55,7 +55,6 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2226,2026,5222535,Hector Chavez,LB,43,Sophomore,"5' 10""",215 lbs,True
 2226,2026,5093222,Corey Clark,DL,94,Senior,"6' 4""",310 lbs,True
 2226,2026,5121609,Jay Crable,DB,12,Senior,"6' 3""",240 lbs,True
-2226,2026,5295332,Dominick Davis,S,37,Sophomore,"6' 2""",180 lbs,True
 2226,2026,4870688,Wilky Denaud,DL,2,Senior,"6' 3""",285 lbs,True
 2226,2026,4685733,CJ Doggette Jr.,DL,1,Senior,"6' 2""",277 lbs,True
 2226,2026,5226224,Lebron Edmond,DL,91,Junior,"6' 4""",305 lbs,True
@@ -94,6 +93,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2226,2026,5295331,Darius Smith,DB,36,Sophomore,"5' 10""",180 lbs,True
 2226,2026,5390422,Larry Spring,LB,42,Freshman,"6' 1""",190 lbs,True
 2226,2026,4912300,Jayden Sweeney,S,22,Senior,"5' 11""",190 lbs,True
+2226,2026,5390421,Christopher Tank Jr.,DB,38,Freshman,"6' 2""",180 lbs,True
 2226,2026,5086201,Walker Adkinson,LS,45,Senior,"6' 2""",210 lbs,True
 2226,2026,5225888,Reed Chandley,P,91,Junior,"6' 1""",205 lbs,True
 2226,2026,5227383,Alex Grace,P,49,Junior,"6' 4""",200 lbs,True

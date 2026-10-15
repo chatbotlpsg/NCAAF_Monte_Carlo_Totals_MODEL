@@ -25,7 +25,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2711,2026,5074245,Broc Lowry,QB,12,Junior,"6' 1""",210 lbs,True
 2711,2026,5302873,Elijah Lucas,WR,17,Freshman,"6' 2""",200 lbs,True
 2711,2026,5086095,Terence Marshall,WR,11,Sophomore,"6' 2""",192 lbs,True
-2711,2026,5296166,Ofa Mataele,RB,24,Senior,"6' 0""",219 lbs,True
+2711,2026,5451048,Lolo Mataele,RB,24,Senior,"6' 0""",219 lbs,True
 2711,2026,5257316,Nolan Miller,OL,64,Freshman,"6' 3""",295 lbs,True
 2711,2026,5155273,Egypt Nelson,WR,8,Junior,"6' 4""",200 lbs,True
 2711,2026,5302874,Munachimdainanma Newman-Nwodika,OL,66,Freshman,"6' 3""",260 lbs,True
@@ -44,6 +44,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2711,2026,5276960,Donovan Triplett,RB,22,Freshman,"5' 7""",190 lbs,True
 2711,2026,5296170,Liam Vaughan,OL,58,Freshman,"6' 1""",295 lbs,True
 2711,2026,5319138,Ryan Westrich,OL,67,Freshman,"6' 6""",260 lbs,True
+2711,2026,4814926,Hunter Whitenack,OL,77,Senior,"6' 6""",340 lbs,True
 2711,2026,5294561,Austin Alexander,DE,4,Sophomore,"6' 3""",255 lbs,True
 2711,2026,5081838,Blair Alexander,DT,55,Senior,"6' 2""",270 lbs,True
 2711,2026,5195950,Brenden Anes,LB,0,Sophomore,"6' 2""",233 lbs,True
@@ -52,7 +53,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2711,2026,5279319,Max Baker,DE,46,Freshman,"6' 4""",279 lbs,True
 2711,2026,5300126,Cam'ron Barber,CB,17,Sophomore,"5' 10""",170 lbs,True
 2711,2026,4687453,Jori Benson,DT,90,Senior,"6' 3""",290 lbs,True
-2711,2026,5394435,Justyce Betts,LB,5,Sophomore,"5' 11""",220 lbs,True
+2711,2026,5394435,Justyce Betts,LB,10,Sophomore,"5' 11""",220 lbs,True
 2711,2026,5178602,Noah Bishop,DE,97,Sophomore,"6' 4""",245 lbs,True
 2711,2026,5167169,Freddy Brown,LB,36,Freshman,"5' 11""",215 lbs,True
 2711,2026,5394439,KJ Burley,DE,15,Sophomore,"6' 3""",245 lbs,True
@@ -67,16 +68,15 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2711,2026,5232069,Scoop Gardner Jr.,DE,2,Junior,"6' 1""",255 lbs,True
 2711,2026,5085007,Will Gerig,DE,9,Senior,"6' 4""",250 lbs,True
 2711,2026,5109794,Dalton Gustwiller,DL,96,Junior,"6' 3""",305 lbs,True
-2711,2026,5394437,Teegan Haines,LB,10,Junior,"6' 3""",210 lbs,True
+2711,2026,5394437,Teegan Haines,LB,39,Junior,"6' 3""",210 lbs,True
 2711,2026,5394444,Cody Haworth,DE,40,Freshman,"6' 4""",235 lbs,True
 2711,2026,4910683,August Johanningsmeier,DE,88,Senior,"6' 4""",280 lbs,True
-2711,2026,5394445,Tre Johnson,CB,48,Freshman,"6' 3""",160 lbs,True
-2711,2026,5296165,Amarian Louis,CB,22,Junior,"5' 8""",166 lbs,True
+2711,2026,5296165,Amarian Louis,S,22,Junior,"5' 8""",166 lbs,True
 2711,2026,5291699,Breck Mallory,LB,38,Freshman,"6' 2""",210 lbs,True
 2711,2026,5394438,Jermar McCarter,LB,11,Junior,"6' 1""",210 lbs,True
 2711,2026,5394440,Keegan McCue,S,30,Freshman,"5' 10""",170 lbs,True
 2711,2026,4816083,Daeh McCullough,S,14,Junior,"6' 1""",180 lbs,True
-2711,2026,5193129,CJ Miles Jr.,S,21,Sophomore,"6' 1""",201 lbs,True
+2711,2026,5193129,CJ Miles Jr.,CB,21,Sophomore,"6' 1""",201 lbs,True
 2711,2026,5147055,Carlos Mitchell Jr.,CB,37,Sophomore,"5' 9""",175 lbs,True
 2711,2026,4709449,Domanick Moon,LB,47,Senior,"6' 2""",235 lbs,True
 2711,2026,5282264,Brodon Moore,CB,16,Freshman,"5' 9""",165 lbs,True

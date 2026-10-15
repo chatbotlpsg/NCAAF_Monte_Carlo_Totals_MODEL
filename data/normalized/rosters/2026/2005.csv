@@ -3,12 +3,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2005,2026,5388383,Cole Anderson,OL,67,Sophomore,"6' 3""",315 lbs,True
 2005,2026,5238875,Jon Ashford,OL,72,Junior,"6' 2""",320 lbs,True
 2005,2026,5388388,Henry Barbisch,TE,82,Sophomore,"6' 5""",250 lbs,True
-2005,2026,5295009,Keegan Bass,WR,22,Junior,"5' 9""",180 lbs,True
 2005,2026,5223152,Mitchell Blakeslee,TE,85,Senior,"6' 4""",260 lbs,True
 2005,2026,5388385,Alex Boyd,OL,76,Sophomore,"6' 4""",280 lbs,True
 2005,2026,5295030,Jonny Brambila,OL,62,Junior,"6' 3""",300 lbs,True
 2005,2026,5295031,Eli Campbell,OL,63,Sophomore,"6' 2""",310 lbs,True
-2005,2026,5388358,Caleb Cappuccio,WR,17,Sophomore,"5' 10""",175 lbs,True
 2005,2026,5295016,Harry Caskey,TE,87,Junior,"6' 2""",240 lbs,True
 2005,2026,5223117,Owen Chambers,WR,0,Senior,"5' 10""",195 lbs,True
 2005,2026,5223131,Rocco Conti,RB,44,Senior,"5' 8""",190 lbs,True
@@ -18,6 +16,8 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2005,2026,5223136,Nathan Elwood,OL,52,Senior,"6' 3""",290 lbs,True
 2005,2026,5223146,Alec Falk,OL,75,Senior,"6' 5""",315 lbs,True
 2005,2026,5388360,Chase Ferrell,RB,21,Sophomore,"5' 6""",170 lbs,True
+2005,2026,5448159,Ian Fisher,OL,56,Senior,"6' 3""",285 lbs,True
+2005,2026,5449066,Howard Fisher IV,QB,4,,"5' 11""",170 lbs,True
 2005,2026,5295014,Astin Hange,WR,36,Junior,"5' 10""",175 lbs,True
 2005,2026,5295013,Mason Hayes,WR,18,Junior,"5' 11""",210 lbs,True
 2005,2026,5388387,Dominic Henning,TE,81,Sophomore,"6' 3""",245 lbs,True
@@ -37,16 +37,16 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2005,2026,5388370,Oswaldo Morales,RB,34,Sophomore,"5' 9""",210 lbs,True
 2005,2026,5238874,Brandon Nazworth,OL,73,Junior,"6' 3""",290 lbs,True
 2005,2026,5295025,Justus Perales,OL,54,Junior,"6' 2""",280 lbs,True
-2005,2026,5388373,Jack Petrissans,TE,42,Sophomore,"6' 2""",230 lbs,True
 2005,2026,5388367,Major Quin,WR,30,Sophomore,"5' 10""",185 lbs,True
 2005,2026,5295015,Luke Rauh,FB,24,Junior,"6' 0""",210 lbs,True
 2005,2026,5388378,Michael Ray,OL,53,Sophomore,"6' 4""",300 lbs,True
-2005,2026,5223134,Henry Rickels,OL,50,Senior,"6' 3""",300 lbs,True
 2005,2026,5295032,Caden Romo,OL,64,Junior,"6' 3""",245 lbs,True
 2005,2026,5295035,Marcus Roser,OL,71,Junior,"6' 2""",280 lbs,True
 2005,2026,5388359,Keegan Sack,WR,20,Sophomore,"5' 10""",210 lbs,True
 2005,2026,5295037,Brody Smith,OL,57,Junior,"6' 3""",290 lbs,True
 2005,2026,5309670,Cade Spradling,QB,7,Sophomore,"6' 0""",200 lbs,True
+2005,2026,5223138,Griffin Stalfort,TE,53,Senior,"6' 2""",290 lbs,True
+2005,2026,5388382,Jake Sulzberger,OL,66,Sophomore,"6' 4""",275 lbs,True
 2005,2026,5388391,Muhammad Alcine,DL,90,Sophomore,"6' 2""",255 lbs,True
 2005,2026,5295027,Chaz Barnett,DL,59,Junior,"6' 5""",260 lbs,True
 2005,2026,5237178,Nick Beckwith,DB,7,Junior,"6' 0""",205 lbs,True
@@ -70,6 +70,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2005,2026,5388361,Clayton Hart,DB,21,Sophomore,"6' 1""",195 lbs,True
 2005,2026,5223109,Houston Hendrix,DB,19,Senior,"6' 1""",205 lbs,True
 2005,2026,5223124,Isaac Hubert,LB,30,Senior,"6' 1""",225 lbs,True
+2005,2026,5449000,Mikey Inweh,DB,15,Freshman,"6' 4""",205 lbs,True
 2005,2026,5232660,Korey Johnson,DB,2,Junior,"6' 0""",195 lbs,True
 2005,2026,5295004,Roger Jones Jr.,DB,5,Junior,"5' 10""",184 lbs,True
 2005,2026,5388369,Andrew Jurasek,LB,32,Sophomore,"5' 11""",235 lbs,True
@@ -88,14 +89,13 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2005,2026,5307878,Ehimen Oyamendan,DB,22,Sophomore,"5' 10""",190 lbs,True
 2005,2026,5209189,Cade Paterson,DB,23,Sophomore,"5' 11""",195 lbs,True
 2005,2026,5309671,Alexander Perez,DB,26,Sophomore,"5' 10""",200 lbs,True
-2005,2026,5223156,Lukia Rawls Jr.,DL,91,Senior,"5' 11""",280 lbs,True
-2005,2026,5306441,RJ Reedus,DB,11,Sophomore,"5' 10""",185 lbs,True
 2005,2026,5238872,Jaylin Reese,LB,45,Junior,"5' 11""",235 lbs,True
 2005,2026,5295041,Samuel Rhoades V,DE,84,Junior,"6' 3""",240 lbs,True
 2005,2026,5295003,Mikhail Seiken,DB,4,Junior,"5' 11""",190 lbs,True
+2005,2026,5388365,Ethan Stannard,DB,27,Sophomore,"5' 11""",195 lbs,True
 2005,2026,5309674,Carter Cremascoli,PK,90,Sophomore,"5' 11""",210 lbs,True
 2005,2026,5238880,Rocco D'Angelo,P,98,Junior,"5' 11""",180 lbs,True
 2005,2026,5238879,Will Duncan,P,94,Junior,"6' 0""",220 lbs,True
-2005,2026,4032497,Jake Helms,LS,42,Junior,"6' 0""",210 lbs,True
+2005,2026,4032497,Jake Helms,LS,46,Junior,"6' 0""",210 lbs,True
 2005,2026,5238870,Jacob Medina,PK,39,Junior,"5' 10""",170 lbs,True
 2005,2026,5165749,Rip Perez,P,91,Senior,"6' 2""",200 lbs,True

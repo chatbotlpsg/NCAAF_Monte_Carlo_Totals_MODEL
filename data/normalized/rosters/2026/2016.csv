@@ -24,7 +24,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2016,2026,5300427,Trevon Martin,WR,82,Junior,"5' 11""",165 lbs,True
 2016,2026,5441672,Atamai Matau,OL,75,Sophomore,"6' 4""",345 lbs,True
 2016,2026,5441668,Jayden McCarroll,OL,55,Freshman,"6' 3""",305 lbs,True
-2016,2026,5300389,Carl McDonald Jr,RB,22,Sophomore,"5' 8""",180 lbs,True
+2016,2026,5300389,Carl McDonald Jr.,RB,22,Sophomore,"5' 8""",180 lbs,True
 2016,2026,5441655,Lauria McDuffey,RB,27,Sophomore,"5' 9""",175 lbs,True
 2016,2026,5441658,Anthony Morgan,RB,29,Freshman,"5' 10""",215 lbs,True
 2016,2026,5300409,Jaden Nguyen,OL,58,Senior,"6' 3""",315 lbs,True
@@ -56,7 +56,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2016,2026,5441662,Dajuan Culbert,DB,36,Freshman,"6' 0""",165 lbs,True
 2016,2026,5423860,Jordan Daniel,LB,13,Junior,"6' 3""",217 lbs,True
 2016,2026,5441667,Dedrick Davis,DB,49,Freshman,"5' 11""",170 lbs,True
-2016,2026,5441646,Jayden Davis,LB,8,Sophomore,"6' 1""",224 lbs,True
+2016,2026,5225760,Jayden Davis,LB,8,Sophomore,"6' 1""",224 lbs,True
 2016,2026,5300404,Tony Deloach,DL,95,Senior,"6' 2""",295 lbs,True
 2016,2026,5159993,Mahamadou Diarra,LB,33,Senior,"6' 0""",208 lbs,True
 2016,2026,5159991,Tayvion Haney,DB,2,Senior,"6' 1""",180 lbs,True
@@ -68,12 +68,12 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2016,2026,5441663,Damon Joseph,CB,39,Sophomore,"5' 10""",175 lbs,True
 2016,2026,4887170,Xavier Kately,DB,23,Senior,"6' 1""",200 lbs,True
 2016,2026,5441647,Kyshawn Kimble,DL,10,Junior,"6' 1""",250 lbs,True
-2016,2026,5300385,Patrick Kince Jr,CB,6,Senior,"6' 2""",190 lbs,True
+2016,2026,5300385,Patrick Kince Jr.,CB,6,Senior,"6' 2""",190 lbs,True
 2016,2026,5300395,Ernest Lyons,CB,29,Sophomore,"6' 0""",180 lbs,True
 2016,2026,5222909,Elijah Matthews,CB,17,Junior,"6' 0""",190 lbs,True
 2016,2026,5300406,Kenyen McKanstry,DL,11,Junior,"6' 4""",215 lbs,True
 2016,2026,5096940,Geoffreyy McKelton,DB,5,Senior,"6' 1""",185 lbs,True
-2016,2026,5441648,Jaylen McRoy,DB,14,Senior,"5' 10""",187 lbs,True
+2016,2026,5300397,Jaylen McRoy,DB,30,Junior,"5' 10""",187 lbs,True
 2016,2026,5441657,Jermaine McRoy,DB,28,Junior,"5' 10""",195 lbs,True
 2016,2026,5300423,Deshawn Palmer,DL,88,Senior,"6' 2""",310 lbs,True
 2016,2026,5441653,Ayindae Pugh,LB,22,Freshman,"6' 0""",215 lbs,True
@@ -85,7 +85,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 2016,2026,5226595,Derald Spears Jr,DB,19,Freshman,"6' 0""",194 lbs,True
 2016,2026,5441656,Jaeden Spelmon,DB,27,Freshman,"6' 0""",165 lbs,True
 2016,2026,5164613,Gideon Spottsville,DL,0,Senior,"6' 4""",270 lbs,True
-2016,2026,5441649,Eric Thomas Jr,DL,15,Junior,"6' 3""",245 lbs,True
+2016,2026,5159985,Eric Thomas Jr.,DL,15,Junior,"6' 3""",245 lbs,True
 2016,2026,5300401,Devin Tribble,DB,38,Sophomore,"5' 10""",190 lbs,True
 2016,2026,5166733,Antoine Washington,DL,46,Senior,"6' 4""",240 lbs,True
 2016,2026,5300402,Simeon Washington,DB,41,Sophomore,"6' 2""",190 lbs,True

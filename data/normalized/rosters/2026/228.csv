@@ -1,6 +1,8 @@
 espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,weight,active
+228,2026,5198288,Chance Barclay,OL,70,Freshman,"6' 4""",295 lbs,True
 228,2026,5079324,Christian Bentancur,TE,87,Junior,"6' 4""",250 lbs,True
 228,2026,5198246,Gavin Blanchard,OL,51,Sophomore,"6' 2""",305 lbs,True
+228,2026,5371968,Cam Blivens,WR,83,Freshman,"6' 1""",195 lbs,True
 228,2026,5200187,Brock Bradley,QB,5,Freshman,"6' 0""",190 lbs,True
 228,2026,5148628,Logan Brooking,TE,7,Sophomore,"6' 4""",240 lbs,True
 228,2026,5159874,Colson Brown,QB,9,Senior,"6' 3""",205 lbs,True
@@ -28,7 +30,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 228,2026,5150561,Olsen Patt-Henry,TE,11,Senior,"6' 3""",245 lbs,True
 228,2026,5081434,Trent Pearman,QB,14,Senior,"6' 0""",190 lbs,True
 228,2026,5081447,Chapman Pendergrass,OL,65,Senior,"6' 3""",295 lbs,True
-228,2026,4569925,Dietrick Pennington,OL,59,Senior,"6' 5""",355 lbs,True
+228,2026,4569925,Dietrick Pennington,OL,91,Senior,"6' 5""",355 lbs,True
 228,2026,5156116,Juju Preston,WR,10,Sophomore,"6' 0""",155 lbs,True
 228,2026,5294144,Jack Purkerson,WR,27,Senior,"5' 7""",160 lbs,True
 228,2026,4918456,Ian Reed,OL,54,Senior,"6' 6""",305 lbs,True
@@ -42,13 +44,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 228,2026,5081408,Grady Sherrill,WR,89,Senior,"5' 10""",185 lbs,True
 228,2026,5150559,Bryce Smith,OL,62,Senior,"6' 3""",280 lbs,True
 228,2026,5225740,Tristan Smith,WR,3,Senior,"6' 5""",210 lbs,True
-228,2026,5300508,Danny Stein,OL,61,Sophomore,"6' 3""",260 lbs,True
 228,2026,5121793,Peyton Streko,RB,23,Senior,"5' 10""",195 lbs,True
 228,2026,5304424,Luke Stubbs,WR,80,Senior,"6' 2""",200 lbs,True
 228,2026,5081452,Clay Swinney,WR,88,Senior,"5' 10""",175 lbs,True
 228,2026,5146839,Elyjah Thurmon,OL,52,Junior,"6' 4""",325 lbs,True
-228,2026,4914980,Cole Turner,WR,22,Senior,"6' 1""",190 lbs,True
-228,2026,4899369,Christopher Vizzina,QB,17,Senior,"6' 4""",210 lbs,True
 228,2026,5141349,Amare Adams,DT,95,Sophomore,"6' 4""",305 lbs,True
 228,2026,4685243,Jeremiah Alexander,LB,7,Senior,"6' 2""",235 lbs,True
 228,2026,5214985,Logan Anderson,LB,24,Sophomore,"6' 2""",225 lbs,True
@@ -59,6 +58,7 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 228,2026,5371966,Andy Burburija,DT,56,Junior,"6' 2""",305 lbs,True
 228,2026,4870643,Vic Burley,DT,45,Senior,"6' 4""",315 lbs,True
 228,2026,5194806,Jerome Carter III,S,6,Junior,"6' 1""",195 lbs,True
+228,2026,5209349,Kam Cody,DT,54,Freshman,"6' 3""",295 lbs,True
 228,2026,5228883,Tyler Conner,DB,35,Senior,"5' 11""",185 lbs,True
 228,2026,5081438,Fletcher Cothran,LB,50,Senior,"6' 3""",220 lbs,True
 228,2026,5079375,Noah Dixon,S,27,Junior,"6' 1""",195 lbs,True

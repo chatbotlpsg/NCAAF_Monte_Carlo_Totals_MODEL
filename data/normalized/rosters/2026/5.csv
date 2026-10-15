@@ -7,11 +7,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,4920191,Marquise Collins,RB,10,Junior,"5' 9""",210 lbs,True
 5,2026,5102586,Keyon Cox,OL,77,Junior,"6' 5""",305 lbs,True
 5,2026,5122390,KJ Daniels,WR,6,Sophomore,"5' 10""",170 lbs,True
-5,2026,5296039,Vanden Dugger,QB,12,Freshman,"6' 3""",205 lbs,True
 5,2026,5252197,Jaylen Elder,WR,12,Sophomore,"5' 11""",160 lbs,True
 5,2026,5078812,Antonio Ferguson,TE,85,Junior,"6' 3""",235 lbs,True
 5,2026,5155750,CD Gill,WR,13,Freshman,"5' 7""",160 lbs,True
-5,2026,5398670,Vili Haapsalo,TE,86,Freshman,"6' 6""",230 lbs,True
+5,2026,5449383,Vili Haapasalo,TE,86,Freshman,"6' 6""",230 lbs,True
 5,2026,5278427,Hudson Higgins,RB,21,Freshman,"5' 9""",180 lbs,True
 5,2026,5162395,Jailen Holmes,WR,14,Senior,"5' 10""",180 lbs,True
 5,2026,5081640,Scott Isacks,TE,44,Senior,"6' 4""",250 lbs,True
@@ -25,8 +24,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,5119262,Barrett Maddox,OL,55,Junior,"6' 6""",325 lbs,True
 5,2026,5193467,Kade Martin,OL,69,Sophomore,"6' 4""",310 lbs,True
 5,2026,4876855,Kyrik Mason,OL,71,Senior,"6' 4""",305 lbs,True
-5,2026,5272712,Brogan Mcnab,WR,17,Freshman,"5' 10""",190 lbs,True
+5,2026,5272712,Brogan McNab,WR,17,Freshman,"5' 11""",190 lbs,True
 5,2026,4897730,Bam McReynolds,RB,3,Senior,"5' 7""",190 lbs,True
+5,2026,5096393,Gage Messick,TE,48,Senior,"6' 3""",230 lbs,True
 5,2026,5092470,Ty Mims,WR,0,Senior,"5' 9""",185 lbs,True
 5,2026,5393807,Jayson Moll,RB,26,Freshman,"5' 7""",175 lbs,True
 5,2026,5393808,JR Mosley,RB,28,Freshman,"5' 10""",210 lbs,True
@@ -39,9 +39,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,5296044,Nelson Ramirez,OL,78,Senior,"6' 6""",335 lbs,True
 5,2026,5393813,Hudson Reed,OL,52,Freshman,"6' 5""",300 lbs,True
 5,2026,5219011,EJ Reid,WR,4,Sophomore,"5' 10""",180 lbs,True
-5,2026,5157260,Samuel Riddy,OL,79,Junior,"6' 5""",330 lbs,True
+5,2026,5157260,Samuel Riddy,OL,79,Sophomore,"6' 5""",330 lbs,True
 5,2026,5393806,Rashad Robinson,RB,20,Freshman,"5' 9""",210 lbs,True
-5,2026,4918110,Roderick Robinson II,RB,2,Junior,"6' 1""",235 lbs,True
+5,2026,4918110,Rod Robinson II,RB,2,Junior,"6' 1""",235 lbs,True
 5,2026,5197123,Nate Rogers,QB,16,Sophomore,"5' 10""",190 lbs,True
 5,2026,5157261,Ja'Vin Simpkins,RB,7,Junior,"5' 9""",185 lbs,True
 5,2026,5327675,Jayden Skelton,WR,15,Freshman,"5' 9""",170 lbs,True
@@ -53,9 +53,9 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,5393812,Chimenum Ajinwo,DB,36,Freshman,"5' 11""",185 lbs,True
 5,2026,5393811,Colby Archie,LB,32,Junior,"6' 2""",220 lbs,True
 5,2026,5154217,Que Billingsley,DB,6,Junior,"6' 0""",190 lbs,True
-5,2026,5219701,Jacoby Bridges,LB,49,Sophomore,"6' 1""",235 lbs,True
 5,2026,5194316,Chris Burge,DE,59,Sophomore,"6' 3""",250 lbs,True
 5,2026,5092287,Muaaz Byard,LB,35,Senior,"6' 2""",230 lbs,True
+5,2026,5085899,Cal Camp,DB,12,Sophomore,"6' 3""",205 lbs,True
 5,2026,5327481,Malachi Character,LB,19,Freshman,"6' 1""",210 lbs,True
 5,2026,5393810,Rhett Cofer,LB,31,Freshman,"6' 1""",210 lbs,True
 5,2026,5194310,Myles Cook,DE,56,Sophomore,"6' 2""",285 lbs,True
@@ -78,11 +78,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,5157112,Raymond Macias,DL,99,Sophomore,"6' 1""",310 lbs,True
 5,2026,5193338,J'Quan Mason,DE,58,Sophomore,"6' 4""",240 lbs,True
 5,2026,5152798,Anta'Veon McKenzie,DB,11,Junior,"6' 1""",195 lbs,True
-5,2026,5096393,Gage Messick,LB,26,Senior,"6' 3""",230 lbs,True
 5,2026,5149746,Kyle Mosley,DT,54,Sophomore,"6' 1""",305 lbs,True
 5,2026,5085244,Gavin Nelson,DL,96,Senior,"6' 5""",295 lbs,True
 5,2026,5232192,Noah Nelson,DL,9,Senior,"6' 5""",295 lbs,True
-5,2026,5195616,Jo Pierce,DB,0,Freshman,"6' 2""",210 lbs,True
+5,2026,5195616,Jo'Tavion Pierce,DB,0,Freshman,"6' 2""",210 lbs,True
 5,2026,5167188,Elijah Pratt,DB,12,Freshman,"5' 11""",180 lbs,True
 5,2026,5302755,Jordin Price,DB,27,Freshman,"5' 9""",170 lbs,True
 5,2026,5212634,Sterling Sanders,DL,52,Freshman,"6' 5""",305 lbs,True
@@ -93,9 +92,10 @@ espn_team_id,season,espn_athlete_id,player_name,position,jersey,class,height,wei
 5,2026,5147199,Guylijah Theodule,DB,2,Junior,"6' 2""",175 lbs,True
 5,2026,5079741,Jaylen Thompson,DB,25,Sophomore,"6' 2""",210 lbs,True
 5,2026,5220656,Courage Ugo,DB,22,Senior,"6' 0""",190 lbs,True
-5,2026,5150930,Evan Bishop,LS,46,Junior,"6' 0""",210 lbs,True
+5,2026,5150930,Evan Bishop,LS,50,Junior,"6' 0""",210 lbs,True
 5,2026,5151663,Jonah Delange,PK,39,Senior,"6' 0""",170 lbs,True
 5,2026,5092221,Badger Hargett,P,20,Junior,"5' 10""",190 lbs,True
-5,2026,5398669,Noah Medlen,LS,47,Freshman,"6' 1""",235 lbs,True
+5,2026,5398669,Noah Medlen,LS,53,Freshman,"6' 1""",235 lbs,True
 5,2026,5257620,Owen Simpson,PK,35,Sophomore,"6' 1""",190 lbs,True
+5,2026,4898589,Oliver Straw,P,46,Senior,"6' 2""",210 lbs,True
 5,2026,5393809,Carson Tinsley,P,30,Freshman,"6' 1""",200 lbs,True
